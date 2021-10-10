@@ -109,7 +109,7 @@ http://qqtv.nl:8080/glista/glista/324957?checkedby:Porto Canal
 http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116239?checkedby:Fight Network
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-tv-logo-585DF08BF0-seeklogo.com.png",NBA TV
 http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8010?checkedby:NBA TV
-#EXTINF:-1,Toros TV
+#EXTINF:-1 tvg-logo="https://tvepg.eu/img/portugal/logo/toros_tv.png",Toros TV
 http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8021?checkedby:Toros TV
 
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2019/07/Helix_Logo.png",---Animacao---
@@ -124,7 +124,7 @@ http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8102?checkedby:Disney Junior
 http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116244?checkedby:Nickelodeon
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/ca/Baby_TV.png",Baby TV
 http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8105?checkedby:Baby TV
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Nick_Jr._2003_%28Stars%29.svg",Nick JR
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/473894525069164545/896863223054229614/2560px-Nick_Jr._logo_2009.svg.jpg",Nick JR
 http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8097?checkedby:Nick JR
 
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2019/07/Helix_Logo.png",---Cultura---
