@@ -99,7 +99,7 @@ http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116207?checkedby:Sp
 http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116209?checkedby:Sport TV 4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Logo_SportTV.svg/1024px-Logo_SportTV.svg.png",Sport TV 5
 http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8011?checkedby:Sport TV 5
-#EXTINF:-1,Canal 11
+#EXTINF:-1 tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOQAAADeCAMAAAAaaFx0AAAAdVBMVEX///8CAgIA0gAAAAAAzwCsrKwnJydBQUHR9dE6OjpeXl7f399KSkrD8sPg9+DLy8txcXGlpaWNjY18fHwsLCxv4G/H88c92T1mZmaEhIRZWVll32UyMjK1tbWrq6siIiL2/fYp1ymTk5MdHR3a99rExMTm5uaTI0JDAAACVUlEQVR4nO3d7U4aURSGUesULdYqVdoiil+tvf9LbGIKTBPhDHufseis5+dkwsviJKKBxIMDSZIkvbeubsbVmy4Ko4tp/dHx6ea9SdNDtwXkqI/Ru23ID9VrRkVkD6NHkPX3ICETo5A97O0vMv1GFUJWW+2ETK+19roj6612Q94UnlmxELJ0a6nj3ZDT5FwM+TU5CrkMcrcg/wlyt/YXuRgCchAnuRfI+7POtR4qi+w+el8D+f1j1w4rIh86r36qgzzsWkXkj66bkJCviXz5ffKdIQdxkpCQbx5Z+mWgMrJU60WoiCz1ysgvkH39PfnGkIM4SciNQUL66bqpiidZ+spPqxrIu/Ptfa6HbJ3kVWG1LrL4eei8HnKHT5pbL20NZKHmpBdkaRUSEhISEvJ/Imcdv/BUGdlxtBJycbG1x6OmB+T55HJr86YustRpH8hSiyEgR5CQoSAhE0FCxoKETAQJGQsSMhEkZCxIyESQkLEgIRNBQsaChEwECRkLEjIRJGQsSMhEkJCxICETQULGgoRMBAkZCxIyESRkLEjIRJCQsSAhE0FCxoKETAQJGQsSMhEkZCxIyESQkLEgIRNBQsaChEwECRnrRWT2f/iUgoSMBQmZCBIyFiRkIkjIWJCQiSAhY0FCJoKEjAUJmQgSMhYkZCJIyFiQkIkgIWNBQiaChIwFCZkIEjIWJGQiSMhYx82y+friBuSq2/jec6P1Q5WQ49WdP+N7F5Nlj+uLv66/LWvdOlveOXuK7z33dDL72/z3+upq8/psffFq9fwuk6OSJA2nPwihtP/y6rKJAAAAAElFTkSuQmCC",Canal 11
 http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8001?checkedby:Canal 11
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/A_Bola_TV_logo.png",ABola TV
 http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8030?checkedby:ABola TV
@@ -133,8 +133,10 @@ http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8097?checkedby:Nick JR
 http://qqtv.nl:8080/glista/glista/26648?checkedby:National Geographic
 #EXTINF:-1 tvg-logo="https://canalhistoria.pt/wp-content/themes/canal-historia/img/logo-canalhistoria.png",Historia
 http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116257?checkedby:Historia
-#EXTINF:-1,Discovery Channel
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Discovery_Channel_2019.svg/revision/latest/scale-to-width-down/300?cb=20210519155203",Discovery Channel
 http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8042?checkedby:Discovery Channel
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/333/134/png-transparent-cbs-reality-reality-television-cbs-drama-television-channel-others-television-text-orange.png",CBS Reality
+http://qqtv.nl:8080/glista/glista/26592?checkedby:CBS Reality
 
 
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2019/07/Helix_Logo.png",---Motor---
