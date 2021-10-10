@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2019/07/Helix_Logo.png",---HELIX IPTV1---
+#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2019/07/Helix_Logo.png",---HELIX IPTV---
 :HELIX IPTV
 #EXTINF:-1 tvg-logo="https://media.rtp.pt/extra/wp-content/uploads/sites/22/2017/12/Captura-de-ecra%CC%83-2017-07-2-a%CC%80s-09.38.29-860x507-1515082913.jpg",RTP 1
 http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116160?checkedby:RTP 1
