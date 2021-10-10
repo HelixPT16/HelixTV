@@ -58,9 +58,9 @@ http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116299?checkedby:TV
 http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116285?checkedby:Fox
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Logo_Fox_Comedy_Logo.png",Fox Comedy
 http://ruzgariptv.us:8000/mahmutali/5334711453/86773?checkedby:Fox Comedy
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/FOXLifeLA.svg",Fox Life
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Fox_Life_pt_logo.PNG",Fox Life
 http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8078?checkedby:Fox Life
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/Fox_Movies_%28Asia%29.svg",Fox Movies
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/873344025713033217/ExHy0neU_400x400.jpg",Fox Movies
 http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8081?checkedby:Fox Movies
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Fox_Crime_logo.svg/1280px-Fox_Crime_logo.svg.png",Fox Crime
 http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116289?checkedby:Fox Crime
@@ -99,7 +99,7 @@ http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116207?checkedby:Sp
 http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116209?checkedby:Sport TV 4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Logo_SportTV.svg/1024px-Logo_SportTV.svg.png",Sport TV 5
 http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8011?checkedby:Sport TV 5
-#EXTINF:-1 tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOQAAADeCAMAAAAaaFx0AAAAdVBMVEX///8CAgIA0gAAAAAAzwCsrKwnJydBQUHR9dE6OjpeXl7f399KSkrD8sPg9+DLy8txcXGlpaWNjY18fHwsLCxv4G/H88c92T1mZmaEhIRZWVll32UyMjK1tbWrq6siIiL2/fYp1ymTk5MdHR3a99rExMTm5uaTI0JDAAACVUlEQVR4nO3d7U4aURSGUesULdYqVdoiil+tvf9LbGIKTBPhDHufseis5+dkwsviJKKBxIMDSZIkvbeubsbVmy4Ko4tp/dHx6ea9SdNDtwXkqI/Ru23ID9VrRkVkD6NHkPX3ICETo5A97O0vMv1GFUJWW+2ETK+19roj6612Q94UnlmxELJ0a6nj3ZDT5FwM+TU5CrkMcrcg/wlyt/YXuRgCchAnuRfI+7POtR4qi+w+el8D+f1j1w4rIh86r36qgzzsWkXkj66bkJCviXz5ffKdIQdxkpCQbx5Z+mWgMrJU60WoiCz1ysgvkH39PfnGkIM4SciNQUL66bqpiidZ+spPqxrIu/Ptfa6HbJ3kVWG1LrL4eei8HnKHT5pbL20NZKHmpBdkaRUSEhISEvJ/Imcdv/BUGdlxtBJycbG1x6OmB+T55HJr86YustRpH8hSiyEgR5CQoSAhE0FCxoKETAQJGQsSMhEkZCxIyESQkLEgIRNBQsaChEwECRkLEjIRJGQsSMhEkJCxICETQULGgoRMBAkZCxIyESRkLEjIRJCQsSAhE0FCxoKETAQJGQsSMhEkZCxIyESQkLEgIRNBQsaChEwECRnrRWT2f/iUgoSMBQmZCBIyFiRkIkjIWJCQiSAhY0FCJoKEjAUJmQgSMhYkZCJIyFiQkIkgIWNBQiaChIwFCZkIEjIWJGQiSMhYx82y+friBuSq2/jec6P1Q5WQ49WdP+N7F5Nlj+uLv66/LWvdOlveOXuK7z33dDL72/z3+upq8/psffFq9fwuk6OSJA2nPwihtP/y6rKJAAAAAElFTkSuQmCC",Canal 11
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/473894525069164545/896861728384630864/120px-Logo_Canal_11_FPF.svg.jpg",Canal 11
 http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8001?checkedby:Canal 11
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/A_Bola_TV_logo.png",ABola TV
 http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8030?checkedby:ABola TV
@@ -116,9 +116,9 @@ http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8021?checkedby:Toros TV
 :HELIX IPTV
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/67/Biggs_logo.png", Biggs
 http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8099?checkedby:Biggs
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Disney_channel_2019.svg",Disney Channel
+#EXTINF:-1 tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/10/Disney-Channel-Logo.jpg",Disney Channel
 http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8103?checkedby:Disney Channel
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/Disney_Junior.svg",Disney Junior
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Disney_Junior_logo.png/800px-Disney_Junior_logo.png",Disney Junior
 http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8102?checkedby:Disney Junior
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png",Nickelodeon
 http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116244?checkedby:Nickelodeon
@@ -150,9 +150,9 @@ http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8038?checkedby:Crime Investigation
 
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2019/07/Helix_Logo.png",---Musica---
 :HELIX IPTV
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/MTV_2021_Retro.svg",MTV
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/473894525069164545/896862133474705518/1280px-MTV-2021.svg.jpg",MTV
 http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8052?checkedby:MTV
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/MCM_Pop_2004.svg",MCM POP
+#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/473894525069164545/896862559834091560/200px-Logo-mcm-pop_2011.jpg",MCM POP
 http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8051?checkedby:MCM POP
 
 
