@@ -141,7 +141,7 @@ http://qqtv.nl:8080/glista/glista/26592?checkedby:CBS Reality
 
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2019/07/Helix_Logo.png",---Motor---
 :HELIX IPTV
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/Fuel_TV_2012.svg",Fuel TV
+#EXTINF:-1 tvg-logo="https://fuel.tv/images/find-us/fuel_tv_plus_150.png",Fuel TV
 http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8027?checkedby:Fuel TV
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Motorvision_TV_2010.png",Motorvision
 http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8003?checkedby:Motorvision
