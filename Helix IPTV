@@ -5,17 +5,17 @@
 #EXTINF:-1 tvg-logo="https://media.rtp.pt/extra/wp-content/uploads/sites/22/2017/12/Captura-de-ecra%CC%83-2017-07-2-a%CC%80s-09.38.29-860x507-1515082913.jpg",RTP 1
 http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116160?checkedby:RTP 1
 #EXTINF:-1 tvg-logo="https://media.rtp.pt/extra/wp-content/uploads/sites/22/2017/12/Captura-de-ecra%CC%83-2017-07-2-a%CC%80s-09.38.29-860x507-1515082913.jpg",RTP 2
-http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8133?checkedby:RTP 2
+http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/3999.ts?checkedby:iptvcat.com:RTP 2
 #EXTINF:-1 tvg-logo="https://media.rtp.pt/extra/wp-content/uploads/sites/22/2017/12/Captura-de-ecra%CC%83-2017-07-2-a%CC%80s-09.38.29-860x507-1515082913.jpg",RTP 3
 http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116164?checkedby:RTP 3
 #EXTINF:-1 tvg-logo="https://media.rtp.pt/extra/wp-content/uploads/sites/22/2017/12/Captura-de-ecra%CC%83-2017-07-2-a%CC%80s-09.38.29-860x507-1515082913.jpg",RTP Acores
 http://qqtv.nl:8080/glista/glista/26561?checkedby:RTP Acores
 #EXTINF:-1 tvg-logo="https://media.rtp.pt/extra/wp-content/uploads/sites/22/2017/12/Captura-de-ecra%CC%83-2017-07-2-a%CC%80s-09.38.29-860x507-1515082913.jpg",RTP Africa
-http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8128?checkedby:RTP Africa
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116167?checkedby:iptvcat.com:RTP Africa
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png",Sic
 http://qqtv.nl:8080/glista/glista/26558?checkedby:Sic
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/da/SIC_K_Portugal.png",Sic K
-http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8120?checkedby:Sic K
+http://coqtv.tv:8080/aibarauHxlMOmxOS/6w2pFCfwoW/116179?checkedby:iptvcat.com:Sic K
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/6a/Logo_sem_fundo_SIC_Mulher.png",Sic Mulher
 http://qqtv.nl:8080/glista/glista/26557?checkedby:Sic Mulhers
 #EXTINF:-1 tvg-logo="https://static.impresa.pt/sicnot/1827//assets/gfx/logo_hq_wide.png",Sic Noticias
@@ -37,7 +37,7 @@ http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116252?checkedby:24
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2019/07/Helix_Logo.png",---Filmes & Series---
 :HELIX IPTV
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png",AMC
-http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8092?checkedby:AMC
+http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/3980.ts?checkedby:iptvcat.com:AMC
 #EXTINF:-1 tvg-logo="https://www.axn.pt/sites/all/themes/responsive/responsive_sony_axn/logo.png",AXN HD
 http://coqtv.tv:8080/aibarauHxlMOmxOS/6w2pFCfwoW/116276?checkedby:iptvcat.com:AXN HD
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/AXN_Movies_logo.jpg/1200px-AXN_Movies_logo.jpg",AXN Movies HD
@@ -53,21 +53,21 @@ http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116294?checkedby:TV
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/TVCine-Emotion.png",TV Cine Emotion
 http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116303?checkedby:TV Cine Emotion
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TVCine-TOP.png",TV Cine Top
-http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116299?checkedby:TV Cine Top
+http://coqtv.tv:8080/aibarauHxlMOmxOS/6w2pFCfwoW/116299?checkedby:iptvcat.com:TV Cine Top
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/FOX_Logo.jpg",Fox
 http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116285?checkedby:Fox
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Logo_Fox_Comedy_Logo.png",Fox Comedy
 http://ruzgariptv.us:8000/mahmutali/5334711453/86773?checkedby:Fox Comedy
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Fox_Life_pt_logo.PNG",Fox Life
-http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8078?checkedby:Fox Life
+http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/3939.ts?checkedby:iptvcat.com:Fox Life
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/873344025713033217/ExHy0neU_400x400.jpg",Fox Movies
-http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8081?checkedby:Fox Movies
+http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/3996.ts?checkedby:iptvcat.com:Fox Movies
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Fox_Crime_logo.svg/1280px-Fox_Crime_logo.svg.png",Fox Crime
 http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116289?checkedby:Fox Crime
 #EXTINF:-1 tvg-logo="https://pplware.sapo.pt/wp-content/uploads/2019/06/NOS_03-720x389.jpg",NOS Studios
 http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8076?checkedby:NOS Studios
-#EXTINF:-1 tvg-logo="https://www.atelevisao.com/wp-content/uploads/2014/01/LOGO-HOLLYWOOD-620x343.jpg",Hollyood
-http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8048?checkedby:Hollyood
+#EXTINF:-1 tvg-logo="https://www.atelevisao.com/wp-content/uploads/2014/01/LOGO-HOLLYWOOD-620x343.jpg",Hollywood
+http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/3937.ts?checkedby:iptvcat.com:Hollyood
 #EXTINF:-1 tvg-logo="https://naoseinada.com.br/wp-content/uploads/2018/08/syfy-new-logo.png",Syfy
 http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116272?checkedby:Syfy
 
@@ -100,7 +100,7 @@ http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116209?checkedby:Sp
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Logo_SportTV.svg/1024px-Logo_SportTV.svg.png",Sport TV 5
 http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8011?checkedby:Sport TV 5
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/473894525069164545/896861728384630864/120px-Logo_Canal_11_FPF.svg.jpg",Canal 11
-http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8001?checkedby:Canal 11
+http://coqtv.tv:8080/aibarauHxlMOmxOS/6w2pFCfwoW/116227?checkedby:iptvcat.com:Canal 11
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/A_Bola_TV_logo.png",ABola TV
 http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8030?checkedby:ABola TV
 #EXTINF:-1 tvg-logo="https://portocanal.sapo.pt/uploads/cache/noticia_00078678-580x326.jpg",Porto Canal
@@ -108,22 +108,20 @@ http://qqtv.nl:8080/glista/glista/324957?checkedby:Porto Canal
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1200px-Fight_network_logo.svg.png",Fight Network
 http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116239?checkedby:Fight Network
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-tv-logo-585DF08BF0-seeklogo.com.png",NBA TV
-http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8010?checkedby:NBA TV
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Toros-movistar.png",Toros TV
-http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8021?checkedby:Toros TV
+http://qqtv.nl:8080/glista/glista/152464?checkedby:iptvcat.com:NBA TV
 
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2019/07/Helix_Logo.png",---Animacao---
 :HELIX IPTV
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/67/Biggs_logo.png", Biggs
-http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8099?checkedby:Biggs
+http://coqtv.tv:8080/aibarauHxlMOmxOS/6w2pFCfwoW/116248?checkedby:iptvcat.com:Biggs
 #EXTINF:-1 tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/10/Disney-Channel-Logo.jpg",Disney Channel
-http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8103?checkedby:Disney Channel
+http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/3968.ts?checkedby:iptvcat.com:Disney Channel
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Disney_Junior_logo.png/800px-Disney_Junior_logo.png",Disney Junior
-http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8102?checkedby:Disney Junior
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116247?checkedby:iptvcat.com:Disney Junior
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png",Nickelodeon
 http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116244?checkedby:Nickelodeon
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/ca/Baby_TV.png",Baby TV
-http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8105?checkedby:Baby TV
+http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/3979.ts?checkedby:iptvcat.com:Baby TV
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/473894525069164545/896863223054229614/2560px-Nick_Jr._logo_2009.svg.jpg",Nick JR
 http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8097?checkedby:Nick JR
 
@@ -134,7 +132,7 @@ http://qqtv.nl:8080/glista/glista/26648?checkedby:National Geographic
 #EXTINF:-1 tvg-logo="https://canalhistoria.pt/wp-content/themes/canal-historia/img/logo-canalhistoria.png",Historia
 http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116257?checkedby:Historia
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Discovery_Channel_2019.svg/revision/latest/scale-to-width-down/300?cb=20210519155203",Discovery Channel
-http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8042?checkedby:Discovery Channel
+http://coqtv.tv:8080/aibarauHxlMOmxOS/6w2pFCfwoW/116259?checkedby:iptvcat.com:Discovery Channel
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/333/134/png-transparent-cbs-reality-reality-television-cbs-drama-television-channel-others-television-text-orange.png",CBS Reality
 http://qqtv.nl:8080/glista/glista/26592?checkedby:CBS Reality
 
@@ -142,18 +140,19 @@ http://qqtv.nl:8080/glista/glista/26592?checkedby:CBS Reality
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2019/07/Helix_Logo.png",---Motor---
 :HELIX IPTV
 #EXTINF:-1 tvg-logo="https://fuel.tv/images/find-us/fuel_tv_plus_150.png",Fuel TV
-http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8027?checkedby:Fuel TV
+http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/7045.ts?checkedby:iptvcat.com:Fuel TV
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Motorvision_TV_2010.png",Motorvision
-http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8003?checkedby:Motorvision
+http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/4296.ts?checkedby:iptvcat.com:Motorvision
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg/1280px-Crime_%2B_Investigation_Logo_10.2019.svg.png",Crime Investigation
 http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8038?checkedby:Crime Investigation
 
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2019/07/Helix_Logo.png",---Musica---
 :HELIX IPTV
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/473894525069164545/896862133474705518/1280px-MTV-2021.svg.jpg",MTV
-http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8052?checkedby:MTV
+http://hnksy.com:80/1117678/8FMtnrXgps/96923?checkedby:iptvcat.com:MTV
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/473894525069164545/896862559834091560/200px-Logo-mcm-pop_2011.jpg",MCM POP
 http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8051?checkedby:MCM POP
+
 
 
 
