@@ -1,25 +1,19 @@
 #EXTM3U
 
-
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2019/07/Helix_Logo.png",---HELIX IPTV---
 :HELIX IPTV
-#EXTINF:-1 tvg-logo="https://media.rtp.pt/extra/wp-content/uploads/sites/22/2017/12/Captura-de-ecra%CC%83-2017-07-2-a%CC%80s-09.38.29-860x507-1515082913.jpg",RTP 1 (Low)
-http://162.212.178.69:41042/bysid/608:RTP 1
-#EXTVLCOPT:network-caching=2000
-#EXTINF:-1 tvg-logo="https://media.rtp.pt/extra/wp-content/uploads/sites/22/2017/12/Captura-de-ecra%CC%83-2017-07-2-a%CC%80s-09.38.29-860x507-1515082913.jpg",RTP 2 (Low)
-https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/playlist.m3u8:RTP 2
-#EXTINF:-1 tvg-logo="https://media.rtp.pt/extra/wp-content/uploads/sites/22/2017/12/Captura-de-ecra%CC%83-2017-07-2-a%CC%80s-09.38.29-860x507-1515082913.jpg",RTP 3 (Low)
-https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8:RTP 3
-#EXTINF:-1 tvg-logo="https://media.rtp.pt/extra/wp-content/uploads/sites/22/2017/12/Captura-de-ecra%CC%83-2017-07-2-a%CC%80s-09.38.29-860x507-1515082913.jpg",RTP Acores (Low)
-https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8:RTP Acores
-#EXTINF:-1 tvg-logo="https://media.rtp.pt/extra/wp-content/uploads/sites/22/2017/12/Captura-de-ecra%CC%83-2017-07-2-a%CC%80s-09.38.29-860x507-1515082913.jpg",RTP Africa (Low)
-https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8:RTP Africa
-#EXTINF:-1 tvg-logo="https://media.rtp.pt/extra/wp-content/uploads/sites/22/2017/12/Captura-de-ecra%CC%83-2017-07-2-a%CC%80s-09.38.29-860x507-1515082913.jpg",RTP Internacional (Low)
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8:RTP Internacional
-#EXTINF:-1 tvg-logo="https://media.rtp.pt/extra/wp-content/uploads/sites/22/2017/12/Captura-de-ecra%CC%83-2017-07-2-a%CC%80s-09.38.29-860x507-1515082913.jpg",RTP Madeira (Low)
-https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8:RTP Madeira
+#EXTINF:-1 tvg-logo="https://media.rtp.pt/extra/wp-content/uploads/sites/22/2017/12/Captura-de-ecra%CC%83-2017-07-2-a%CC%80s-09.38.29-860x507-1515082913.jpg",RTP 1
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116160?checkedby:RTP 1
+#EXTINF:-1 tvg-logo="https://media.rtp.pt/extra/wp-content/uploads/sites/22/2017/12/Captura-de-ecra%CC%83-2017-07-2-a%CC%80s-09.38.29-860x507-1515082913.jpg",RTP 2
+http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/3999.ts?checkedby:iptvcat.com:RTP 2
+#EXTINF:-1 tvg-logo="https://media.rtp.pt/extra/wp-content/uploads/sites/22/2017/12/Captura-de-ecra%CC%83-2017-07-2-a%CC%80s-09.38.29-860x507-1515082913.jpg",RTP 3
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116164?checkedby:RTP 3
+#EXTINF:-1 tvg-logo="https://media.rtp.pt/extra/wp-content/uploads/sites/22/2017/12/Captura-de-ecra%CC%83-2017-07-2-a%CC%80s-09.38.29-860x507-1515082913.jpg",RTP Acores
+http://qqtv.nl:8080/glista/glista/26561?checkedby:RTP Acores
+#EXTINF:-1 tvg-logo="https://media.rtp.pt/extra/wp-content/uploads/sites/22/2017/12/Captura-de-ecra%CC%83-2017-07-2-a%CC%80s-09.38.29-860x507-1515082913.jpg",RTP Africa
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116167?checkedby:iptvcat.com:RTP Africa
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png",Sic
-http://live.impresa.pt/live/sic/sic540p.m3u8:Sic
+http://qqtv.nl:8080/glista/glista/26558?checkedby:Sic
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/da/SIC_K_Portugal.png",Sic K
 http://coqtv.tv:8080/aibarauHxlMOmxOS/6w2pFCfwoW/116179?checkedby:iptvcat.com:Sic K
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/6a/Logo_sem_fundo_SIC_Mulher.png",Sic Mulher
@@ -38,10 +32,7 @@ http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116183?checkedby:TV
 http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116192?checkedby:CMTV
 #EXTINF:-1 tvg-logo="https://i0.wp.com/espalhafactos.com/wp-content/uploads/2012/03/image001.jpg",24 Kitchen
 http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116252?checkedby:24 Kitchen
-#EXTINF:-1 tvg-logo="https://www35.online-convert.com/dl/web7/download-file/445076ba-3b5f-4180-9a80-f9b341e0ea73/logo-q.jpg",Canal Q
-http://kingtv.net:7070/vvvv/64re039k/113127?checkedby:Canal Q
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/11/cnn-logo-0-1536x1536.png",CNN
-https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8:CNN
+
 
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2019/07/Helix_Logo.png",---Filmes & Series---
 :HELIX IPTV
@@ -56,13 +47,13 @@ http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116280?checkedby:AX
 #EXTINF:-1 tvg-logo="https://www.cinemundo.pt/dstvpipoca/wp-content/uploads/2014/11/img-canal-cinemundo.png",Cinemundo
 http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116302?checkedby:Cinemundo
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/TVCine-EDITION.png",TV Cine EDITION
-http://185.236.229.21:9981/play/a061:TV Cine Edition
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116298?checkedby:TV Cine Edition
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/TVCine-ACTION.png",TV Cine Action
-http://185.236.229.21:9981/play/a04n:TV Cine Action
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116294?checkedby:TV Cine Action
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/TVCine-Emotion.png",TV Cine Emotion
-http://185.236.229.21:9981/play/a05z:TV Cine Emotion
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116303?checkedby:TV Cine Emotion
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TVCine-TOP.png",TV Cine Top
-http://185.236.229.21:9981/play/a04w:TV Cine Top
+http://coqtv.tv:8080/aibarauHxlMOmxOS/6w2pFCfwoW/116299?checkedby:iptvcat.com:TV Cine Top
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/FOX_Logo.jpg",Fox
 http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116285?checkedby:Fox
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Logo_Fox_Comedy_Logo.png",Fox Comedy
@@ -84,10 +75,6 @@ http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116272?checkedby:Sy
 :HELIX IPTV
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/BTV_Red.svg/1200px-BTV_Red.svg.png",Benfica TV
 http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116235?checkedby:Benfica TV
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-tv-logo-585DF08BF0-seeklogo.com.png",Sporting TV
-http://185.236.229.21:9981/play/a03r:Sporting TV
-#EXTINF:-1 tvg-logo="https://portocanal.sapo.pt/uploads/cache/noticia_00078678-580x326.jpg",Porto Canal
-http://qqtv.nl:8080/glista/glista/324957?checkedby:Porto Canal
 #EXTINF:-1 tvg-logo="https://www.comparamais.pt/wp-content/uploads/2019/09/Eleven_Sports.jpg",Eleven Sport 1
 http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8009?checkedby:Eleven Sport 1
 #EXTINF:-1 tvg-logo="https://www.comparamais.pt/wp-content/uploads/2019/09/Eleven_Sports.jpg",Eleven Sport 2
@@ -116,11 +103,12 @@ http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8011?checkedby:Sport TV 5
 http://coqtv.tv:8080/aibarauHxlMOmxOS/6w2pFCfwoW/116227?checkedby:iptvcat.com:Canal 11
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/A_Bola_TV_logo.png",ABola TV
 http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8030?checkedby:ABola TV
+#EXTINF:-1 tvg-logo="https://portocanal.sapo.pt/uploads/cache/noticia_00078678-580x326.jpg",Porto Canal
+http://qqtv.nl:8080/glista/glista/324957?checkedby:Porto Canal
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1200px-Fight_network_logo.svg.png",Fight Network
 http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116239?checkedby:Fight Network
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-tv-logo-585DF08BF0-seeklogo.com.png",NBA TV
 http://qqtv.nl:8080/glista/glista/152464?checkedby:iptvcat.com:NBA TV
-
 
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2019/07/Helix_Logo.png",---Animacao---
 :HELIX IPTV
@@ -164,6 +152,12 @@ http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8038?checkedby:Crime Investigation
 http://hnksy.com:80/1117678/8FMtnrXgps/96923?checkedby:iptvcat.com:MTV
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/473894525069164545/896862559834091560/200px-Logo-mcm-pop_2011.jpg",MCM POP
 http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8051?checkedby:MCM POP
+
+
+
+
+
+
 
 
 
