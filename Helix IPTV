@@ -2,16 +2,20 @@
 
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2019/07/Helix_Logo.png",---HELIX IPTV---
 :HELIX IPTV
-#EXTINF:-1 tvg-logo="https://media.rtp.pt/extra/wp-content/uploads/sites/22/2017/12/Captura-de-ecra%CC%83-2017-07-2-a%CC%80s-09.38.29-860x507-1515082913.jpg",RTP 1
-http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116160?checkedby:RTP 1
-#EXTINF:-1 tvg-logo="https://media.rtp.pt/extra/wp-content/uploads/sites/22/2017/12/Captura-de-ecra%CC%83-2017-07-2-a%CC%80s-09.38.29-860x507-1515082913.jpg",RTP 2
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/3999.ts?checkedby:iptvcat.com:RTP 2
-#EXTINF:-1 tvg-logo="https://media.rtp.pt/extra/wp-content/uploads/sites/22/2017/12/Captura-de-ecra%CC%83-2017-07-2-a%CC%80s-09.38.29-860x507-1515082913.jpg",RTP 3
-http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116164?checkedby:RTP 3
-#EXTINF:-1 tvg-logo="https://media.rtp.pt/extra/wp-content/uploads/sites/22/2017/12/Captura-de-ecra%CC%83-2017-07-2-a%CC%80s-09.38.29-860x507-1515082913.jpg",RTP Acores
-http://qqtv.nl:8080/glista/glista/26561?checkedby:RTP Acores
-#EXTINF:-1 tvg-logo="https://media.rtp.pt/extra/wp-content/uploads/sites/22/2017/12/Captura-de-ecra%CC%83-2017-07-2-a%CC%80s-09.38.29-860x507-1515082913.jpg",RTP Africa
-http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116167?checkedby:iptvcat.com:RTP Africa
+#EXTINF:-1 tvg-logo="https://media.rtp.pt/extra/wp-content/uploads/sites/22/2017/12/Captura-de-ecra%CC%83-2017-07-2-a%CC%80s-09.38.29-860x507-1515082913.jpg",RTP 1 (Low)
+http://162.212.178.69:41042/bysid/608:RTP 1
+#EXTINF:-1 tvg-logo="https://media.rtp.pt/extra/wp-content/uploads/sites/22/2017/12/Captura-de-ecra%CC%83-2017-07-2-a%CC%80s-09.38.29-860x507-1515082913.jpg",RTP 2 (Low)
+https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/playlist.m3u8:RTP 2
+#EXTINF:-1 tvg-logo="https://media.rtp.pt/extra/wp-content/uploads/sites/22/2017/12/Captura-de-ecra%CC%83-2017-07-2-a%CC%80s-09.38.29-860x507-1515082913.jpg",RTP 3 (Low)
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8:RTP 3
+#EXTINF:-1 tvg-logo="https://media.rtp.pt/extra/wp-content/uploads/sites/22/2017/12/Captura-de-ecra%CC%83-2017-07-2-a%CC%80s-09.38.29-860x507-1515082913.jpg",RTP Acores (Low)
+https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8:RTP Acores
+#EXTINF:-1 tvg-logo="https://media.rtp.pt/extra/wp-content/uploads/sites/22/2017/12/Captura-de-ecra%CC%83-2017-07-2-a%CC%80s-09.38.29-860x507-1515082913.jpg",RTP Africa (Low)
+https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8:RTP Africa
+#EXTINF:-1 tvg-logo="https://media.rtp.pt/extra/wp-content/uploads/sites/22/2017/12/Captura-de-ecra%CC%83-2017-07-2-a%CC%80s-09.38.29-860x507-1515082913.jpg",RTP Internacional (Low)
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8:RTP Internacional
+#EXTINF:-1 tvg-logo="https://media.rtp.pt/extra/wp-content/uploads/sites/22/2017/12/Captura-de-ecra%CC%83-2017-07-2-a%CC%80s-09.38.29-860x507-1515082913.jpg",RTP Madeira (Low)
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8:RTP Madeira
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png",Sic
 http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116170?checkedby:iptvcat.com:Sic
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/da/SIC_K_Portugal.png",Sic K
