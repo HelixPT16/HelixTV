@@ -1,162 +1,168 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2019/07/Helix_Logo.png",---HELIX IPTV---
-:HELIX IPTV
-#EXTINF:-1 tvg-logo="https://media.rtp.pt/extra/wp-content/uploads/sites/22/2017/12/Captura-de-ecra%CC%83-2017-07-2-a%CC%80s-09.38.29-860x507-1515082913.jpg",RTP 1 (Low)
-http://162.212.178.69:41042/bysid/608:RTP 1
-#EXTINF:-1 tvg-logo="https://media.rtp.pt/extra/wp-content/uploads/sites/22/2017/12/Captura-de-ecra%CC%83-2017-07-2-a%CC%80s-09.38.29-860x507-1515082913.jpg",RTP 2 (Low)
-https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/playlist.m3u8:RTP 2
-#EXTINF:-1 tvg-logo="https://media.rtp.pt/extra/wp-content/uploads/sites/22/2017/12/Captura-de-ecra%CC%83-2017-07-2-a%CC%80s-09.38.29-860x507-1515082913.jpg",RTP 3 (Low)
-https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8:RTP 3
-#EXTINF:-1 tvg-logo="https://media.rtp.pt/extra/wp-content/uploads/sites/22/2017/12/Captura-de-ecra%CC%83-2017-07-2-a%CC%80s-09.38.29-860x507-1515082913.jpg",RTP Acores (Low)
-https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8:RTP Acores
-#EXTINF:-1 tvg-logo="https://media.rtp.pt/extra/wp-content/uploads/sites/22/2017/12/Captura-de-ecra%CC%83-2017-07-2-a%CC%80s-09.38.29-860x507-1515082913.jpg",RTP Africa (Low)
-https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8:RTP Africa
-#EXTINF:-1 tvg-logo="https://media.rtp.pt/extra/wp-content/uploads/sites/22/2017/12/Captura-de-ecra%CC%83-2017-07-2-a%CC%80s-09.38.29-860x507-1515082913.jpg",RTP Internacional (Low)
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8:RTP Internacional
-#EXTINF:-1 tvg-logo="https://media.rtp.pt/extra/wp-content/uploads/sites/22/2017/12/Captura-de-ecra%CC%83-2017-07-2-a%CC%80s-09.38.29-860x507-1515082913.jpg",RTP Madeira (Low)
-https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8:RTP Madeira
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png",Sic
-http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116170?checkedby:iptvcat.com:Sic
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/da/SIC_K_Portugal.png",Sic K
-http://coqtv.tv:8080/aibarauHxlMOmxOS/6w2pFCfwoW/116179?checkedby:iptvcat.com:Sic K
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/6a/Logo_sem_fundo_SIC_Mulher.png",Sic Mulher
-http://qqtv.nl:8080/glista/glista/26557?checkedby:Sic Mulhers
-#EXTINF:-1 tvg-logo="https://static.impresa.pt/sicnot/1827//assets/gfx/logo_hq_wide.png",Sic Noticias
-http://qqtv.nl:8080/glista/glista/26623?checkedby:Sic Noticias
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Logosicradical.png",Sic Radical
-http://qqtv.nl:8080/glista/glista/26624?checkedby:Sic Radical
-#EXTINF:-1 tvg-logo="https://www.logotipo.pt/wp-content/uploads/2017/02/tvi.jpg",TVI 
-http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116182?checkedby:iptvcat.com:TVI
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d0/TVI_fic%C3%A7%C3%A3o.png",TVI Ficcao
-http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116186?checkedby:TVI Ficcao
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/50/Tvi_24.png",TVI 24
-http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116183?checkedby:TVI 24
-#EXTINF:-1 tvg-logo="https://www.cm-tv.pt/i/logo-share.png",CMTV
-http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116192?checkedby:CMTV
-#EXTINF:-1 tvg-logo="https://i0.wp.com/espalhafactos.com/wp-content/uploads/2012/03/image001.jpg",24 Kitchen
-http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116252?checkedby:24 Kitchen
+#EXTINF:-1,PT - ######################## Helix IPTV ########################
+http://Helix.pt
 
 
-#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2019/07/Helix_Logo.png",---Filmes & Series---
-:HELIX IPTV
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png",AMC
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/3980.ts?checkedby:iptvcat.com:AMC
-#EXTINF:-1 tvg-logo="https://www.axn.pt/sites/all/themes/responsive/responsive_sony_axn/logo.png",AXN HD
-http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116276?checkedby:iptvcat.com:AXN HD
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/AXN_Movies_logo.jpg/1200px-AXN_Movies_logo.jpg",AXN Movies HD
-http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8089?checkedby:AXN Movies HD
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1200px-AXN_White_logo_%282015%29.svg.png",AXN White HD
-http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116280?checkedby:AXN White HD
-#EXTINF:-1 tvg-logo="https://www.cinemundo.pt/dstvpipoca/wp-content/uploads/2014/11/img-canal-cinemundo.png",Cinemundo
-http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116302?checkedby:Cinemundo
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/TVCine-EDITION.png",TV Cine EDITION
-http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116298?checkedby:TV Cine Edition
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/TVCine-ACTION.png",TV Cine Action
-http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116294?checkedby:TV Cine Action
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/TVCine-Emotion.png",TV Cine Emotion
-http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116303?checkedby:TV Cine Emotion
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TVCine-TOP.png",TV Cine Top
-http://coqtv.tv:8080/aibarauHxlMOmxOS/6w2pFCfwoW/116299?checkedby:iptvcat.com:TV Cine Top
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/FOX_Logo.jpg",Fox
-http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116285?checkedby:Fox
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Logo_Fox_Comedy_Logo.png",Fox Comedy
-http://ruzgariptv.us:8000/mahmutali/5334711453/86773?checkedby:Fox Comedy
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Fox_Life_pt_logo.PNG",Fox Life
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/3939.ts?checkedby:iptvcat.com:Fox Life
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/873344025713033217/ExHy0neU_400x400.jpg",Fox Movies
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/3996.ts?checkedby:iptvcat.com:Fox Movies
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Fox_Crime_logo.svg/1280px-Fox_Crime_logo.svg.png",Fox Crime
-http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116289?checkedby:Fox Crime
-#EXTINF:-1 tvg-logo="https://pplware.sapo.pt/wp-content/uploads/2019/06/NOS_03-720x389.jpg",NOS Studios
-http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8076?checkedby:NOS Studios
-#EXTINF:-1 tvg-logo="https://www.atelevisao.com/wp-content/uploads/2014/01/LOGO-HOLLYWOOD-620x343.jpg",Hollywood
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/3937.ts?checkedby:iptvcat.com:Hollyood
-#EXTINF:-1 tvg-logo="https://naoseinada.com.br/wp-content/uploads/2018/08/syfy-new-logo.png",Syfy
-http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116272?checkedby:Syfy
+#EXTINF:-1,PT - RTP 1
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62052
+#EXTINF:-1,PT - RTP 2
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62053
+#EXTINF:-1,PT - RTP 3
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62055
+#EXTINF:-1,PT - RTP Africa
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62056
+#EXTINF:-1,PT - RTP Açores
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62057
+#EXTINF:-1,PT - RTP MADEIRA
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62058
+#EXTINF:-1,PT - RTP MEMORIA
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62059
+#EXTINF:-1,PT - SIC
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62068
+#EXTINF:-1,PT - Sic Caras
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62062
+#EXTINF:-1,PT - Sic Kids
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62064
+#EXTINF:-1,PT - SIC MULHER
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62065
+#EXTINF:-1,PT - SIC NOTICIAS
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62066
+#EXTINF:-1,PT - TVI HD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62107
+#EXTINF:-1,PT - Tvi 24
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62105
+#EXTINF:-1,PT - TVI FICCAO
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62106
+#EXTINF:-1,PT - TVI Reality
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62108
+#EXTINF:-1,PT - ARTV HD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61973
+#EXTINF:-1,PT - CMTV HD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61994
 
-#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2019/07/Helix_Logo.png",---Desporto---
-:HELIX IPTV
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/BTV_Red.svg/1200px-BTV_Red.svg.png",Benfica TV
-http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116235?checkedby:Benfica TV
-#EXTINF:-1 tvg-logo="https://www.comparamais.pt/wp-content/uploads/2019/09/Eleven_Sports.jpg",Eleven Sport 1
-http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8009?checkedby:Eleven Sport 1
-#EXTINF:-1 tvg-logo="https://www.comparamais.pt/wp-content/uploads/2019/09/Eleven_Sports.jpg",Eleven Sport 2
-http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8008?checkedby:Eleven Sport 2
-#EXTINF:-1 tvg-logo="https://www.comparamais.pt/wp-content/uploads/2019/09/Eleven_Sports.jpg",Eleven Sport 3
-http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8007?checkedby:Eleven Sport 3
-#EXTINF:-1 tvg-logo="https://www.comparamais.pt/wp-content/uploads/2019/09/Eleven_Sports.jpg",Eleven Sport 4
-http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8006?checkedby:Eleven Sport 4
-#EXTINF:-1 tvg-logo="https://www.comparamais.pt/wp-content/uploads/2019/09/Eleven_Sports.jpg",Eleven Sport 5
-http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116223?checkedby:Eleven Sport 5
-#EXTINF:-1 tvg-logo="https://www.comparamais.pt/wp-content/uploads/2019/09/Eleven_Sports.jpg",Eleven Sport 6
-http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8004?checkedby:Eleven Sport 6
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Logo_SportTV.svg/1024px-Logo_SportTV.svg.png",Sport TV +
-http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8020?checkedby:Sport TV +
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Logo_SportTV.svg/1024px-Logo_SportTV.svg.png",Sport TV 1
-http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8017?checkedby:Sport TV 1
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Logo_SportTV.svg/1024px-Logo_SportTV.svg.png",Sport TV 2
-http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8016?checkedby:Sport TV 2
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Logo_SportTV.svg/1024px-Logo_SportTV.svg.png",Sport TV 3
-http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116207?checkedby:Sport TV 3
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Logo_SportTV.svg/1024px-Logo_SportTV.svg.png",Sport TV 4
-http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116209?checkedby:Sport TV 4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Logo_SportTV.svg/1024px-Logo_SportTV.svg.png",Sport TV 5
-http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8011?checkedby:Sport TV 5
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/473894525069164545/896861728384630864/120px-Logo_Canal_11_FPF.svg.jpg",Canal 11
-http://coqtv.tv:8080/aibarauHxlMOmxOS/6w2pFCfwoW/116227?checkedby:iptvcat.com:Canal 11
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/A_Bola_TV_logo.png",ABola TV
-http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8030?checkedby:ABola TV
-#EXTINF:-1 tvg-logo="https://portocanal.sapo.pt/uploads/cache/noticia_00078678-580x326.jpg",Porto Canal
-http://qqtv.nl:8080/glista/glista/324957?checkedby:Porto Canal
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1200px-Fight_network_logo.svg.png",Fight Network
-http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116239?checkedby:Fight Network
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nba-tv-logo-585DF08BF0-seeklogo.com.png",NBA TV
-http://qqtv.nl:8080/glista/glista/152464?checkedby:iptvcat.com:NBA TV
+#EXTINF:-1,PT - ######################## Desporto ########################
+http://Helix.pt
 
-#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2019/07/Helix_Logo.png",---Animacao---
-:HELIX IPTV
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/67/Biggs_logo.png", Biggs
-http://coqtv.tv:8080/aibarauHxlMOmxOS/6w2pFCfwoW/116248?checkedby:iptvcat.com:Biggs
-#EXTINF:-1 tvg-logo="https://marcas-logos.net/wp-content/uploads/2020/10/Disney-Channel-Logo.jpg",Disney Channel
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/3968.ts?checkedby:iptvcat.com:Disney Channel
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Disney_Junior_logo.png/800px-Disney_Junior_logo.png",Disney Junior
-http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116247?checkedby:iptvcat.com:Disney Junior
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png",Nickelodeon
-http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116244?checkedby:Nickelodeon
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/ca/Baby_TV.png",Baby TV
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/3979.ts?checkedby:iptvcat.com:Baby TV
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/473894525069164545/896863223054229614/2560px-Nick_Jr._logo_2009.svg.jpg",Nick JR
-http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8097?checkedby:Nick JR
-
-#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2019/07/Helix_Logo.png",---Cultura---
-:HELIX IPTV
-#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/09/National-Geographic-Logo.png",National Geographic
-http://qqtv.nl:8080/glista/glista/26648?checkedby:National Geographic
-#EXTINF:-1 tvg-logo="https://canalhistoria.pt/wp-content/themes/canal-historia/img/logo-canalhistoria.png",Historia
-http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/116257?checkedby:Historia
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Discovery_Channel_2019.svg/revision/latest/scale-to-width-down/300?cb=20210519155203",Discovery Channel
-http://coqtv.tv:8080/aibarauHxlMOmxOS/6w2pFCfwoW/116259?checkedby:iptvcat.com:Discovery Channel
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/333/134/png-transparent-cbs-reality-reality-television-cbs-drama-television-channel-others-television-text-orange.png",CBS Reality
-http://qqtv.nl:8080/glista/glista/26592?checkedby:CBS Reality
+#EXTINF:-1,PT - SPORT TV 1 HD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62071
+#EXTINF:-1,PT - SPORT TV 4 HD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62074
+#EXTINF:-1,PT - Sport TV NBA HD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62076
+#EXTINF:-1,PT - SPORT TV+HD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62077
+#EXTINF:-1,PT - Sport TV 2
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62079
+#EXTINF:-1,PT - Sport TV 5
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62082
+#EXTINF:-1,PT - Sporting TV HD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62083
+#EXTINF:-1,PT - Benfica TV HD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61981
+#EXTINF:-1,PT - BTV HD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61984
+#EXTINF:-1,PT - A Bola TV
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61968
+#EXTINF:-1,PT - Canal 11 FHD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61985
+#EXTINF:-1,PT - Eleven Sport 1
+http://c.strzzi.site:80/69754974281040/247129511903/2985191
+#EXTINF:-1,PT - Eleven Sport 2
+http://c.strzzi.site:80/69754974281040/247129511903/2985194
+#EXTINF:-1,PT - Eleven Sport 3
+http://c.strzzi.site:80/69754974281040/247129511903/2985197
+#EXTINF:-1,PT - Eleven Sport 4
+http://c.strzzi.site:80/69754974281040/247129511903/2985200
+#EXTINF:-1,PT - Eleven Sport 5
+http://c.strzzi.site:80/69754974281040/247129511903/2985203
+#EXTINF:-1,PT - Eleven Sport 6
+http://c.strzzi.site:80/69754974281040/247129511903/2985206
+#EXTINF:-1,PT - WWE HD
+http://c.strzzi.site:80/69754974281040/247129511903/2985260
 
 
-#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2019/07/Helix_Logo.png",---Motor---
-:HELIX IPTV
-#EXTINF:-1 tvg-logo="https://fuel.tv/images/find-us/fuel_tv_plus_150.png",Fuel TV
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/7045.ts?checkedby:iptvcat.com:Fuel TV
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Motorvision_TV_2010.png",Motorvision
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/4296.ts?checkedby:iptvcat.com:Motorvision
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg/1280px-Crime_%2B_Investigation_Logo_10.2019.svg.png",Crime Investigation
-http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8038?checkedby:Crime Investigation
+#EXTINF:-1,PT - ######################## Filmes & Series ########################
+http://Helix.pt
 
-#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2019/07/Helix_Logo.png",---Musica---
-:HELIX IPTV
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/473894525069164545/896862133474705518/1280px-MTV-2021.svg.jpg",MTV
-http://hnksy.com:80/1117678/8FMtnrXgps/96923?checkedby:iptvcat.com:MTV
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/473894525069164545/896862559834091560/200px-Logo-mcm-pop_2011.jpg",MCM POP
-http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/8051?checkedby:MCM POP
+#EXTINF:-1,PT - AXN BLACK HD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61974
+#EXTINF:-1,PT - AXN Movies HD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61975
+#EXTINF:-1,PT - AXN HD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61977
+#EXTINF:-1,PT - AXN WHITE HD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61979
+#EXTINF:-1,PT - FOX Comedy
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62012
+#EXTINF:-1,PT - FOX CRIME HD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62014
+#EXTINF:-1,PT - FOX HD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62017
+#EXTINF:-1,PT - FOX LIFE HD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62019
+#EXTINF:-1,PT - FOX Movies
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62020
+#EXTINF:-1,PT - FOX Movies HD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62021
+#EXTINF:-1,PT - Hollywood HD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62027
+#EXTINF:-1,PT - NOS STUDIOS HD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62044
+#EXTINF:-1,PT - SyFy
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62084
+#EXTINF:-1,PT - Cinemundo
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61992
+#EXTINF:-1,PT - Cinemundo
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61992
+#EXTINF:-1,PT - CineFlix
+http://c.strzzi.site:80/69754974281040/247129511903/3718407
 
+
+#EXTINF:-1,PT - ######################## Criancas ########################
+http://Helix.pt
+
+#EXTINF:-1,PT -- BABY TV
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61980
+#EXTINF:-1,PT - Biggs
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61982
+#EXTINF:-1,PT - Canal Panda
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61988
+#EXTINF:-1,PT - Canal Q
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61989
+#EXTINF:-1,PT - Discovery Channel
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61996
+#EXTINF:-1,PT - Disney Channel
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61999
+#EXTINF:-1,PT - Disney Junior
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62000
+#EXTINF:-1,PT - PANDA BIGGS
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62048
+#EXTINF:-1,PT - Sic Kids
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62064
+
+
+
+#EXTINF:-1,PT - ######################## Outros ########################
+http://Helix.pt
+
+#EXTINF:-1,PT - 24 Kitchen HD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61967
+#EXTINF:-1,PT - A&E TV
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61969
+#EXTINF:-1,PT - AMC
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61971
+#EXTINF:-1,PT - Blaze
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61983
+#EXTINF:-1,PT - Crime & Investigation
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61995
+#EXTINF:-1,PT - FOX News
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62022
+#EXTINF:-1,PT - France 24
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62023
+#EXTINF:-1,PT - Fuel TV
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62024
+#EXTINF:-1,PT - MTV
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62036
 
 
 
