@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 group-title="Helix • PT" ,- ★★★★★ Helix IPTV ★★★★★
 http://Helix.pt
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4869e520-a971-11ee-9e29-c59e19ac7776/5964177/1036650484.png" group-title="Canais Abertos • PT", RTP1
+#EXTINF: -1, tvg-logo="https://m3u-editor.com/storage/channel-logos/4869e520-a971-11ee-9e29-c59e19ac7776/5964177/1036650484.png" group-title="Canais Abertos • PT", RTP1
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62052
 #EXTINF:-1 group-title="Canais Abertos • PT" ,RTP 2
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62053
