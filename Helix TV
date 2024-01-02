@@ -1,148 +1,148 @@
-#EXTM3U
-#EXTINF:-1 group-title="Helix • PT" , ★★★★★ Helix IPTV ★★★★★
+
+#EXTINF:-1 group-title="Helix • PT" ,- ★★★★★ Helix IPTV ★★★★★
 http://Helix.pt
 
-#EXTINF:-1 group-title="Canais Abertos • PT" , RTP1
+#EXTINF:-1 group-title="Canais Abertos • PT" ,RTP1
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62052
 #EXTINF:-1 group-title="Canais Abertos • PT" ,RTP 2
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62053
-#EXTINF:-1, group-title="Canais Abertos • PT" ,RTP 3
+#EXTINF:-1 group-title="Canais Abertos • PT" ,RTP 3
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62055
-#EXTINF:-1, group-title="Canais Abertos • PT" ,RTP Africa
+#EXTINF:-1 group-title="Canais Abertos • PT" ,RTP Africa
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62056
-#EXTINF:-1, group-title="Canais Abertos • PT" ,RTP Açores
+#EXTINF:-1 group-title="Canais Abertos • PT" ,RTP Açores
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62057
-#EXTINF:-1, group-title="Canais Abertos • PT" ,RTP MADEIRA
+#EXTINF:-1 group-title="Canais Abertos • PT" ,RTP MADEIRA
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62058
-#EXTINF:-1, group-title="Canais Abertos • PT" ,RTP MEMORIA
+#EXTINF:-1 group-title="Canais Abertos • PT" ,RTP MEMORIA
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62059
-#EXTINF:-1, group-title="Canais Abertos • PT" ,SIC
+#EXTINF:-1 group-title="Canais Abertos • PT" ,SIC
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62068
-#EXTINF:-1, group-title="Canais Abertos • PT" ,Sic Caras
+#EXTINF:-1 group-title="Canais Abertos • PT" ,Sic Caras
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62062
-#EXTINF:-1, group-title="Canais Abertos • PT" ,Sic Kids
+#EXTINF:-1 group-title="Canais Abertos • PT" ,Sic Kids
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62064
-#EXTINF:-1, group-title="Canais Abertos • PT" ,SIC MULHER
+#EXTINF:-1 group-title="Canais Abertos • PT" ,SIC MULHER
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62065
-#EXTINF:-1, group-title="Canais Abertos • PT" ,SIC NOTICIAS
+#EXTINF:-1 group-title="Canais Abertos • PT" ,SIC NOTICIAS
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62066
-#EXTINF:-1, group-title="Canais Abertos • PT" ,TVI HD
+#EXTINF:-1 group-title="Canais Abertos • PT" ,TVI HD
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62107
-#EXTINF:-1, group-title="Canais Abertos • PT" ,Tvi 24
+#EXTINF:-1 group-title="Canais Abertos • PT" ,Tvi 24
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62105
-#EXTINF:-1, group-title="Canais Abertos • PT" ,TVI FICCAO
+#EXTINF:-1 group-title="Canais Abertos • PT" ,TVI FICCAO
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62106
-#EXTINF:-1, group-title="Canais Abertos • PT" ,TVI Reality
+#EXTINF:-1 group-title="Canais Abertos • PT" ,TVI Reality
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62108
-#EXTINF:-1, group-title="Canais Abertos • PT" ,ARTV HD
+#EXTINF:-1 group-title="Canais Abertos • PT" ,ARTV HD
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61973
-#EXTINF:-1, group-title="Canais Abertos • PT" ,CMTV HD
+#EXTINF:-1 group-title="Canais Abertos • PT" ,CMTV HD
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61994
-#EXTINF:-1, group-title="Helix • PT" ,- ★★★★★ Desporto ★★★★★
+#EXTINF:-1 group-title="Helix • PT" ,- ★★★★★ Desporto ★★★★★
 http://Helix.pt
-#EXTINF:-1, group-title="Canais Desporto • PT" ,SPORT TV 1 HD
+#EXTINF:-1 group-title="Canais Desporto • PT" ,SPORT TV 1 HD
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62071
-#EXTINF:-1, group-title="Canais Desporto • PT" ,SPORT TV 4 HD
+#EXTINF:-1 group-title="Canais Desporto • PT" ,SPORT TV 4 HD
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62074
-#EXTINF:-1, group-title="Canais Desporto • PT" ,Sport TV NBA HD
+#EXTINF:-1 group-title="Canais Desporto • PT" ,Sport TV NBA HD
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62076
-#EXTINF:-1, group-title="Canais Desporto • PT" ,Sport TV 2
+#EXTINF:-1 group-title="Canais Desporto • PT" ,Sport TV 2
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62079
-#EXTINF:-1, group-title="Canais Desporto • PT" ,Sport TV 5
+#EXTINF:-1 group-title="Canais Desporto • PT" ,Sport TV 5
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62082
-#EXTINF:-1, group-title="Canais Desporto • PT" ,Sporting TV HD
+#EXTINF:-1 group-title="Canais Desporto • PT" ,Sporting TV HD
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62083
-#EXTINF:-1, group-title="Canais Desporto • PT" ,Benfica TV HD
+#EXTINF:-1 group-title="Canais Desporto • PT" ,Benfica TV HD
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61981
-#EXTINF:-1, group-title="Canais Desporto • PT" ,BTV HD
+#EXTINF:-1 group-title="Canais Desporto • PT" ,BTV HD
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61984
-#EXTINF:-1, group-title="Canais Desporto • PT" ,A Bola TV
+#EXTINF:-1 group-title="Canais Desporto • PT" ,A Bola TV
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61968
-#EXTINF:-1, group-title="Canais Desporto • PT" ,Canal 11 FHD
+#EXTINF:-1 group-title="Canais Desporto • PT" ,Canal 11 FHD
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61985
-#EXTINF:-1, group-title="Canais Desporto • PT" ,Eleven Sport 1
+#EXTINF:-1 group-title="Canais Desporto • PT" ,Eleven Sport 1
 http://c.strzzi.site:80/69754974281040/247129511903/2985191
-#EXTINF:-1, group-title="Canais Desporto • PT" ,Eleven Sport 2
+#EXTINF:-1 group-title="Canais Desporto • PT" ,Eleven Sport 2
 http://c.strzzi.site:80/69754974281040/247129511903/2985194
-#EXTINF:-1, group-title="Canais Desporto • PT" ,Eleven Sport 3
+#EXTINF:-1 group-title="Canais Desporto • PT" ,Eleven Sport 3
 http://c.strzzi.site:80/69754974281040/247129511903/2985197
-#EXTINF:-1, group-title="Canais Desporto • PT" ,Eleven Sport 4
+#EXTINF:-1 group-title="Canais Desporto • PT" ,Eleven Sport 4
 http://c.strzzi.site:80/69754974281040/247129511903/2985200
-#EXTINF:-1, group-title="Canais Desporto • PT" ,Eleven Sport 5
+#EXTINF:-1 group-title="Canais Desporto • PT" ,Eleven Sport 5
 http://c.strzzi.site:80/69754974281040/247129511903/2985203
-#EXTINF:-1, group-title="Canais Desporto • PT" ,Eleven Sport 6
+#EXTINF:-1 group-title="Canais Desporto • PT" ,Eleven Sport 6
 http://c.strzzi.site:80/69754974281040/247129511903/2985206
-#EXTINF:-1, group-title="Canais Desporto • PT" ,WWE HD
+#EXTINF:-1 group-title="Canais Desporto • PT" ,WWE HD
 http://c.strzzi.site:80/69754974281040/247129511903/2985260
-#EXTINF:-1, group-title="Helix • PT" ,- ★★★★★ Filmes & Series ★★★★★
+#EXTINF:-1 group-title="Helix • PT" ,- ★★★★★ Filmes & Series ★★★★★
 http://Helix.pt
-#EXTINF:-1, group-title="Filmes & Series • PT" ,AXN BLACK HD
+#EXTINF:-1 group-title="Filmes & Series • PT" ,AXN BLACK HD
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61974
-#EXTINF:-1, group-title="Filmes & Series • PT" ,AXN Movies HD
+#EXTINF:-1 group-title="Filmes & Series • PT" ,AXN Movies HD
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61975
-#EXTINF:-1, group-title="Filmes & Series • PT" ,AXN HD
+#EXTINF:-1 group-title="Filmes & Series • PT" ,AXN HD
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61977
-#EXTINF:-1, group-title="Filmes & Series • PT" ,AXN WHITE HD
+#EXTINF:-1 group-title="Filmes & Series • PT" ,AXN WHITE HD
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61979
-#EXTINF:-1, group-title="Filmes & Series • PT" ,FOX Comedy
+#EXTINF:-1 group-title="Filmes & Series • PT" ,FOX Comedy
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62012
-#EXTINF:-1, group-title="Filmes & Series • PT" ,FOX CRIME HD
+#EXTINF:-1 group-title="Filmes & Series • PT" ,FOX CRIME HD
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62014
-#EXTINF:-1, group-title="Filmes & Series • PT" ,FOX HD
+#EXTINF:-1 group-title="Filmes & Series • PT" ,FOX HD
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62017
-#EXTINF:-1, group-title="Filmes & Series • PT" ,FOX LIFE HD
+#EXTINF:-1 group-title="Filmes & Series • PT" ,FOX LIFE HD
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62019
-#EXTINF:-1, group-title="Filmes & Series • PT" ,FOX Movies
+#EXTINF:-1 group-title="Filmes & Series • PT" ,FOX Movies
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62020
-#EXTINF:-1, group-title="Filmes & Series • PT" ,FOX Movies HD
+#EXTINF:-1 group-title="Filmes & Series • PT" ,FOX Movies HD
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62021
-#EXTINF:-1, group-title="Filmes & Series • PT" ,Hollywood HD
+#EXTINF:-1 group-title="Filmes & Series • PT" ,Hollywood HD
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62027
-#EXTINF:-1, group-title="Filmes & Series • PT" ,NOS STUDIOS HD
+#EXTINF:-1 group-title="Filmes & Series • PT" ,NOS STUDIOS HD
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62044
-#EXTINF:-1, group-title="Filmes & Series • PT" ,SyFy
+#EXTINF:-1 group-title="Filmes & Series • PT" ,SyFy
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62084
-#EXTINF:-1, group-title="Filmes & Series • PT" ,Cinemundo
+#EXTINF:-1 group-title="Filmes & Series • PT" ,Cinemundo
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61992
-#EXTINF:-1, group-title="Filmes & Series • PT" ,CineFlix
+#EXTINF:-1 group-title="Filmes & Series • PT" ,CineFlix
 http://c.strzzi.site:80/69754974281040/247129511903/3718407
-#EXTINF:-1, group-title="Helix • PT" ,- ★★★★★ Animacao ★★★★★
+#EXTINF:-1 group-title="Helix • PT" ,- ★★★★★ Animacao ★★★★★
 http://Helix.pt
-#EXTINF:-1, group-title="Animacao • PT" ,BABY TV
+#EXTINF:-1 group-title="Animacao • PT" ,BABY TV
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61980
-#EXTINF:-1, group-title="Animacao • PT" ,Biggs
+#EXTINF:-1 group-title="Animacao • PT" ,Biggs
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61982
-#EXTINF:-1, group-title="Animacao • PT" ,Canal Panda
+#EXTINF:-1 group-title="Animacao • PT" ,Canal Panda
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61988
-#EXTINF:-1, group-title="Animacao • PT" ,Canal Q
+#EXTINF:-1 group-title="Animacao • PT" ,Canal Q
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61989
-#EXTINF:-1, group-title="Animacao • PT" ,Discovery Channel
+#EXTINF:-1 group-title="Animacao • PT" ,Discovery Channel
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61996
-#EXTINF:-1, group-title="Animacao • PT" ,Disney Channel
+#EXTINF:-1 group-title="Animacao • PT" ,Disney Channel
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61999
-#EXTINF:-1, group-title="Animacao • PT" ,Disney Junior
+#EXTINF:-1 group-title="Animacao • PT" ,Disney Junior
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62000
-#EXTINF:-1, group-title="Animacao • PT" ,PANDA BIGGS
+#EXTINF:-1 group-title="Animacao • PT" ,PANDA BIGGS
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62048
-#EXTINF:-1, group-title="Animacao • PT" ,Sic Kids
+#EXTINF:-1 group-title="Animacao • PT" ,Sic Kids
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62064
-#EXTINF:-1, group-title="Helix • PT" ,- ★★★★★ Outros ★★★★★
+#EXTINF:-1 group-title="Helix • PT" ,- ★★★★★ Outros ★★★★★
 http://Helix.pt
-#EXTINF:-1, group-title="Outros • PT" ,24 Kitchen HD
+#EXTINF:-1 group-title="Outros • PT" ,24 Kitchen HD
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61967
-#EXTINF:-1, group-title="Outros • PT" ,A&E TV
+#EXTINF:-1 group-title="Outros • PT" ,A&E TV
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61969
-#EXTINF:-1, group-title="Outros • PT" ,AMC
+#EXTINF:-1 group-title="Outros • PT" ,AMC
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61971
-#EXTINF:-1, group-title="Outros • PT" ,Blaze
+#EXTINF:-1 group-title="Outros • PT" ,Blaze
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61983
-#EXTINF:-1, group-title="Outros • PT" ,Crime & Investigation
+#EXTINF:-1 group-title="Outros • PT" ,Crime & Investigation
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61995
-#EXTINF:-1, group-title="Outros • PT" ,FOX News
+#EXTINF:-1 group-title="Outros • PT" ,FOX News
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62022
-#EXTINF:-1, group-title="Outros • PT" ,France 24
+#EXTINF:-1 group-title="Outros • PT" ,France 24
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62023
-#EXTINF:-1, group-title="Outros • PT" ,Fuel TV
+#EXTINF:-1 group-title="Outros • PT" ,Fuel TV
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62024
-#EXTINF:-1, group-title="Outros • PT" ,MTV
+#EXTINF:-1 group-title="Outros • PT" ,MTV
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62036
