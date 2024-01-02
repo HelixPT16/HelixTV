@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1,PT - ######################## Helix IPTV ########################
+#EXTINF:-1,PT - ------------- Helix IPTV -----------
 http://Helix.pt
 
 
-#EXTINF:-1,PT - RTP 1
+#EXTINF:-1,PT - RTP 1 group-title=" CANAIS • PT"
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62052
 #EXTINF:-1,PT - RTP 2
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62053
@@ -43,41 +43,41 @@ http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61994
 #EXTINF:-1,PT - ######################## Desporto ########################
 http://Helix.pt
 
-#EXTINF:-1,PT - SPORT TV 1 HD
+#EXTINF:-1,PT - SPORT TV 1 HD group-title=" Desporto • PT"
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62071
-#EXTINF:-1,PT - SPORT TV 4 HD
+#EXTINF:-1,PT - SPORT TV 4 HD group-title=" Desporto • PT"
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62074
-#EXTINF:-1,PT - Sport TV NBA HD
+#EXTINF:-1,PT - Sport TV NBA HD group-title=" Desporto • PT"
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62076
-#EXTINF:-1,PT - SPORT TV+HD
+#EXTINF:-1,PT - SPORT TV+HD group-title=" Desporto • PT"
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62077
-#EXTINF:-1,PT - Sport TV 2
+#EXTINF:-1,PT - Sport TV 2 group-title=" Desporto • PT"
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62079
-#EXTINF:-1,PT - Sport TV 5
+#EXTINF:-1,PT - Sport TV 5 group-title=" Desporto • PT"
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62082
-#EXTINF:-1,PT - Sporting TV HD
+#EXTINF:-1,PT - Sporting TV HD group-title=" Desporto • PT"
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62083
-#EXTINF:-1,PT - Benfica TV HD
+#EXTINF:-1,PT - Benfica TV HD group-title=" Desporto • PT"
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61981
-#EXTINF:-1,PT - BTV HD
+#EXTINF:-1,PT - BTV HD group-title=" Desporto • PT"
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61984
-#EXTINF:-1,PT - A Bola TV
+#EXTINF:-1,PT - A Bola TV group-title=" Desporto • PT"
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61968
-#EXTINF:-1,PT - Canal 11 FHD
+#EXTINF:-1,PT - Canal 11 FHD group-title=" Desporto • PT"
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61985
-#EXTINF:-1,PT - Eleven Sport 1
+#EXTINF:-1,PT - Eleven Sport 1 group-title=" Desporto • PT"
 http://c.strzzi.site:80/69754974281040/247129511903/2985191
-#EXTINF:-1,PT - Eleven Sport 2
+#EXTINF:-1,PT - Eleven Sport 2 group-title=" Desporto • PT"
 http://c.strzzi.site:80/69754974281040/247129511903/2985194
-#EXTINF:-1,PT - Eleven Sport 3
+#EXTINF:-1,PT - Eleven Sport 3 group-title=" Desporto • PT"
 http://c.strzzi.site:80/69754974281040/247129511903/2985197
-#EXTINF:-1,PT - Eleven Sport 4
+#EXTINF:-1,PT - Eleven Sport 4 group-title=" Desporto • PT"
 http://c.strzzi.site:80/69754974281040/247129511903/2985200
-#EXTINF:-1,PT - Eleven Sport 5
+#EXTINF:-1,PT - Eleven Sport 5 group-title=" Desporto • PT"
 http://c.strzzi.site:80/69754974281040/247129511903/2985203
-#EXTINF:-1,PT - Eleven Sport 6
+#EXTINF:-1,PT - Eleven Sport 6 group-title=" Desporto • PT"
 http://c.strzzi.site:80/69754974281040/247129511903/2985206
-#EXTINF:-1,PT - WWE HD
+#EXTINF:-1,PT - WWE HD group-title=" Desporto • PT"
 http://c.strzzi.site:80/69754974281040/247129511903/2985260
 
 
@@ -163,11 +163,6 @@ http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62023
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62024
 #EXTINF:-1,PT - MTV
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62036
-
-
-
-
-
 
 
 
