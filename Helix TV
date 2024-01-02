@@ -1,27 +1,27 @@
 #EXTM3U
 #EXTINF:-1 group-title="Helix • PT" ,★★★★★ Helix IPTV ★★★★★
 http://Helix.pt
-#EXTINF:-1 group-title="Canais Abertos • PT" parent-code="1337" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_positivo_horiz_RGB1.png" tvg-logo-small="https://img0.rtp.pt/common/img/favicon.ico" ,RTP1
+#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_positivo_horiz_RGB1.png" tvg-logo-small="https://img0.rtp.pt/common/img/favicon.ico" ,RTP1
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62052
-#EXTINF:-1 group-title="Canais Abertos • PT" parent-code="1337" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_positivo_horiz_RGB1.png" tvg-logo-small="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_positivo_vert_RGB1.png" ,RTP 2
+#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP2_positivo_horiz_RGB.png" tvg-logo-small="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP2_positivo_horiz_RGB.png" ,RTP 2
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62053
-#EXTINF:-1 group-title="Canais Abertos • PT" parent-code="1337" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_positivo_horiz_RGB1.png" tvg-logo-small="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_positivo_vert_RGB1.png" ,RTP 3
+#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtp3_positivo.jpg" tvg-logo-small="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtp3_positivo.jpg" ,RTP 3
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62055
-#EXTINF:-1 group-title="Canais Abertos • PT" parent-code="1337" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_positivo_horiz_RGB1.png" tvg-logo-small="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_positivo_vert_RGB1.png" ,RTP Africa
+#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTPAfrica_positivo_horiz_RGB.png" tvg-logo-small="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTPAfrica_positivo_horiz_RGB.png" ,RTP Africa
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62056
-#EXTINF:-1 group-title="Canais Abertos • PT" parent-code="1337" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_positivo_horiz_RGB1.png" tvg-logo-small="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_positivo_vert_RGB1.png" ,RTP Açores
+#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fquinto-canal.com%2Fwp-content%2Fuploads%2F2015%2F05%2FRTP-ACORES-1024x410.jpg&f=1&nofb=1&ipt=2184fc6b62ac6a9eff58f69fc94269626b53fc9f02122716cfd4030c39fd27f5&ipo=images" tvg-logo-small="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fquinto-canal.com%2Fwp-content%2Fuploads%2F2015%2F05%2FRTP-ACORES-1024x410.jpg&f=1&nofb=1&ipt=2184fc6b62ac6a9eff58f69fc94269626b53fc9f02122716cfd4030c39fd27f5&ipo=images" ,RTP Açores
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62057
-#EXTINF:-1 group-title="Canais Abertos • PT" parent-code="1337" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_positivo_horiz_RGB1.png" tvg-logo-small="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_positivo_vert_RGB1.png" ,RTP MADEIRA
+#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/107-443519141305.png" tvg-logo-small="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/107-443519141305.png" ,RTP MADEIRA
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62058
-#EXTINF:-1 group-title="Canais Abertos • PT" parent-code="1337" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_positivo_horiz_RGB1.png" tvg-logo-small="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_positivo_vert_RGB1.png" ,RTP MEMORIA
+#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/80-584819141705.png" tvg-logo-small="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/80-584819141705.png" ,RTP MEMORIA
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62059
-#EXTINF:-1 group-title="Canais Abertos • PT" parent-code="1337" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_positivo_horiz_RGB1.png" tvg-logo-small="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_positivo_vert_RGB1.png" ,SIC
+#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://sic.pt/wp-content/uploads/2023/06/SIC_002.png" tvg-logo-small="https://sic.pt/wp-content/uploads/2023/06/SIC_002.png" ,SIC
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62068
-#EXTINF:-1 group-title="Canais Abertos • PT" parent-code="1337" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_positivo_horiz_RGB1.png" tvg-logo-small="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_positivo_vert_RGB1.png" ,Sic Caras
+#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/SIC_CARAS.png/1200px-SIC_CARAS.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/SIC_CARAS.png/1200px-SIC_CARAS.png" ,Sic Caras
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62062
-#EXTINF:-1 group-title="Canais Abertos • PT" parent-code="1337" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_positivo_horiz_RGB1.png" tvg-logo-small="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_positivo_vert_RGB1.png" ,Sic Kids
+#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/da/SIC_K_Portugal.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/pt/d/da/SIC_K_Portugal.png" ,Sic Kids
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62064
-#EXTINF:-1 group-title="Canais Abertos • PT" parent-code="1337" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_positivo_horiz_RGB1.png" tvg-logo-small="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_positivo_vert_RGB1.png" ,SIC MULHER
+#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_positivo_horiz_RGB1.png" tvg-logo-small="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_positivo_vert_RGB1.png" ,SIC MULHER - mudar icon para baixo
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62065
 #EXTINF:-1 group-title="Canais Abertos • PT" parent-code="1337" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_positivo_horiz_RGB1.png" tvg-logo-small="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_positivo_vert_RGB1.png" ,SIC NOTICIAS
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62066
@@ -41,14 +41,16 @@ http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61994
 http://Helix.pt
 #EXTINF:-1 group-title="Canais Desporto • PT" parent-code="1337" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_positivo_horiz_RGB1.png" tvg-logo-small="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_positivo_vert_RGB1.png" ,SPORT TV 1 HD
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62071
+#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_positivo_horiz_RGB1.png" tvg-logo-small="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_positivo_vert_RGB1.png" ,Sport TV 2
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62079
+#EXTINF:-1 group-title="Canais Desporto • PT" ,Sport TV 3 HD
+http://c.strzzi.site:80/69754974281040/247129511903/2985236
 #EXTINF:-1 group-title="Canais Desporto • PT" parent-code="1337" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_positivo_horiz_RGB1.png" tvg-logo-small="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_positivo_vert_RGB1.png" ,SPORT TV 4 HD
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62074
-#EXTINF:-1 group-title="Canais Desporto • PT" parent-code="1337" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_positivo_horiz_RGB1.png" tvg-logo-small="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_positivo_vert_RGB1.png" ,Sport TV NBA HD
-http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62076
-#EXTINF:-1 group-title="Canais Desporto • PT" parent-code="1337" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_positivo_horiz_RGB1.png" tvg-logo-small="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_positivo_vert_RGB1.png" ,Sport TV 2
-http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62079
 #EXTINF:-1 group-title="Canais Desporto • PT" parent-code="1337" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_positivo_horiz_RGB1.png" tvg-logo-small="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_positivo_vert_RGB1.png" ,Sport TV 5
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62082
+#EXTINF:-1 group-title="Canais Desporto • PT" parent-code="1337" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_positivo_horiz_RGB1.png" tvg-logo-small="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_positivo_vert_RGB1.png" ,Sport TV NBA HD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62076
 #EXTINF:-1 group-title="Canais Desporto • PT" parent-code="1337" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_positivo_horiz_RGB1.png" tvg-logo-small="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_positivo_vert_RGB1.png" ,Sporting TV HD
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62083
 #EXTINF:-1 group-title="Canais Desporto • PT" parent-code="1337" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_positivo_horiz_RGB1.png" tvg-logo-small="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_positivo_vert_RGB1.png" ,Benfica TV HD
@@ -124,10 +126,6 @@ http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62000
 #EXTINF:-1 group-title="Animacao • PT" parent-code="1337" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_positivo_horiz_RGB1.png" tvg-logo-small="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_positivo_vert_RGB1.png" ,PANDA BIGGS
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62048
 #EXTINF:-1 group-title="Animacao • PT" parent-code="1337" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_positivo_horiz_RGB1.png" tvg-logo-small="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_positivo_vert_RGB1.png" ,Sic Kids
-http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62064
-#EXTINF:-1 group-title="Helix • PT" parent-code="1337" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_positivo_horiz_RGB1.png" tvg-logo-small="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_positivo_vert_RGB1.png" ,- ★★★★★ Teste ★★★★★
-http://Helix.pt
-#EXTINF:-1 parent-code="1337" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_positivo_horiz_RGB1.png" tvg-logo-small="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_positivo_vert_RGB1.png" ,Teste
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62064
 #EXTINF:-1 group-title="Helix • PT" parent-code="1337" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_positivo_horiz_RGB1.png" tvg-logo-small="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_positivo_vert_RGB1.png" ,- ★★★★★ Outros ★★★★★
 http://Helix.pt
