@@ -1,7 +1,8 @@
 #EXTM3U
 #EXTINF:-1, group-title="Helix • PT" ,- ★★★★★ Helix IPTV ★★★★★
 http://Helix.pt
-#EXTINF:-1, tvg-id="" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_positivo_vert_RGB1.png" group-title="Canais Abertos • PT" ,RTP1
+#EXTINF:-1 tvg-id="" tvg-name="RTP 1 HD" tvg-logo="https://4.bp.blogspot.com/-3HFzezHOw2s/WB3MK6zeqTI/AAAAAAAAFRk/DhtV1HhzaL4DkDZt2reem5MVjO3711VoQCLcB/s1600/RTP%2B1%2BHD%2Blogo.png" group-title="✨ CANAIS • PORTUGAL",RTP 1 HD
+#EXTINF:-1, tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_positivo_vert_RGB1.png" group-title="Canais Abertos • PT" ,RTP1
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62052
 #EXTINF:-1, group-title="Canais Abertos • PT" ,RTP 2
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62053
