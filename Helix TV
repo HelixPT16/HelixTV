@@ -37,7 +37,7 @@ http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62108
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61973
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://www.cision.pt/content/dam/cision-pt/articles/CMTV-logo.jpg" tvg-logo-small="https://www.cision.pt/content/dam/cision-pt/articles/CMTV-logo.jpg" ,CMTV HD
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61994
-#EXTINF:-1 group-title="Helix • PT" tvg-logo="https://www.cision.pt/content/dam/cision-pt/articles/CMTV-logo.jpg" tvg-logo-small="https://www.cision.pt/content/dam/cision-pt/articles/CMTV-logo.jpg" ,★★★★★ Desporto ★★★★★
+#EXTINF:-1 group-title="Helix • PT" ,★★★★★ Desporto ★★★★★
 http://Helix.pt
 #EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Sport_TV1_%282016%29.svg/2560px-Sport_TV1_%282016%29.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Sport_TV1_%282016%29.svg/2560px-Sport_TV1_%282016%29.svg.png" ,SPORT TV 1 HD
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62071
@@ -77,7 +77,7 @@ http://c.strzzi.site:80/69754974281040/247129511903/2985206
 http://c.strzzi.site:80/69754974281040/247129511903/2985260
 #EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Logo_Porto_Canal.jpg" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/b/ba/Logo_Porto_Canal.jpg" ,Porto Canal
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62050
-#EXTINF:-1 group-title="Helix • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Logo_Porto_Canal.jpg" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/b/ba/Logo_Porto_Canal.jpg" ,★★★★★ Filmes & Series ★★★★★
+#EXTINF:-1 group-title="Helix • PT" ,★★★★★ Filmes & Series ★★★★★
 http://Helix.pt
 #EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://infocul.pt/arquivo/wp-content/uploads/2016/02/AXN_Black_logo.png" tvg-logo-small="https://infocul.pt/arquivo/wp-content/uploads/2016/02/AXN_Black_logo.png" ,AXN BLACK HD
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61974
@@ -109,7 +109,7 @@ http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62084
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61992
 #EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://cinefreak.com.br/wp-content/uploads/2013/06/Cineflix.png" tvg-logo-small="https://cinefreak.com.br/wp-content/uploads/2013/06/Cineflix.png" ,CineFlix
 http://c.strzzi.site:80/69754974281040/247129511903/3718407
-#EXTINF:-1 group-title="Helix • PT" tvg-logo="https://cinefreak.com.br/wp-content/uploads/2013/06/Cineflix.png" tvg-logo-small="https://cinefreak.com.br/wp-content/uploads/2013/06/Cineflix.png" ,★★★★★ Animacao ★★★★★
+#EXTINF:-1 group-title="Helix • PT" ,★★★★★ Animacao ★★★★★
 http://Helix.pt
 #EXTINF:-1 group-title="Animacao • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/ca/Baby_TV.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/pt/c/ca/Baby_TV.png" ,BABY TV
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61980
@@ -129,7 +129,7 @@ http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61999
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62000
 #EXTINF:-1 group-title="Animacao • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/da/SIC_K_Portugal.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/pt/d/da/SIC_K_Portugal.png" ,Sic Kids
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62064
-#EXTINF:-1 group-title="Helix • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/da/SIC_K_Portugal.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/pt/d/da/SIC_K_Portugal.png" ,★★★★★ Outros ★★★★★
+#EXTINF:-1 group-title="Helix • PT" ,★★★★★ Outros ★★★★★
 http://Helix.pt
 #EXTINF:-1 group-title="Outros • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/24Kitchen.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/4/4d/24Kitchen.png" ,24 Kitchen HD
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61967
