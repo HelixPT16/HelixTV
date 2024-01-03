@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="ADBTV.pt" ,ADB TV (1080p)
 https://streamer-a03.videos.sapo.pt/live/sobrenaturaltv_3/playlist.m3u8
 #EXTINF:-1 tvg-id="ARTV.pt" ,ARTV Canal Parlamento (720p) [Not 24/7]
