@@ -19,7 +19,7 @@ http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62059
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62068
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/SIC_CARAS.png/1200px-SIC_CARAS.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/SIC_CARAS.png/1200px-SIC_CARAS.png" ,Sic Caras
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62062
-#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://duckduckgo.com/i/fbf9e53ae093a577.png" tvg-logo-small="https://duckduckgo.com/i/fbf9e53ae093a577.png" ,Sic Novelas
+#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://duckduckgo.com/i/fbf9e53ae093a577.png" tvg-logo-small="https://duckduckgo.com/i/fbf9e53ae093a577.png" ,Sic Novelas
 https://fast.live.impresa.pt/out/v1/b5be42c4a68d4ee18461a7156bb8ecf2/sic-novelas.m3u8
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/da/SIC_K_Portugal.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/pt/d/da/SIC_K_Portugal.png" ,Sic Kids
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62064
@@ -161,8 +161,6 @@ http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61988
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61989
 #EXTINF:-1 group-title="Animacao • PT" tvg-logo="https://i.imgur.com/Atdjaeq.png" tvg-logo-small="https://i.imgur.com/Atdjaeq.png" ,Cartoon Network
 http://c.strzzi.site:80/69754974281040/247129511903/2985085
-#EXTINF:-1 group-title="Animacao • PT" tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2014/10/Discovery-Channel-logo.png" tvg-logo-small="https://www.meiosepublicidade.pt/wp-content/uploads/2014/10/Discovery-Channel-logo.png" ,Discovery Channel
-http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61996
 #EXTINF:-1 group-title="Animacao • PT" tvg-logo="https://prowly-uploads.s3.eu-west-1.amazonaws.com/uploads/landing_page/template_background/215208/ceb0503349e3a10c2109d9d942459f6c.jpg" tvg-logo-small="https://prowly-uploads.s3.eu-west-1.amazonaws.com/uploads/landing_page/template_background/215208/ceb0503349e3a10c2109d9d942459f6c.jpg" ,Disney Channel
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61999
 #EXTINF:-1 group-title="Animacao • PT" tvg-logo="https://duckduckgo.com/i/2f4e8b65.png" tvg-logo-small="https://duckduckgo.com/i/2f4e8b65.png" ,Cartoonito
@@ -181,12 +179,14 @@ http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62000
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62064
 #EXTINF:-1 group-title="Helix • PT" tvg-logo="https://i.ibb.co/hMwg3m9/Helix-Logo.png" tvg-logo-small="https://i.ibb.co/hMwg3m9/Helix-Logo.png" ,★★★★★ Canais de Musica ★★★★★
 http://Helix.pt
-#EXTINF:-1 group-title="Outros • PT" tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" tvg-logo-small="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" ,MTV
+#EXTINF:-1 group-title="Canais Musica • PT" tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" tvg-logo-small="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" ,MTV
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62036
-#EXTINF:-1 group-title="Outros • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/MCM_Top_Logo.svg/1280px-MCM_Top_Logo.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/MCM_Top_Logo.svg/1280px-MCM_Top_Logo.svg.png" ,MCM TOP
+#EXTINF:-1 group-title="Canais Musica • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/MCM_Top_Logo.svg/1280px-MCM_Top_Logo.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/MCM_Top_Logo.svg/1280px-MCM_Top_Logo.svg.png" ,MCM TOP
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62033
 #EXTINF:-1 group-title="Helix • PT" tvg-logo="https://i.ibb.co/hMwg3m9/Helix-Logo.png" tvg-logo-small="https://i.ibb.co/hMwg3m9/Helix-Logo.png" ,★★★★★ Outros ★★★★★
 http://Helix.pt
+#EXTINF:-1 group-title="Outros • PT" tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2014/10/Discovery-Channel-logo.png" tvg-logo-small="https://www.meiosepublicidade.pt/wp-content/uploads/2014/10/Discovery-Channel-logo.png" ,Discovery Channel
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61996
 #EXTINF:-1 group-title="Outros • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/24Kitchen.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/4/4d/24Kitchen.png" ,24 Kitchen HD
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61967
 #EXTINF:-1 group-title="Outros • PT" tvg-logo="https://e7.pngegg.com/pngimages/128/889/png-clipart-a-e-networks-logo-television-%E9%AB%98%E6%B8%85iphonex-miscellaneous-television-thumbnail.png" tvg-logo-small="https://e7.pngegg.com/pngimages/128/889/png-clipart-a-e-networks-logo-television-%E9%AB%98%E6%B8%85iphonex-miscellaneous-television-thumbnail.png" ,A&E TV
