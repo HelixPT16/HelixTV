@@ -3,10 +3,16 @@
 http://Helix.pt
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_positivo_horiz_RGB1.png" tvg-logo-small="https://img0.rtp.pt/common/img/favicon.ico" ,RTP1
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62052
+#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_positivo_horiz_RGB1.png" tvg-logo-small="https://img0.rtp.pt/common/img/favicon.ico" ,RTP1
+http://c.strzzi.site:80/69754974281040/247129511903/2985274
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP2_positivo_horiz_RGB.png" tvg-logo-small="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP2_positivo_horiz_RGB.png" ,RTP 2
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62053
+#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP2_positivo_horiz_RGB.png" tvg-logo-small="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP2_positivo_horiz_RGB.png" ,RTP 2
+http://c.strzzi.site:80/69754974281040/247129511903/2985279
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtp3_positivo.jpg" tvg-logo-small="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtp3_positivo.jpg" ,RTP 3
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62055
+#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtp3_positivo.jpg" tvg-logo-small="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtp3_positivo.jpg" ,RTP 3
+http://c.strzzi.site:80/69754974281040/247129511903/2985040
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTPAfrica_positivo_horiz_RGB.png" tvg-logo-small="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTPAfrica_positivo_horiz_RGB.png" ,RTP Africa
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62056
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fquinto-canal.com%2Fwp-content%2Fuploads%2F2015%2F05%2FRTP-ACORES-1024x410.jpg&f=1&nofb=1&ipt=2184fc6b62ac6a9eff58f69fc94269626b53fc9f02122716cfd4030c39fd27f5&ipo=images" tvg-logo-small="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fquinto-canal.com%2Fwp-content%2Fuploads%2F2015%2F05%2FRTP-ACORES-1024x410.jpg&f=1&nofb=1&ipt=2184fc6b62ac6a9eff58f69fc94269626b53fc9f02122716cfd4030c39fd27f5&ipo=images" ,RTP Açores
@@ -183,6 +189,8 @@ http://Helix.pt
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62036
 #EXTINF:-1 group-title="Canais Musica • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/MCM_Top_Logo.svg/1280px-MCM_Top_Logo.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/MCM_Top_Logo.svg/1280px-MCM_Top_Logo.svg.png" ,MCM TOP
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62033
+#EXTINF:-1 group-title="Canais Musica • PT" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TRACE-Urban.png" tvg-logo-small="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TRACE-Urban.png" ,Trace Urban
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Helix • PT" tvg-logo="https://i.ibb.co/hMwg3m9/Helix-Logo.png" tvg-logo-small="https://i.ibb.co/hMwg3m9/Helix-Logo.png" ,★★★★★ Outros ★★★★★
 http://Helix.pt
 #EXTINF:-1 group-title="Outros • PT" tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2014/10/Discovery-Channel-logo.png" tvg-logo-small="https://www.meiosepublicidade.pt/wp-content/uploads/2014/10/Discovery-Channel-logo.png" ,Discovery Channel
