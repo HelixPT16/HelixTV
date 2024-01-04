@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="Helix • PT" tvg-logo="https://i.ibb.co/hMwg3m9/Helix-Logo.png" ,★★★★★ Helix IPTV ★★★★★
+#EXTINF:-1 group-title="Helix • PT" tvg-logo="https://i.ibb.co/hMwg3m9/Helix-Logo.png" tvg-logo-small="https://i.ibb.co/hMwg3m9/Helix-Logo.png" ,★★★★★ Helix IPTV ★★★★★
 http://Helix.pt
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_positivo_horiz_RGB1.png" tvg-logo-small="https://img0.rtp.pt/common/img/favicon.ico" ,RTP1
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62052
@@ -39,7 +39,7 @@ http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61973
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61994
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://variety.com/wp-content/uploads/2023/02/CNN-Logo.jpg" tvg-logo-small="https://variety.com/wp-content/uploads/2023/02/CNN-Logo.jpg" ,CNN
 https://sktv-forwarders.7m.pl/get.php?x=CNN_Portugal
-#EXTINF:-1 group-title="Helix • PT" tvg-logo="https://i.ibb.co/hMwg3m9/Helix-Logo.png" ,★★★★★ Desporto ★★★★★
+#EXTINF:-1 group-title="Helix • PT" tvg-logo="https://i.ibb.co/hMwg3m9/Helix-Logo.png" tvg-logo-small="https://i.ibb.co/hMwg3m9/Helix-Logo.png" ,★★★★★ Desporto ★★★★★
 http://Helix.pt
 #EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://i.imgur.com/zsFjzDa.png" tvg-logo-small="https://i.imgur.com/zsFjzDa.png" ,SPORT TV + HD
 http://c.strzzi.site:80/69754974281040/247129511903/2985222
@@ -87,7 +87,7 @@ http://c.strzzi.site:80/69754974281040/247129511903/2985206
 http://c.strzzi.site:80/69754974281040/247129511903/2985260
 #EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Logo_Porto_Canal.jpg" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/b/ba/Logo_Porto_Canal.jpg" ,Porto Canal
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62050
-#EXTINF:-1 group-title="Helix • PT" tvg-logo="https://i.ibb.co/hMwg3m9/Helix-Logo.png" ,★★★★★ Filmes & Series ★★★★★
+#EXTINF:-1 group-title="Helix • PT" tvg-logo="https://i.ibb.co/hMwg3m9/Helix-Logo.png" tvg-logo-small="https://i.ibb.co/hMwg3m9/Helix-Logo.png" ,★★★★★ Filmes & Series ★★★★★
 http://Helix.pt
 #EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://infocul.pt/arquivo/wp-content/uploads/2016/02/AXN_Black_logo.png" tvg-logo-small="https://infocul.pt/arquivo/wp-content/uploads/2016/02/AXN_Black_logo.png" ,AXN BLACK HD
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61974
@@ -109,17 +109,17 @@ http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62019
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62020
 #EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/FOX-Movies.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/1/19/FOX-Movies.png" ,FOX Movies HD
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62021
-#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/tvcine/logo/tvcaction.png" tvg-logo-small="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/tvcine/logo/tvcaction.png" ,TVCINE ACTION HD
+#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://www.nos.pt/content/dam/nos/assets/images/tv/tv-cine/logo-tvCine-action.jpg" tvg-logo-small="https://www.nos.pt/content/dam/nos/assets/images/tv/tv-cine/logo-tvCine-action.jpg" ,TVCINE ACTION HD
 http://c.strzzi.site:80/69754974281040/247129511903/2985160
-#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/tvcine/logo/tvcedition.png" tvg-logo-small="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/tvcine/logo/tvcedition.png" ,TV CINE EDITION FHD
+#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://tvepg.eu/img/portugal/reviews/tvcine_edition/o_rei_das_berlengas.png" tvg-logo-small="https://tvepg.eu/img/portugal/reviews/tvcine_edition/o_rei_das_berlengas.png" ,TV CINE EDITION FHD
 http://c.strzzi.site:80/69754974281040/247129511903/2985162
 #EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/tvcine/logo/tvcemotion.png" tvg-logo-small="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/tvcine/logo/tvcemotion.png" ,TV CINE EMOTION FHD
 http://c.strzzi.site:80/69754974281040/247129511903/2985165
 #EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/tvcine/logo/tvctop.png" tvg-logo-small="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/tvcine/logo/tvctop.png" ,TV CINE TOP FHD
 http://c.strzzi.site:80/69754974281040/247129511903/2985168
-#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://www.tvcine.pt/TVCine-PLUS-pattern.gif" tvg-logo-small="https://www.tvcine.pt/TVCine-PLUS-pattern.gif" ,TV CINE + FHD
+#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://cinemametropolis.com/wp-content/uploads/2021/01/1-4.jpg" tvg-logo-small="https://cinemametropolis.com/wp-content/uploads/2021/01/1-4.jpg" ,TV CINE + FHD
 http://c.strzzi.site:80/69754974281040/247129511903/2985171
-#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2013/02/Canal-Hollywood.jpg" tvg-logo-small="https://www.atelevisao.com/wp-content/uploads/2013/02/Canal-Hollywood.jpg" ,Hollywood HD
+#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2014/01/LOGO-HOLLYWOOD.jpg" tvg-logo-small="https://www.atelevisao.com/wp-content/uploads/2014/01/LOGO-HOLLYWOOD.jpg" ,Hollywood HD
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62027
 #EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://pplware.sapo.pt/wp-content/uploads/2019/06/NOS_03.jpg" tvg-logo-small="https://pplware.sapo.pt/wp-content/uploads/2019/06/NOS_03.jpg" ,NOS STUDIOS HD
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62044
@@ -129,20 +129,22 @@ http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62084
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61992
 #EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://cinefreak.com.br/wp-content/uploads/2013/06/Cineflix.png" tvg-logo-small="https://cinefreak.com.br/wp-content/uploads/2013/06/Cineflix.png" ,CineFlix
 http://c.strzzi.site:80/69754974281040/247129511903/3718407
-#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://i.ytimg.com/vi/812NaSHKZ_I/maxresdefault.jpg" tvg-logo-small="https://i.ytimg.com/vi/812NaSHKZ_I/maxresdefault.jpg" ,Canal Biggs
-http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62048
-#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://i.imgur.com/4dzzQ0t.png" tvg-logo-small="https://i.imgur.com/4dzzQ0t.png" ,Disney Junior
-http://c.strzzi.site:80/69754974281040/247129511903/2985088
-#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://i.ytimg.com/vi/812NaSHKZ_I/maxresdefault.jpg" tvg-logo-small="https://i.ytimg.com/vi/812NaSHKZ_I/maxresdefault.jpg" ,Disney +
-http://c.strzzi.site:80/69754974281040/247129511903/2985086
-#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://television.mxdwn.com/wp-content/uploads/2019/08/Disney-Marvel-logo.jpg" tvg-logo-small="https://television.mxdwn.com/wp-content/uploads/2019/08/Disney-Marvel-logo.jpg" ,Disney Marvel
-http://c.strzzi.site:80/69754974281040/247129511903/2985089
-#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cb/Star_Wars_Commander_Icon.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/en/c/cb/Star_Wars_Commander_Icon.png" ,Disney STAR WARS
-http://c.strzzi.site:80/69754974281040/247129511903/2985091
+#EXTINF:-1 group-title="Filmes & Series • PT" tvg-name="EUROSPORT 2 HD PT" tvg-logo="https://p1.hiclipart.com/preview/575/215/632/tv-channel-icons-pack-amc-black-png-icon.jpg" tvg-logo-small="https://p1.hiclipart.com/preview/575/215/632/tv-channel-icons-pack-amc-black-png-icon.jpg" ,AMC
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61971
 #EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://duckduckgo.com/i/fbf9e53ae093a577.png" tvg-logo-small="https://duckduckgo.com/i/fbf9e53ae093a577.png" ,Sic Novelas
 https://fast.live.impresa.pt/out/v1/b5be42c4a68d4ee18461a7156bb8ecf2/sic-novelas.m3u8
-#EXTINF:-1 group-title="Helix • PT" tvg-logo="https://i.ibb.co/hMwg3m9/Helix-Logo.png" ,★★★★★ Animacao ★★★★★
+#EXTINF:-1 group-title="Helix • PT" tvg-logo="https://i.ibb.co/hMwg3m9/Helix-Logo.png" tvg-logo-small="https://i.ibb.co/hMwg3m9/Helix-Logo.png" ,★★★★★ Animacao ★★★★★
 http://Helix.pt
+#EXTINF:-1 group-title="Animacao • PT" tvg-logo="https://i.ytimg.com/vi/812NaSHKZ_I/maxresdefault.jpg" tvg-logo-small="https://i.ytimg.com/vi/812NaSHKZ_I/maxresdefault.jpg" ,Canal Biggs
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62048
+#EXTINF:-1 group-title="Animacao • PT" tvg-logo="https://i.ytimg.com/vi/812NaSHKZ_I/maxresdefault.jpg" tvg-logo-small="https://i.ytimg.com/vi/812NaSHKZ_I/maxresdefault.jpg" ,Disney +
+http://c.strzzi.site:80/69754974281040/247129511903/2985086
+#EXTINF:-1 group-title="Animacao • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cb/Star_Wars_Commander_Icon.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/en/c/cb/Star_Wars_Commander_Icon.png" ,Disney STAR WARS
+http://c.strzzi.site:80/69754974281040/247129511903/2985091
+#EXTINF:-1 group-title="Animacao • PT" tvg-logo="https://i.imgur.com/4dzzQ0t.png" tvg-logo-small="https://i.imgur.com/4dzzQ0t.png" ,Disney Junior
+http://c.strzzi.site:80/69754974281040/247129511903/2985088
+#EXTINF:-1 group-title="Animacao • PT" tvg-logo="https://television.mxdwn.com/wp-content/uploads/2019/08/Disney-Marvel-logo.jpg" tvg-logo-small="https://television.mxdwn.com/wp-content/uploads/2019/08/Disney-Marvel-logo.jpg" ,Disney Marvel
+http://c.strzzi.site:80/69754974281040/247129511903/2985089
 #EXTINF:-1 group-title="Animacao • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/ca/Baby_TV.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/pt/c/ca/Baby_TV.png" ,BABY TV
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61980
 #EXTINF:-1 group-title="Animacao • PT" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzFmNGIwOWEtNWNjOS00MGQ2LWE2ZGUtYTYwNGIzOTkzOTZjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg" tvg-logo-small="https://m.media-amazon.com/images/M/MV5BYzFmNGIwOWEtNWNjOS00MGQ2LWE2ZGUtYTYwNGIzOTkzOTZjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg" ,FIREMAN SAM
@@ -177,27 +179,25 @@ https://video-auth2.iol.pt/live_hd2/live_hd2/playlist.m3u8
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62000
 #EXTINF:-1 group-title="Animacao • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/da/SIC_K_Portugal.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/pt/d/da/SIC_K_Portugal.png" ,Sic Kids
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62064
-#EXTINF:-1 group-title="Helix • PT" tvg-logo="https://i.ibb.co/hMwg3m9/Helix-Logo.png" ,★★★★★ Canais de Musica ★★★★★
+#EXTINF:-1 group-title="Helix • PT" tvg-logo="https://i.ibb.co/hMwg3m9/Helix-Logo.png" tvg-logo-small="https://i.ibb.co/hMwg3m9/Helix-Logo.png" ,★★★★★ Canais de Musica ★★★★★
 http://Helix.pt
-#EXTINF:-1 group-title="Helix • PT" tvg-logo="https://i.ibb.co/hMwg3m9/Helix-Logo.png" ,★★★★★ Outros ★★★★★
+#EXTINF:-1 group-title="Helix • PT" tvg-logo="https://i.ibb.co/hMwg3m9/Helix-Logo.png" tvg-logo-small="https://i.ibb.co/hMwg3m9/Helix-Logo.png" ,★★★★★ Outros ★★★★★
 http://Helix.pt
 #EXTINF:-1 group-title="Outros • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/24Kitchen.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/4/4d/24Kitchen.png" ,24 Kitchen HD
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61967
 #EXTINF:-1 group-title="Outros • PT" tvg-name="EUROSPORT 2 HD PT" tvg-logo="https://e7.pngegg.com/pngimages/128/889/png-clipart-a-e-networks-logo-television-%E9%AB%98%E6%B8%85iphonex-miscellaneous-television-thumbnail.png" tvg-logo-small="https://e7.pngegg.com/pngimages/128/889/png-clipart-a-e-networks-logo-television-%E9%AB%98%E6%B8%85iphonex-miscellaneous-television-thumbnail.png" ,A&E TV
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61969
-#EXTINF:-1 group-title="Outros • PT" tvg-name="EUROSPORT 2 HD PT" tvg-logo="https://p1.hiclipart.com/preview/575/215/632/tv-channel-icons-pack-amc-black-png-icon.jpg" tvg-logo-small="https://p1.hiclipart.com/preview/575/215/632/tv-channel-icons-pack-amc-black-png-icon.jpg" ,AMC
-http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61971
 #EXTINF:-1 group-title="Outros • PT" tvg-name="EUROSPORT 2 HD PT" tvg-logo="https://parsefiles.back4app.com/xuEVZyqmEPdfjE6AndBuBOqp25pCCS3PEQmI8PM6/206738a76db4b0e6bf49616973909f4e_AMC%20BREAK%20MOBILE.png" tvg-logo-small="https://parsefiles.back4app.com/xuEVZyqmEPdfjE6AndBuBOqp25pCCS3PEQmI8PM6/206738a76db4b0e6bf49616973909f4e_AMC%20BREAK%20MOBILE.png" ,Break
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61983
-#EXTINF:-1 group-title="Outros • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" ,Crime & Investigation
+#EXTINF:-1 group-title="Outros • PT" tvg-name="EUROSPORT 2 HD PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" ,Crime & Investigation
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61995
-#EXTINF:-1 group-title="Outros • PT" tvg-logo="https://variety.com/wp-content/uploads/2013/12/fox-news-logo.jpg" tvg-logo-small="https://variety.com/wp-content/uploads/2013/12/fox-news-logo.jpg" ,FOX News
+#EXTINF:-1 group-title="Outros • PT" tvg-name="EUROSPORT 2 HD PT" tvg-logo="https://variety.com/wp-content/uploads/2013/12/fox-news-logo.jpg" tvg-logo-small="https://variety.com/wp-content/uploads/2013/12/fox-news-logo.jpg" ,FOX News
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62022
-#EXTINF:-1 group-title="Outros • PT" tvg-logo="https://i.imgur.com/I0ZTOVi.png" tvg-logo-small="https://i.imgur.com/I0ZTOVi.png" ,MotorVision TV SD
+#EXTINF:-1 group-title="Outros • PT" tvg-name="EUROSPORT 2 HD PT" tvg-logo="https://i.imgur.com/I0ZTOVi.png" tvg-logo-small="https://i.imgur.com/I0ZTOVi.png" ,MotorVision TV SD
 http://c.strzzi.site:80/69754974281040/247129511903/2985217
-#EXTINF:-1 group-title="Outros • PT" tvg-logo="https://www.frenchentree.com/wp-content/uploads/2006/12/Appel-a-la-greve-a-la-redaction-de-France-24.jpg" tvg-logo-small="https://www.frenchentree.com/wp-content/uploads/2006/12/Appel-a-la-greve-a-la-redaction-de-France-24.jpg" ,France 24
+#EXTINF:-1 group-title="Outros • PT" tvg-name="EUROSPORT 2 HD PT" tvg-logo="https://www.frenchentree.com/wp-content/uploads/2006/12/Appel-a-la-greve-a-la-redaction-de-France-24.jpg" tvg-logo-small="https://www.frenchentree.com/wp-content/uploads/2006/12/Appel-a-la-greve-a-la-redaction-de-France-24.jpg" ,France 24
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62023
-#EXTINF:-1 group-title="Outros • PT" tvg-logo="https://pbs.twimg.com/profile_images/1164558980267618309/V1ams3u8_400x400.jpg" tvg-logo-small="https://pbs.twimg.com/profile_images/1164558980267618309/V1ams3u8_400x400.jpg" ,Fuel TV
+#EXTINF:-1 group-title="Outros • PT" tvg-name="EUROSPORT 2 HD PT" tvg-logo="https://pbs.twimg.com/profile_images/1164558980267618309/V1ams3u8_400x400.jpg" tvg-logo-small="https://pbs.twimg.com/profile_images/1164558980267618309/V1ams3u8_400x400.jpg" ,Fuel TV
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62024
-#EXTINF:-1 group-title="Outros • PT" tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" tvg-logo-small="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" ,MTV
+#EXTINF:-1 group-title="Outros • PT" tvg-name="EUROSPORT 2 HD PT" tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" tvg-logo-small="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" ,MTV
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62036
