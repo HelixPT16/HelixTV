@@ -19,6 +19,8 @@ http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62059
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62068
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/SIC_CARAS.png/1200px-SIC_CARAS.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/SIC_CARAS.png/1200px-SIC_CARAS.png" ,Sic Caras
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62062
+#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://duckduckgo.com/i/fbf9e53ae093a577.png" tvg-logo-small="https://duckduckgo.com/i/fbf9e53ae093a577.png" ,Sic Novelas
+https://fast.live.impresa.pt/out/v1/b5be42c4a68d4ee18461a7156bb8ecf2/sic-novelas.m3u8
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/da/SIC_K_Portugal.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/pt/d/da/SIC_K_Portugal.png" ,Sic Kids
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62064
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c4/Sicmulher.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/en/c/c4/Sicmulher.png" ,SIC MULHER
@@ -131,8 +133,6 @@ http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61992
 http://c.strzzi.site:80/69754974281040/247129511903/3718407
 #EXTINF:-1 group-title="Filmes & Series • PT" tvg-name="EUROSPORT 2 HD PT" tvg-logo="https://p1.hiclipart.com/preview/575/215/632/tv-channel-icons-pack-amc-black-png-icon.jpg" tvg-logo-small="https://p1.hiclipart.com/preview/575/215/632/tv-channel-icons-pack-amc-black-png-icon.jpg" ,AMC
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61971
-#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://duckduckgo.com/i/fbf9e53ae093a577.png" tvg-logo-small="https://duckduckgo.com/i/fbf9e53ae093a577.png" ,Sic Novelas
-https://fast.live.impresa.pt/out/v1/b5be42c4a68d4ee18461a7156bb8ecf2/sic-novelas.m3u8
 #EXTINF:-1 group-title="Helix • PT" tvg-logo="https://i.ibb.co/hMwg3m9/Helix-Logo.png" tvg-logo-small="https://i.ibb.co/hMwg3m9/Helix-Logo.png" ,★★★★★ Animacao ★★★★★
 http://Helix.pt
 #EXTINF:-1 group-title="Animacao • PT" tvg-logo="https://i.ytimg.com/vi/812NaSHKZ_I/maxresdefault.jpg" tvg-logo-small="https://i.ytimg.com/vi/812NaSHKZ_I/maxresdefault.jpg" ,Canal Biggs
