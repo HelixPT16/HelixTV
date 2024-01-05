@@ -113,11 +113,11 @@ http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62019
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62020
 #EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://www.nos.pt/content/dam/nos/assets/images/tv/tv-cine/logo-tvCine-action.jpg" tvg-logo-small="https://www.nos.pt/content/dam/nos/assets/images/tv/tv-cine/logo-tvCine-action.jpg" ,TVCine ACTION
 http://c.strzzi.site:80/69754974281040/247129511903/2985160
-#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://tvepg.eu/img/portugal/reviews/tvcine_edition/o_rei_das_berlengas.png" tvg-logo-small="https://tvepg.eu/img/portugal/reviews/tvcine_edition/o_rei_das_berlengas.png" ,TVCine EDITION
+#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfqVPdIE50QKlllZQiJMR5a9Y-kfc8D9wS9A&usqp=CAU" tvg-logo-small="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfqVPdIE50QKlllZQiJMR5a9Y-kfc8D9wS9A&usqp=CAU" ,TVCine EDITION
 http://c.strzzi.site:80/69754974281040/247129511903/2985162
-#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/tvcine/logo/tvcemotion.png" tvg-logo-small="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/tvcine/logo/tvcemotion.png" ,TVCine EMOTION
+#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/TVCine-Emotion.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/8/81/TVCine-Emotion.png" ,TVCine EMOTION
 http://c.strzzi.site:80/69754974281040/247129511903/2985165
-#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/tvcine/logo/tvctop.png" tvg-logo-small="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/tvcine/logo/tvctop.png" ,TVCine TOP
+#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TVCine-TOP.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/2/24/TVCine-TOP.png" ,TVCine TOP
 http://c.strzzi.site:80/69754974281040/247129511903/2985168
 #EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://cinemametropolis.com/wp-content/uploads/2021/01/1-4.jpg" tvg-logo-small="https://cinemametropolis.com/wp-content/uploads/2021/01/1-4.jpg" ,TVCine +
 http://c.strzzi.site:80/69754974281040/247129511903/2985171
@@ -207,4 +207,13 @@ http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61967
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61969
 #EXTINF:-1 group-title="Outros • PT" tvg-logo="https://parsefiles.back4app.com/xuEVZyqmEPdfjE6AndBuBOqp25pCCS3PEQmI8PM6/206738a76db4b0e6bf49616973909f4e_AMC%20BREAK%20MOBILE.png" tvg-logo-small="https://parsefiles.back4app.com/xuEVZyqmEPdfjE6AndBuBOqp25pCCS3PEQmI8PM6/206738a76db4b0e6bf49616973909f4e_AMC%20BREAK%20MOBILE.png" ,Break
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61983
-#EXTINF:-1 group-title="Outros • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" ,Crime & In
+#EXTINF:-1 group-title="Outros • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" ,Crime & Investigation
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61995
+#EXTINF:-1 group-title="Outros • PT" tvg-logo="https://variety.com/wp-content/uploads/2013/12/fox-news-logo.jpg" tvg-logo-small="https://variety.com/wp-content/uploads/2013/12/fox-news-logo.jpg" ,FOX News
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62022
+#EXTINF:-1 group-title="Outros • PT" tvg-logo="https://i.imgur.com/I0ZTOVi.png" tvg-logo-small="https://i.imgur.com/I0ZTOVi.png" ,MotorVision TV SD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62035
+#EXTINF:-1 group-title="Outros • PT" tvg-logo="https://www.frenchentree.com/wp-content/uploads/2006/12/Appel-a-la-greve-a-la-redaction-de-France-24.jpg" tvg-logo-small="https://www.frenchentree.com/wp-content/uploads/2006/12/Appel-a-la-greve-a-la-redaction-de-France-24.jpg" ,France 24
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62023
+#EXTINF:-1 group-title="Outros • PT" tvg-logo="https://pbs.twimg.com/profile_images/1164558980267618309/V1ams3u8_400x400.jpg" tvg-logo-small="https://pbs.twimg.com/profile_images/1164558980267618309/V1ams3u8_400x400.jpg" ,Fuel TV
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62024
