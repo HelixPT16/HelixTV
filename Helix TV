@@ -39,9 +39,9 @@ http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62108
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61973
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://www.cision.pt/content/dam/cision-pt/articles/CMTV-logo.jpg" tvg-logo-small="https://www.cision.pt/content/dam/cision-pt/articles/CMTV-logo.jpg" ,CMTV HD
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61994
-#EXTINF:-1 group-title="Canais Abertos • PT" ,Globo Premium
+#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/globo-tv-logo.png" tvg-logo-small="https://logodownload.org/wp-content/uploads/2013/12/globo-tv-logo.png" ,Globo Premium
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62026
-#EXTINF:-1 group-title="Canais Abertos • PT" ,TV GLOBO
+#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/globo-tv-logo.png" tvg-logo-small="https://logodownload.org/wp-content/uploads/2013/12/globo-tv-logo.png" ,TV GLOBO
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62096
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://variety.com/wp-content/uploads/2023/02/CNN-Logo.jpg" tvg-logo-small="https://variety.com/wp-content/uploads/2023/02/CNN-Logo.jpg" ,CNN
 https://sktv-forwarders.7m.pl/get.php?x=CNN_Portugal
@@ -185,7 +185,7 @@ http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62033
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Canais Musica • PT" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TRACE-Latina.png" tvg-logo-small="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TRACE-Latina.png" ,Trace Latina
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8
-#EXTINF:-1 group-title="Canais Musica • PT" ,Afro Music
+#EXTINF:-1 group-title="Canais Musica • PT" tvg-logo="https://pbs.twimg.com/profile_images/1321475159124049920/jjJy6r7d_400x400.jpg" tvg-logo-small="https://pbs.twimg.com/profile_images/1321475159124049920/jjJy6r7d_400x400.jpg" ,Afro Music
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61970
 #EXTINF:-1 group-title="Helix • PT" tvg-logo="https://i.ibb.co/hMwg3m9/Helix-Logo.png" tvg-logo-small="https://i.ibb.co/hMwg3m9/Helix-Logo.png" ,★★★★★ Documentarios ★★★★★
 http://Helix.pt
@@ -193,11 +193,11 @@ http://Helix.pt
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61996
 #EXTINF:-1 group-title="Documentarios • PT" tvg-logo="http://xplussport.com:8080/images/adf707ab4e1c068aa504c7f52c88cd43.png" tvg-logo-small="http://xplussport.com:8080/images/adf707ab4e1c068aa504c7f52c88cd43.png" ,DISCOVERY ID
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61996
-#EXTINF:-1 group-title="Documentarios • PT" ,NATIONAL GEOGRAPHIC
+#EXTINF:-1 group-title="Documentarios • PT" tvg-logo="https://static.nationalgeographicbrasil.com/files/styles/image_3200/public/nglogo2.png?w=1600" tvg-logo-small="https://static.nationalgeographicbrasil.com/files/styles/image_3200/public/nglogo2.png?w=1600" ,NATIONAL GEOGRAPHIC
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62041
-#EXTINF:-1 group-title="Documentarios • PT" ,History Channel
+#EXTINF:-1 group-title="Documentarios • PT" tvg-logo="https://yt3.googleusercontent.com/IVVrue_WHD9lK-12DvplMxKoxOYOS2kjYl1tbhC_fONBK06E-YfdEdtScQNwWQUbxrHfwnxBgw=s900-c-k-c0x00ffffff-no-rj" tvg-logo-small="https://yt3.googleusercontent.com/IVVrue_WHD9lK-12DvplMxKoxOYOS2kjYl1tbhC_fONBK06E-YfdEdtScQNwWQUbxrHfwnxBgw=s900-c-k-c0x00ffffff-no-rj" ,History Channel
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61987
-#EXTINF:-1 group-title="Documentarios • PT" ,Caça Vision
+#EXTINF:-1 group-title="Documentarios • PT" tvg-logo="https://www.tvtuga.com/wp-content/uploads/2020/05/CACAVISION.png" tvg-logo-small="https://www.tvtuga.com/wp-content/uploads/2020/05/CACAVISION.png" ,Caça Vision
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61990
 #EXTINF:-1 group-title="Helix • PT" tvg-logo="https://i.ibb.co/hMwg3m9/Helix-Logo.png" tvg-logo-small="https://i.ibb.co/hMwg3m9/Helix-Logo.png" ,★★★★★ Outros ★★★★★
 http://Helix.pt
@@ -207,13 +207,4 @@ http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61967
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61969
 #EXTINF:-1 group-title="Outros • PT" tvg-logo="https://parsefiles.back4app.com/xuEVZyqmEPdfjE6AndBuBOqp25pCCS3PEQmI8PM6/206738a76db4b0e6bf49616973909f4e_AMC%20BREAK%20MOBILE.png" tvg-logo-small="https://parsefiles.back4app.com/xuEVZyqmEPdfjE6AndBuBOqp25pCCS3PEQmI8PM6/206738a76db4b0e6bf49616973909f4e_AMC%20BREAK%20MOBILE.png" ,Break
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61983
-#EXTINF:-1 group-title="Outros • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" ,Crime & Investigation
-http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61995
-#EXTINF:-1 group-title="Outros • PT" tvg-logo="https://variety.com/wp-content/uploads/2013/12/fox-news-logo.jpg" tvg-logo-small="https://variety.com/wp-content/uploads/2013/12/fox-news-logo.jpg" ,FOX News
-http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62022
-#EXTINF:-1 group-title="Outros • PT" tvg-logo="https://i.imgur.com/I0ZTOVi.png" tvg-logo-small="https://i.imgur.com/I0ZTOVi.png" ,MotorVision TV SD
-http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62035
-#EXTINF:-1 group-title="Outros • PT" tvg-logo="https://www.frenchentree.com/wp-content/uploads/2006/12/Appel-a-la-greve-a-la-redaction-de-France-24.jpg" tvg-logo-small="https://www.frenchentree.com/wp-content/uploads/2006/12/Appel-a-la-greve-a-la-redaction-de-France-24.jpg" ,France 24
-http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62023
-#EXTINF:-1 group-title="Outros • PT" tvg-logo="https://pbs.twimg.com/profile_images/1164558980267618309/V1ams3u8_400x400.jpg" tvg-logo-small="https://pbs.twimg.com/profile_images/1164558980267618309/V1ams3u8_400x400.jpg" ,Fuel TV
-http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62024
+#EXTINF:-1 group-title="Outros • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" ,Crime & In
