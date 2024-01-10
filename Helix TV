@@ -29,6 +29,8 @@ http://c.strzzi.site:80/69754974281040/247129511903/2985017
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62065
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://eco.imgix.net/uploads/2023/10/cropped-135470970_10159469163861388_5543231704609363032_n-scaled-1.jpg" tvg-logo-small="https://eco.imgix.net/uploads/2023/10/cropped-135470970_10159469163861388_5543231704609363032_n-scaled-1.jpg" ,Sic Noticias
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62066
+#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://pbs.twimg.com/profile_images/1339671569757581313/535atxB2_400x400.jpg" tvg-logo-small="https://pbs.twimg.com/profile_images/1339671569757581313/535atxB2_400x400.jpg" ,ADVANCE SIC
+http://c.strzzi.site:80/69754974281040/247129511903/2985175
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Log%C3%B3tipo_TVI.png/640px-Log%C3%B3tipo_TVI.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Log%C3%B3tipo_TVI.png/640px-Log%C3%B3tipo_TVI.png" ,TVI HD
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62107
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2012/01/logoTVI24_2011.png" tvg-logo-small="https://www.meiosepublicidade.pt/wp-content/uploads/2012/01/logoTVI24_2011.png" ,TVI 24
@@ -47,6 +49,8 @@ http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62026
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62096
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://variety.com/wp-content/uploads/2023/02/CNN-Logo.jpg" tvg-logo-small="https://variety.com/wp-content/uploads/2023/02/CNN-Logo.jpg" ,CNN
 https://sktv-forwarders.7m.pl/get.php?x=CNN_Portugal
+#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Casa-e-cozinha-Logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/b/be/Casa-e-cozinha-Logo.png" ,Casa Cozinha
+http://c.strzzi.site:80/69754974281040/247129511903/2985003
 #EXTINF:-1 group-title="Helix • PT" tvg-logo="https://i.ibb.co/hMwg3m9/Helix-Logo.png" tvg-logo-small="https://i.ibb.co/hMwg3m9/Helix-Logo.png" ,★★★★★ Desporto ★★★★★
 http://Helix.pt
 #EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://i.imgur.com/zsFjzDa.png" tvg-logo-small="https://i.imgur.com/zsFjzDa.png" ,Sport TV +
@@ -213,6 +217,12 @@ http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61987
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62046
 #EXTINF:-1 group-title="Documentarios • PT" tvg-logo="https://www.tvtuga.com/wp-content/uploads/2020/05/CACAVISION.png" tvg-logo-small="https://www.tvtuga.com/wp-content/uploads/2020/05/CACAVISION.png" ,Caça Vision
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61990
+#EXTINF:-1 group-title="Helix • PT" tvg-logo="https://i.ibb.co/hMwg3m9/Helix-Logo.png" tvg-logo-small="https://i.ibb.co/hMwg3m9/Helix-Logo.png" ,★★★★★ Catolico ★★★★★
+http://Helix.pt
+#EXTINF:-1 group-title="Catolico • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" ,Canção Nova
+https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova/playlist.m3u8
+#EXTINF:-1 group-title="Catolico • PT" tvg-logo="https://seeklogo.com/images/S/santuario-de-fatima-logo-A6BA69F003-seeklogo.com.png" tvg-logo-small="https://seeklogo.com/images/S/santuario-de-fatima-logo-A6BA69F003-seeklogo.com.png" ,Santuario de Fatima
+https://streamer-b02.videos.sapo.pt/live/santuario/playlist.m3u8
 #EXTINF:-1 group-title="Helix • PT" tvg-logo="https://i.ibb.co/hMwg3m9/Helix-Logo.png" tvg-logo-small="https://i.ibb.co/hMwg3m9/Helix-Logo.png" ,★★★★★ Outros ★★★★★
 http://Helix.pt
 #EXTINF:-1 group-title="Outros • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/24Kitchen.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/4/4d/24Kitchen.png" ,24 Kitchen HD
