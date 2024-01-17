@@ -2,26 +2,19 @@
 #EXTINF:-1 group-title="Helix • PT" tvg-logo="https://i.ibb.co/hMwg3m9/Helix-Logo.png" tvg-logo-small="https://i.ibb.co/hMwg3m9/Helix-Logo.png" ,★★★★★ Helix IPTV ★★★★★
 http://Helix.pt
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_positivo_horiz_RGB1.png" tvg-logo-small="https://img0.rtp.pt/common/img/favicon.ico" ,RTP1
-#EXTVLCOPT:http-user-agent=Firefox
-https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62052
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP2_positivo_horiz_RGB.png" tvg-logo-small="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP2_positivo_horiz_RGB.png" ,RTP 2
-#EXTVLCOPT:http-user-agent=Firefox
-https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62053
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtp3_positivo.jpg" tvg-logo-small="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtp3_positivo.jpg" ,RTP 3
-#EXTVLCOPT:http-user-agent=Firefox
-https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/inspiration.m3u8
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62055
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTPAfrica_positivo_horiz_RGB.png" tvg-logo-small="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTPAfrica_positivo_horiz_RGB.png" ,RTP Africa
-#EXTVLCOPT:http-user-agent=Firefox
-https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/inspiration.m3u8
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62056
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fquinto-canal.com%2Fwp-content%2Fuploads%2F2015%2F05%2FRTP-ACORES-1024x410.jpg&f=1&nofb=1&ipt=2184fc6b62ac6a9eff58f69fc94269626b53fc9f02122716cfd4030c39fd27f5&ipo=images" tvg-logo-small="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fquinto-canal.com%2Fwp-content%2Fuploads%2F2015%2F05%2FRTP-ACORES-1024x410.jpg&f=1&nofb=1&ipt=2184fc6b62ac6a9eff58f69fc94269626b53fc9f02122716cfd4030c39fd27f5&ipo=images" ,RTP Açores
-#EXTVLCOPT:http-user-agent=Firefox
-https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/inspiration.m3u8
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62057
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/107-443519141305.png" tvg-logo-small="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/107-443519141305.png" ,RTP Madeira
-#EXTVLCOPT:http-user-agent=Firefox
-https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil//inspiration.m3u8
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62058
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/80-584819141705.png" tvg-logo-small="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/80-584819141705.png" ,RTP Memoria
-#EXTVLCOPT:http-user-agent=Firefox
-https://streaming-live.rtp.pt/liverepeater/smil:estudoemcasa.smil/inspiration.m3u8
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62059
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://sic.pt/wp-content/uploads/2023/06/SIC_002.png" tvg-logo-small="https://sic.pt/wp-content/uploads/2023/06/SIC_002.png" ,SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/SIC_CARAS.png/1200px-SIC_CARAS.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/SIC_CARAS.png/1200px-SIC_CARAS.png" ,Sic Caras
@@ -306,6 +299,90 @@ https://streamer-b02.videos.sapo.pt/live/santuario/playlist.m3u8
 http://c.strzzi.site:80/69754974281040/247129511903/2986938
 #EXTINF:-1 group-title="Catolico • PT" tvg-logo="https://play-lh.googleusercontent.com/VIMEv55w7uAIaZWJFMlUlrcawiu1mdlKQ7aGz85vgJITfhvGWJ-DGXliEMJOGrcO4JI" tvg-logo-small="https://play-lh.googleusercontent.com/VIMEv55w7uAIaZWJFMlUlrcawiu1mdlKQ7aGz85vgJITfhvGWJ-DGXliEMJOGrcO4JI" ,GOSPEL
 http://authxplus-2.xyz:2082/Tourobox3-f55k0KRhwG/pvWLwwOERN/1052
+#EXTINF:-1 group-title="Helix • PT" tvg-logo="https://i.ibb.co/hMwg3m9/Helix-Logo.png" tvg-logo-small="https://i.ibb.co/hMwg3m9/Helix-Logo.png" ,★★★★★ +18 ★★★★★
+http://Helix.pt
+#EXTINF:-1 group-title="+18" tvg-id="AdultIPTVnetAnal.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" ,AdultIPTV.net Anal
+https://cdn.adultiptv.net/anal.m3u8
+#EXTINF:-1 group-title="+18" tvg-id="AdultIPTVnetAsian.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" ,AdultIPTV.net Asian
+https://cdn.adultiptv.net/asian.m3u8
+#EXTINF:-1 group-title="+18" tvg-id="AdultIPTVnetBigAss.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" ,AdultIPTV.net Big Ass
+https://cdn.adultiptv.net/bigass.m3u8
+#EXTINF:-1 group-title="+18" tvg-id="AdultIPTVnetBigDick.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" ,AdultIPTV.net Big Dick
+https://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 group-title="+18" tvg-id="AdultIPTVnetBigTits.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" ,AdultIPTV.net Big Tits
+https://cdn.adultiptv.net/bigtits.m3u8
+#EXTINF:-1 group-title="+18" tvg-id="AdultIPTVnetBlonde.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" ,AdultIPTV.net Blonde
+https://cdn.adultiptv.net/blonde.m3u8
+#EXTINF:-1 group-title="+18" tvg-id="AdultIPTVnetBlowjob.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" ,AdultIPTV.net Blowjob
+https://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 group-title="+18" tvg-id="AdultIPTVnetBrunette.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" ,AdultIPTV.net Brunette
+https://cdn.adultiptv.net/brunette.m3u8
+#EXTINF:-1 group-title="+18" tvg-id="AdultIPTVnetCompilation.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" ,AdultIPTV.net Compilation
+https://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:-1 group-title="+18" tvg-id="AdultIPTVnetCuckold.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" ,AdultIPTV.net Cuckold
+https://cdn.adultiptv.net/cuckold.m3u8
+#EXTINF:-1 group-title="+18" tvg-id="AdultIPTVnetFetish.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" ,AdultIPTV.net Fetish
+https://cdn.adultiptv.net/fetish.m3u8
+#EXTINF:-1 group-title="+18" tvg-id="AdultIPTVnetGangbang.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" ,AdultIPTV.net Gangbang
+https://cdn.adultiptv.net/gangbang.m3u8
+#EXTINF:-1 group-title="+18" tvg-id="AdultIPTVnetGay.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" ,AdultIPTV.net Gay
+https://cdn.adultiptv.net/gay.m3u8
+#EXTINF:-1 group-title="+18" tvg-id="AdultIPTVnetHardcore.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" ,AdultIPTV.net Hardcore
+https://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 group-title="+18" tvg-id="AdultIPTVnetInterracial.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" ,AdultIPTV.net Interracial
+https://cdn.adultiptv.net/interracial.m3u8
+#EXTINF:-1 group-title="+18" tvg-id="AdultIPTVnetLatina.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" ,AdultIPTV.net Latina
+https://cdn.adultiptv.net/latina.m3u8
+#EXTINF:-1 group-title="+18" tvg-id="AdultIPTVnetLesbian.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" ,AdultIPTV.net Lesbian
+https://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 group-title="+18" tvg-id="AdultIPTVnetLiveCams.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" ,AdultIPTV.net Live Cams
+https://cdn.adultiptv.net/livecams.m3u8
+#EXTINF:-1 group-title="+18" tvg-id="AdultIPTVnetMILF.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" ,AdultIPTV.net MILF
+https://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1 group-title="+18" tvg-id="AdultIPTVnetPornstar.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" ,AdultIPTV.net Pornstar
+https://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 group-title="+18" tvg-id="AdultIPTVnetPOV.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" ,AdultIPTV.net POV
+https://cdn.adultiptv.net/pov.m3u8
+#EXTINF:-1 group-title="+18" tvg-id="AdultIPTVnetRough.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" ,AdultIPTV.net Rough
+https://cdn.adultiptv.net/rough.m3u8
+#EXTINF:-1 group-title="+18" tvg-id="AdultIPTVnetRussian.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" ,AdultIPTV.net Russian
+https://cdn.adultiptv.net/russian.m3u8
+#EXTINF:-1 group-title="+18" tvg-id="AdultIPTVnetTeen.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" ,AdultIPTV.net Teen
+https://cdn.adultiptv.net/teen.m3u8
+#EXTINF:-1 group-title="+18" tvg-id="AdultIPTVnetThreesome.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" ,AdultIPTV.net Threesome
+https://cdn.adultiptv.net/threesome.m3u8
+#EXTINF:-1 group-title="+18" tvg-id="AdultIPTVnetWoman.us" tvg-logo="https://i.imgur.com/cqKFF8A.png" ,AdultIPTV.net Woman
+https://live.redtraffic.net/woman.m3u8
+#EXTINF:-1 group-title="+18" tvg-id="Babestation24.ch" tvg-logo="https://i.imgur.com/DNJP1gi.png" ,Babestation24
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3u8
+#EXTINF:-1 group-title="+18" tvg-id="BrazzersTVEurope.us" tvg-logo="https://i.imgur.com/95nP0Pb.png" ,Brazzers TV Europe
+https://cdn-main.lolokoko.tv/BRAZZERS.stream/chunks.m3u8
+#EXTINF:-1 group-title="+18" tvg-id="DorcelTV.nl" tvg-logo="https://i.imgur.com/RkzyjEd.png" ,Dorcel TV
+https://cdn-main.lolokoko.tv/DorcelTV.stream/playlist.m3u8
+#EXTINF:-1 group-title="+18" tvg-id="EroXHD.nl" tvg-logo="https://i.imgur.com/1EOQFqE.png" ,EroX HD
+https://cdn-main.lolokoko.tv/Eroxx.stream/playlist.m3u8
+#EXTINF:-1 group-title="+18" tvg-id="Ero+18HD.nl" tvg-logo="https://i.imgur.com/ZNBLK41.png" ,Ero+18 HD
+https://cdn-main.lolokoko.tv/Ero+18.stream/playlist.m3u8
+#EXTINF:-1 group-title="+18" tvg-id="HustlerHD.nl" tvg-logo="https://i.imgur.com/41Ej2io.png" ,Hustler HD
+https://cdn-main.lolokoko.tv/HUSTLER.stream/chunks.m3u8
+#EXTINF:-1 group-title="+18" tvg-id="JennyForYou.us" tvg-logo="https://i.imgur.com/W9x8sNg.png" ,Miami TV
+https://59ec5453559f0.streamlock.net/JennyForYou/smil:WEB3131/playlist.m3u8
+#EXTINF:-1 group-title="+18" tvg-id="Olala.ru" tvg-logo="https://i.imgur.com/6aOmZs4.png" ,O-la-la!
+http://31.148.48.15/O-la-la/index.m3u8
+#EXTINF:-1 group-title="+18" tvg-id="PenthouseGold.us" tvg-logo="https://i.imgur.com/0JufwBJ.png" ,Penthouse Gold
+http://51.159.102.100/PenthouseGold/index.m3u8
+#EXTINF:-1 group-title="+18" tvg-id="PlayboyTVLatinAmericaHD.us" tvg-logo="https://i.imgur.com/B3DMUM9.png" ,Playboy TV Latin America
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+#EXTINF:-1 group-title="+18" tvg-id="PrivateTVHD.nl" tvg-logo="https://i.imgur.com/89E8Ev2.png" ,Private TV HD
+https://cdn-main.lolokoko.tv/Private.stream/playlist.m3u8
+#EXTINF:-1 group-title="+18" tvg-id="RedlightHD.nl" tvg-logo="https://i.imgur.com/g0QF5IG.png" ,Redlight HD
+https://cdn-main.lolokoko.tv/REDLIGHT.stream/chunks.m3u8
+#EXTINF:-1 group-title="+18" tvg-id="Silk.ru" tvg-logo="https://i.imgur.com/pbLpTrt.png" ,Silk
+http://live-1.otcnet.ru/shelkhdmts/playlist.m3u8
+#EXTINF:-1 group-title="+18" tvg-id="SunBeachTV.us" tvg-logo="https://i.imgur.com/o4fZU2M.png" ,SunBeach TV
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
+#EXTINF:-1 group-title="+18" tvg-id="VisitXTV.nl" tvg-logo="https://i.imgur.com/avtSqUu.png" ,Visit-X TV
+https://stream.visit-x.tv/vxtv/live/playlist.m3u8
 #EXTINF:-1 group-title="Helix • PT" tvg-logo="https://i.ibb.co/hMwg3m9/Helix-Logo.png" tvg-logo-small="https://i.ibb.co/hMwg3m9/Helix-Logo.png" ,★★★★★ Outros ★★★★★
 http://Helix.pt
 #EXTINF:-1 group-title="Outros • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/24Kitchen.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/4/4d/24Kitchen.png" ,24 Kitchen HD
