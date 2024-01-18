@@ -1,8 +1,8 @@
-#EXTM3U url-tvg="http://m3u4u.com/xml/5z3endr27vbd3x19nqpk"
+#EXTM3U
 #EXTINF:-1 group-title="Helix • PT" tvg-logo="https://i.ibb.co/hMwg3m9/Helix-Logo.png" tvg-logo-small="https://i.ibb.co/hMwg3m9/Helix-Logo.png" ,★★★★★ Helix IPTV ★★★★★
 http://Helix.pt
-#EXTINF:-1 group-title="Canais Abertos • PT" tvg-id="rtp1.pt" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_positivo_horiz_RGB1.png" tvg-logo-small="https://img0.rtp.pt/common/img/favicon.ico" ,RTP1
-http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62052
+#EXTINF:1 group-title="Canais Abertos • PT" tvg-id="rtp1.pt" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_positivo_horiz_RGB1.png" tvg-logo-small="https://img0.rtp.pt/common/img/favicon.ico" ,RTP1
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62052?utc=1705521499
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP2_positivo_horiz_RGB.png" tvg-logo-small="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP2_positivo_horiz_RGB.png" ,RTP 2
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62053
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtp3_positivo.jpg" tvg-logo-small="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtp3_positivo.jpg" ,RTP 3
@@ -308,7 +308,7 @@ https://cdn-main.lolokoko.tv/BRAZZERS.stream/chunks.m3u8
 #EXTINF:-1 group-title="+18" tvg-id="DorcelTV.nl" tvg-logo="https://i.imgur.com/RkzyjEd.png" tvg-logo-small="https://i.imgur.com/RkzyjEd.png" ,Dorcel TV
 https://cdn-main.lolokoko.tv/DorcelTV.stream/playlist.m3u8
 #EXTINF:-1 group-title="+18" tvg-id="EroXHD.nl" tvg-logo="https://i.imgur.com/1EOQFqE.png" tvg-logo-small="https://i.imgur.com/1EOQFqE.png" ,EroX HD
-https://cdn-main.lolokoko.tv/Eroxx.stream/playlist.m3u8
+http://178.219.128.68:64888/EROXHD
 #EXTINF:-1 group-title="+18" tvg-id="Ero+18HD.nl" tvg-logo="https://i.imgur.com/ZNBLK41.png" tvg-logo-small="https://i.imgur.com/ZNBLK41.png" ,Ero+18 HD
 https://cdn-main.lolokoko.tv/Ero+18.stream/playlist.m3u8
 #EXTINF:-1 group-title="+18" tvg-id="HustlerHD.nl" tvg-logo="https://i.imgur.com/41Ej2io.png" tvg-logo-small="https://i.imgur.com/41Ej2io.png" ,Hustler HD
@@ -332,7 +332,7 @@ https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
 #EXTINF:-1 group-title="+18" tvg-id="VisitXTV.nl" tvg-logo="https://i.imgur.com/avtSqUu.png" ,Visit-X TV
 https://stream.visit-x.tv/vxtv/live/playlist.m3u8
 #EXTINF:-1 group-title="+18" tvg-logo="https://cdn.mitvstatic.com/channels/br_venus-tv-sd_m.png" ,Venus
-http://bgp.cdnr1.xyz:80/diltech/diltech0310/276478
+http://45.226.67.3:58001/play/a01x/index.m3u8
 #EXTINF:-1 group-title="+18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Sexy_Hot_logo.png/1200px-Sexy_Hot_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Sexy_Hot_logo.png/1200px-Sexy_Hot_logo.png" ,Sex Hot
 http://bgp.cdnr1.xyz:80/diltech/diltech0310/147753
 #EXTINF:-1 group-title="+18" tvg-id="VisitXTV.nl" tvg-logo="https://cdn.mitvstatic.com/channels/br_sextreme-brazil_m.png" tvg-logo-small="https://cdn.mitvstatic.com/channels/br_sextreme-brazil_m.png" ,Sextreme
