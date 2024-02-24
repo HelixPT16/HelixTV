@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://m3u4u.com/xml/5z3endr27vbd3x19nqpk"
+#EXTM3U url-tvg="http://m3u4u.com/epg/3m97ypjr4mf5x4p4ydxq"
 #EXTINF:-1 group-title="Helix • PT" tvg-logo="https://i.ibb.co/hMwg3m9/Helix-Logo.png" tvg-logo-small="https://i.ibb.co/hMwg3m9/Helix-Logo.png" ,★★★★★ Helix IPTV ★★★★★
 http://Helix.pt
 #EXTINF:1 group-title="Canais Abertos • PT" tvg-id="rtp1.pt" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_positivo_horiz_RGB1.png" tvg-logo-small="https://img0.rtp.pt/common/img/favicon.ico" ,RTP1
@@ -32,21 +32,19 @@ https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/in
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://pbs.twimg.com/profile_images/1339671569757581313/535atxB2_400x400.jpg" tvg-logo-small="https://pbs.twimg.com/profile_images/1339671569757581313/535atxB2_400x400.jpg" ,ADVANCE SIC
 http://c.strzzi.site:80/69754974281040/247129511903/2985175
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Log%C3%B3tipo_TVI.png/640px-Log%C3%B3tipo_TVI.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Log%C3%B3tipo_TVI.png/640px-Log%C3%B3tipo_TVI.png" ,TVI
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xNC8yMDI0IDQ6MTo1NiBQTSZoYXNoX3ZhbHVlPTZoN2thY3dCN0o4bHh4VWQvWjV6WXc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0yMWU2Yzk2MS02MDQyLTRiOTYtOGJhMi0zNTE5OGVkZDI2ZjM=/
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62107
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2012/01/logoTVI24_2011.png" tvg-logo-small="https://www.meiosepublicidade.pt/wp-content/uploads/2012/01/logoTVI24_2011.png" ,TVI 24
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62105
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/TVI_Fic%C3%A7%C3%A3o_%282017%29.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/0/0d/TVI_Fic%C3%A7%C3%A3o_%282017%29.png" ,TVI FICCAO
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/560e71100cf2823db4e5a1ff/1024.jpg" tvg-logo-small="https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/560e71100cf2823db4e5a1ff/1024.jpg" ,TVI Reality
-https://video-auth4.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-720_passthrough/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xNC8yMDI0IDQ6MjoyIFBNJmhhc2hfdmFsdWU9VkwrRmMrNWtDeE8wVEl4MXkyNzQzdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWE0ZDM4MjQ1LWQ1ZTQtNGZiMC1hMjg2LTIyZjgyZjkwMjYwYQ==/
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62108
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/ARTV_%282002%29.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/a/a0/ARTV_%282002%29.png" ,ARTV HD
-https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61973
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://www.cision.pt/content/dam/cision-pt/articles/CMTV-logo.jpg" tvg-logo-small="https://www.cision.pt/content/dam/cision-pt/articles/CMTV-logo.jpg" ,CMTV HD
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61994
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/globo-tv-logo.png" tvg-logo-small="https://logodownload.org/wp-content/uploads/2013/12/globo-tv-logo.png" ,Globo Premium
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62026
-#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/globo-tv-logo.png" tvg-logo-small="https://logodownload.org/wp-content/uploads/2013/12/globo-tv-logo.png" ,TV GLOBO
-http://199.127.60.83:16020
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://variety.com/wp-content/uploads/2023/02/CNN-Logo.jpg" tvg-logo-small="https://variety.com/wp-content/uploads/2023/02/CNN-Logo.jpg" ,CNN
 https://sktv-forwarders.7m.pl/get.php?x=CNN_Portugal
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Casa-e-cozinha-Logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/b/be/Casa-e-cozinha-Logo.png" ,Casa Cozinha
@@ -65,8 +63,6 @@ http://c.strzzi.site:80/69754974281040/247129511903/2985021
 http://c.strzzi.site:80/69754974281040/247129511903/2985014
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://img.bndlyr.com/nhjtx0kggg/_assets/opengraph.jpg?fit=pad&w=1200&h=630&bg=ffffff" tvg-logo-small="https://img.bndlyr.com/nhjtx0kggg/_assets/opengraph.jpg?fit=pad&w=1200&h=630&bg=ffffff" ,Canal 180
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61986
-#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdgjVeOxzWR89jFPT2pnaEZ0GYHNOossE2VZbA0W7xFoNx8HV-NmGAa8bdiD3E5AnWP1o&usqp=CAU" tvg-logo-small="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdgjVeOxzWR89jFPT2pnaEZ0GYHNOossE2VZbA0W7xFoNx8HV-NmGAa8bdiD3E5AnWP1o&usqp=CAU" ,Record News
-http://authxplus-2.xyz:2082/Tourobox3-f55k0KRhwG/pvWLwwOERN/452
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://play-lh.googleusercontent.com/nEUofXn08iiruzMitTjIy1ObKfVKOKqNRhVVAGto-3swLaH5_Bv-tYhNFNwLksr-EZMJ" tvg-logo-small="https://play-lh.googleusercontent.com/nEUofXn08iiruzMitTjIy1ObKfVKOKqNRhVVAGto-3swLaH5_Bv-tYhNFNwLksr-EZMJ" ,TPA Notícias
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62089
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="http://3.bp.blogspot.com/_KyS0t-zNphQ/Sm8lSLMtanI/AAAAAAAAALU/BPsy3PC4LPg/s320/tpa+i.jpg" tvg-logo-small="http://3.bp.blogspot.com/_KyS0t-zNphQ/Sm8lSLMtanI/AAAAAAAAALU/BPsy3PC4LPg/s320/tpa+i.jpg" ,TPA INTERNACIONAL
@@ -107,6 +103,12 @@ http://c.strzzi.site:80/69754974281040/247129511903/2985045
 https://europa-crtvg.flumotion.com/crtvg/europa_high/playlist.m3u8
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://yt3.googleusercontent.com/TbufBU_bvuWVdKxl7Ip1QupWe_BXSxxzaLSvt6wvZP9yQw7SkSNt8j2MrCqCEAIZ8Z8nCQJeTg=s900-c-k-c0x00ffffff-no-rj" tvg-logo-small="https://yt3.googleusercontent.com/TbufBU_bvuWVdKxl7Ip1QupWe_BXSxxzaLSvt6wvZP9yQw7SkSNt8j2MrCqCEAIZ8Z8nCQJeTg=s900-c-k-c0x00ffffff-no-rj" ,I24  NEWS
 http://c.strzzi.site:80/69754974281040/247129511903/2985036
+#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/24Kitchen.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/4/4d/24Kitchen.png" ,24 Kitchen HD
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61967
+#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://e7.pngegg.com/pngimages/128/889/png-clipart-a-e-networks-logo-television-%E9%AB%98%E6%B8%85iphonex-miscellaneous-television-thumbnail.png" tvg-logo-small="https://e7.pngegg.com/pngimages/128/889/png-clipart-a-e-networks-logo-television-%E9%AB%98%E6%B8%85iphonex-miscellaneous-television-thumbnail.png" ,A&E TV
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61969
+#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://variety.com/wp-content/uploads/2013/12/fox-news-logo.jpg" tvg-logo-small="https://variety.com/wp-content/uploads/2013/12/fox-news-logo.jpg" ,FOX News
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62022
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://img.r7.com/images/record-06112023213615769?dimensions=677x369" tvg-logo-small="https://img.r7.com/images/record-06112023213615769?dimensions=677x369" ,TV RECORD
 http://c.strzzi.site:80/69754974281040/247129511903/2985026
 #EXTINF:-1 group-title="Helix • PT" tvg-logo="https://i.ibb.co/hMwg3m9/Helix-Logo.png" tvg-logo-small="https://i.ibb.co/hMwg3m9/Helix-Logo.png" ,★★★★★ Desporto ★★★★★
@@ -148,7 +150,7 @@ http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62005
 #EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/75/fb/16/75fb160d-4f58-dc39-ff38-63992acd5293/AppIcon-0-1x_U007emarketing-0-0-sRGB-85-220-7.png/1200x600wa.png" tvg-logo-small="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/75/fb/16/75fb160d-4f58-dc39-ff38-63992acd5293/AppIcon-0-1x_U007emarketing-0-0-sRGB-85-220-7.png/1200x600wa.png" ,Sporting TV
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62083
 #EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Logo_Porto_Canal.jpg" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/b/ba/Logo_Porto_Canal.jpg" ,Porto Canal
-https://stream-04.nyc.dailymotion.com/sec(-SVy60QQ6sKn1Jfj-v9Q0ojiwD__NFpf72CMD_JDQeMozDGrhBs2Xo1BEuWm-BS8)/dm/3/x8egnb8/s/live-2.m3u8
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62050
 #EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://www.comparamais.pt/wp-content/uploads/2019/09/benfica-tv.jpg" tvg-logo-small="https://www.comparamais.pt/wp-content/uploads/2019/09/benfica-tv.jpg" ,Benfica TV
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61981
 #EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/A_Bola_TV_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/en/b/b2/A_Bola_TV_logo.png" ,A Bola TV
@@ -173,7 +175,7 @@ http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61979
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62012
 #EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://espalhafactos.com/wp-content/uploads/2011/03/fox-crime-e1300205350430.jpg" tvg-logo-small="https://espalhafactos.com/wp-content/uploads/2011/03/fox-crime-e1300205350430.jpg" ,FOX CRIME HD
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62014
-#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://prowly-uploads.s3.eu-west-1.amazonaws.com/uploads/landing_page/cover_photo/83284/02fe5eccd66d93677377e735ed05b6d6.jpg" tvg-logo-small="https://prowly-uploads.s3.eu-west-1.amazonaws.com/uploads/landing_page/cover_photo/83284/02fe5eccd66d93677377e735ed05b6d6.jpg" ,FOX HD
+#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://cdn.mitvstatic.com/channels/br_fox-hd_m.png" tvg-logo-small="https://cdn.mitvstatic.com/channels/br_fox-hd_m.png" ,Star Channel
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62017
 #EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Fox-Life.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/4/44/Fox-Life.png" ,FOX LIFE HD
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62019
@@ -237,8 +239,6 @@ http://c.strzzi.site:80/69754974281040/247129511903/2985081
 http://c.strzzi.site:80/69754974281040/247129511903/2985095
 #EXTINF:-1 group-title="Animacao • PT" tvg-logo="https://i.imgur.com/E8CQtKg.png" tvg-logo-small="https://i.imgur.com/E8CQtKg.png" ,NICKELODEON HD
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62043
-#EXTINF:-1 group-title="Animacao • PT" tvg-logo="https://tvi.iol.pt/morangoscomacucar/img/logo.png" tvg-logo-small="https://tvi.iol.pt/morangoscomacucar/img/logo.png" ,Morangos Com Açucar
-https://video-auth2.iol.pt/live_hd2/live_hd2/playlist.m3u8
 #EXTINF:-1 group-title="Animacao • PT" tvg-logo="https://espalhafactos.com/wp-content/uploads/2012/10/Disney-Junior-_-Logo1.png" tvg-logo-small="https://espalhafactos.com/wp-content/uploads/2012/10/Disney-Junior-_-Logo1.png" ,Disney Junior
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62000
 #EXTINF:-1 group-title="Animacao • PT" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZRlJC_e1QwPw3H95mm94MqGolfawA45dPyU3Fxh=s900-c-k-c0x00ffffff-no-rj" tvg-logo-small="https://yt3.googleusercontent.com/ytc/AIf8zZRlJC_e1QwPw3H95mm94MqGolfawA45dPyU3Fxh=s900-c-k-c0x00ffffff-no-rj" ,Lolly Kids
@@ -251,6 +251,8 @@ http://Helix.pt
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62036
 #EXTINF:-1 group-title="Canais Musica • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" ,MTV 00s
 http://c.strzzi.site:80/69754974281040/247129511903/2985059
+#EXTINF:-1 group-title="Canais Musica • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" ,ONFM
+https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Canais Musica • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/MCM_Top_Logo.svg/1280px-MCM_Top_Logo.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/MCM_Top_Logo.svg/1280px-MCM_Top_Logo.svg.png" ,MCM TOP
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62033
 #EXTINF:-1 group-title="Canais Musica • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Mcm_pop_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/8/89/Mcm_pop_logo.png" ,MCM POP
@@ -285,6 +287,8 @@ http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61995
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61987
 #EXTINF:-1 group-title="Documentarios • PT" tvg-logo="https://parsefiles.back4app.com/xuEVZyqmEPdfjE6AndBuBOqp25pCCS3PEQmI8PM6/9229667b2980b3ff9333285fd7e81bd3_LOGO-RGB_ODISSEIA-Color-Claim-txtB.png" tvg-logo-small="https://parsefiles.back4app.com/xuEVZyqmEPdfjE6AndBuBOqp25pCCS3PEQmI8PM6/9229667b2980b3ff9333285fd7e81bd3_LOGO-RGB_ODISSEIA-Color-Claim-txtB.png" ,Odisseia
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62046
+#EXTINF:-1 group-title="Documentarios • PT" tvg-logo="https://parsefiles.back4app.com/xuEVZyqmEPdfjE6AndBuBOqp25pCCS3PEQmI8PM6/206738a76db4b0e6bf49616973909f4e_AMC%20BREAK%20MOBILE.png" tvg-logo-small="https://parsefiles.back4app.com/xuEVZyqmEPdfjE6AndBuBOqp25pCCS3PEQmI8PM6/206738a76db4b0e6bf49616973909f4e_AMC%20BREAK%20MOBILE.png" ,Break
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61983
 #EXTINF:-1 group-title="Documentarios • PT" tvg-logo="https://www.tvtuga.com/wp-content/uploads/2020/05/CACAVISION.png" tvg-logo-small="https://www.tvtuga.com/wp-content/uploads/2020/05/CACAVISION.png" ,Caça Vision
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61990
 #EXTINF:-1 group-title="Documentarios • PT" ,CGTN Documentary
@@ -307,10 +311,6 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3
 https://cdn-main.lolokoko.tv/BRAZZERS.stream/chunks.m3u8
 #EXTINF:-1 group-title="+18" tvg-id="DorcelTV.nl" tvg-logo="https://i.imgur.com/RkzyjEd.png" tvg-logo-small="https://i.imgur.com/RkzyjEd.png" ,Dorcel TV
 https://cdn-main.lolokoko.tv/DorcelTV.stream/playlist.m3u8
-#EXTINF:-1 group-title="+18" tvg-id="EroXHD.nl" tvg-logo="https://i.imgur.com/1EOQFqE.png" tvg-logo-small="https://i.imgur.com/1EOQFqE.png" ,EroX HD
-http://178.219.128.68:64888/EROXHD
-#EXTINF:-1 group-title="+18" tvg-id="Ero+18HD.nl" tvg-logo="https://i.imgur.com/ZNBLK41.png" tvg-logo-small="https://i.imgur.com/ZNBLK41.png" ,Ero+18 HD
-https://cdn-main.lolokoko.tv/Ero+18.stream/playlist.m3u8
 #EXTINF:-1 group-title="+18" tvg-id="HustlerHD.nl" tvg-logo="https://i.imgur.com/41Ej2io.png" tvg-logo-small="https://i.imgur.com/41Ej2io.png" ,Hustler HD
 https://cdn-main.lolokoko.tv/HUSTLER.stream/chunks.m3u8
 #EXTINF:-1 group-title="+18" tvg-id="JennyForYou.us" tvg-logo="https://i.imgur.com/W9x8sNg.png" ,Miami TV
@@ -319,14 +319,10 @@ https://59ec5453559f0.streamlock.net/JennyForYou/smil:WEB3131/playlist.m3u8
 http://31.148.48.15/O-la-la/index.m3u8
 #EXTINF:-1 group-title="+18" tvg-id="PenthouseGold.us" tvg-logo="https://i.imgur.com/0JufwBJ.png" ,Penthouse Gold
 http://51.159.102.100/PenthouseGold/index.m3u8
-#EXTINF:-1 group-title="+18" tvg-id="PlayboyTVLatinAmericaHD.us" tvg-logo="https://i.imgur.com/B3DMUM9.png" ,Playboy TV Latin America
-http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #EXTINF:-1 group-title="+18" tvg-id="PrivateTVHD.nl" tvg-logo="https://i.imgur.com/89E8Ev2.png" ,Private TV HD
 https://cdn-main.lolokoko.tv/Private.stream/playlist.m3u8
 #EXTINF:-1 group-title="+18" tvg-id="RedlightHD.nl" tvg-logo="https://i.imgur.com/g0QF5IG.png" ,Redlight HD
 https://cdn-main.lolokoko.tv/REDLIGHT.stream/chunks.m3u8
-#EXTINF:-1 group-title="+18" tvg-id="Silk.ru" tvg-logo="https://i.imgur.com/pbLpTrt.png" ,Silk
-http://live-1.otcnet.ru/shelkhdmts/playlist.m3u8
 #EXTINF:-1 group-title="+18" tvg-id="SunBeachTV.us" tvg-logo="https://i.imgur.com/o4fZU2M.png" ,SunBeach TV
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
 #EXTINF:-1 group-title="+18" tvg-id="VisitXTV.nl" tvg-logo="https://i.imgur.com/avtSqUu.png" ,Visit-X TV
@@ -339,11 +335,3 @@ http://bgp.cdnr1.xyz:80/diltech/diltech0310/147753
 http://bgp.cdnr1.xyz:80/diltech/diltech0310/83444
 #EXTINF:-1 group-title="Helix • PT" tvg-logo="https://i.ibb.co/hMwg3m9/Helix-Logo.png" tvg-logo-small="https://i.ibb.co/hMwg3m9/Helix-Logo.png" ,★★★★★ Outros ★★★★★
 http://Helix.pt
-#EXTINF:-1 group-title="Outros • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/24Kitchen.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/4/4d/24Kitchen.png" ,24 Kitchen HD
-http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61967
-#EXTINF:-1 group-title="Outros • PT" tvg-logo="https://e7.pngegg.com/pngimages/128/889/png-clipart-a-e-networks-logo-television-%E9%AB%98%E6%B8%85iphonex-miscellaneous-television-thumbnail.png" tvg-logo-small="https://e7.pngegg.com/pngimages/128/889/png-clipart-a-e-networks-logo-television-%E9%AB%98%E6%B8%85iphonex-miscellaneous-television-thumbnail.png" ,A&E TV
-http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61969
-#EXTINF:-1 group-title="Outros • PT" tvg-logo="https://parsefiles.back4app.com/xuEVZyqmEPdfjE6AndBuBOqp25pCCS3PEQmI8PM6/206738a76db4b0e6bf49616973909f4e_AMC%20BREAK%20MOBILE.png" tvg-logo-small="https://parsefiles.back4app.com/xuEVZyqmEPdfjE6AndBuBOqp25pCCS3PEQmI8PM6/206738a76db4b0e6bf49616973909f4e_AMC%20BREAK%20MOBILE.png" ,Break
-http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61983
-#EXTINF:-1 group-title="Outros • PT" tvg-logo="https://variety.com/wp-content/uploads/2013/12/fox-news-logo.jpg" tvg-logo-small="https://variety.com/wp-content/uploads/2013/12/fox-news-logo.jpg" ,FOX News
-http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62022
