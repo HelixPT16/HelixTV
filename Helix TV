@@ -29,8 +29,6 @@ http://c.strzzi.site:80/69754974281040/247129511903/2985017
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62065
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://eco.imgix.net/uploads/2023/10/cropped-135470970_10159469163861388_5543231704609363032_n-scaled-1.jpg" tvg-logo-small="https://eco.imgix.net/uploads/2023/10/cropped-135470970_10159469163861388_5543231704609363032_n-scaled-1.jpg" ,Sic Noticias
 https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
-#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://pbs.twimg.com/profile_images/1339671569757581313/535atxB2_400x400.jpg" tvg-logo-small="https://pbs.twimg.com/profile_images/1339671569757581313/535atxB2_400x400.jpg" ,ADVANCE SIC
-http://c.strzzi.site:80/69754974281040/247129511903/2985175
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Log%C3%B3tipo_TVI.png/640px-Log%C3%B3tipo_TVI.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Log%C3%B3tipo_TVI.png/640px-Log%C3%B3tipo_TVI.png" ,TVI
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62107
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2012/01/logoTVI24_2011.png" tvg-logo-small="https://www.meiosepublicidade.pt/wp-content/uploads/2012/01/logoTVI24_2011.png" ,TVI 24
@@ -173,7 +171,7 @@ http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61974
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61979
 #EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Logo_Fox_Comedy_Logo.png/1200px-Logo_Fox_Comedy_Logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Logo_Fox_Comedy_Logo.png/1200px-Logo_Fox_Comedy_Logo.png" ,FOX Comedy
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62012
-#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://espalhafactos.com/wp-content/uploads/2011/03/fox-crime-e1300205350430.jpg" tvg-logo-small="https://espalhafactos.com/wp-content/uploads/2011/03/fox-crime-e1300205350430.jpg" ,FOX CRIME HD
+#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://cdn.mitvstatic.com/channels/br_fox-hd_m.png" tvg-logo-small="https://cdn.mitvstatic.com/channels/br_fox-hd_m.png" ,Star Channel Crime
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62014
 #EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://cdn.mitvstatic.com/channels/br_fox-hd_m.png" tvg-logo-small="https://cdn.mitvstatic.com/channels/br_fox-hd_m.png" ,Star Channel
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62017
@@ -251,7 +249,7 @@ http://Helix.pt
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62036
 #EXTINF:-1 group-title="Canais Musica • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" ,MTV 00s
 http://c.strzzi.site:80/69754974281040/247129511903/2985059
-#EXTINF:-1 group-title="Canais Musica • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" ,ONFM
+#EXTINF:-1 group-title="Canais Musica • PT" tvg-logo="https://play-lh.googleusercontent.com/Uf4PVlw-mGYkxvmDTjuR_XuOIG9jbKQSVsKKTnXpFocW5D918hcVjUm93xSCF259Fro=w600-h300-pc0xffffff-pd" tvg-logo-small="https://play-lh.googleusercontent.com/Uf4PVlw-mGYkxvmDTjuR_XuOIG9jbKQSVsKKTnXpFocW5D918hcVjUm93xSCF259Fro=w600-h300-pc0xffffff-pd" ,ONFM
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Canais Musica • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/MCM_Top_Logo.svg/1280px-MCM_Top_Logo.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/MCM_Top_Logo.svg/1280px-MCM_Top_Logo.svg.png" ,MCM TOP
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62033
