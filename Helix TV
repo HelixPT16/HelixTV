@@ -327,7 +327,7 @@ https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
 https://stream.visit-x.tv/vxtv/live/playlist.m3u8
 #EXTINF:-1 group-title="+18" tvg-logo="https://cdn.mitvstatic.com/channels/br_venus-tv-sd_m.png" ,Venus
 http://45.226.67.3:58001/play/a01x/index.m3u8
-#EXTINF:-1 group-title="+18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Sexy_Hot_logo.png/1200px-Sexy_Hot_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Sexy_Hot_logo.png/1200px-Sexy_Hot_logo.png" ,Sex Hot
+#EXTINF:-1 group-title="+18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Sexy_Hot_logo.png/1200px-Sexy_Hot_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Sexy_Hot_logo.png/1200px-Sexy_Hot_logo.png" ,Sexy Hot
 http://bgp.cdnr1.xyz:80/diltech/diltech0310/147753
 #EXTINF:-1 group-title="+18" tvg-id="VisitXTV.nl" tvg-logo="https://cdn.mitvstatic.com/channels/br_sextreme-brazil_m.png" tvg-logo-small="https://cdn.mitvstatic.com/channels/br_sextreme-brazil_m.png" ,Sextreme
 http://bgp.cdnr1.xyz:80/diltech/diltech0310/83444
