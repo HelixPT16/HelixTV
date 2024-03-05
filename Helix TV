@@ -31,8 +31,6 @@ http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62065
 https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Log%C3%B3tipo_TVI.png/640px-Log%C3%B3tipo_TVI.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Log%C3%B3tipo_TVI.png/640px-Log%C3%B3tipo_TVI.png" ,TVI
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62107
-#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Log%C3%B3tipo_TVI.png/640px-Log%C3%B3tipo_TVI.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Log%C3%B3tipo_TVI.png/640px-Log%C3%B3tipo_TVI.png" ,TVI
-http://127.0.0.1:11470/30836f0dc0031964b475776d0a17ee9856620ebd/Upload.S03E04.Download.Doctor.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2012/01/logoTVI24_2011.png" tvg-logo-small="https://www.meiosepublicidade.pt/wp-content/uploads/2012/01/logoTVI24_2011.png" ,TVI 24
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62105
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/TVI_Fic%C3%A7%C3%A3o_%282017%29.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/0/0d/TVI_Fic%C3%A7%C3%A3o_%282017%29.png" ,TVI FICCAO
@@ -181,15 +179,15 @@ http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61975
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61974
 #EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/AXN_White_HD.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/4/4c/AXN_White_HD.png" ,AXN WHITE HD
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61979
-#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Logo_Fox_Comedy_Logo.png/1200px-Logo_Fox_Comedy_Logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Logo_Fox_Comedy_Logo.png/1200px-Logo_Fox_Comedy_Logo.png" ,FOX Comedy
+#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://cdn.mitvstatic.com/channels/br_fox-hd_m.png" tvg-logo-small="https://cdn.mitvstatic.com/channels/br_fox-hd_m.png" ,Star Comedy
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62012
 #EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://cdn.mitvstatic.com/channels/br_fox-hd_m.png" tvg-logo-small="https://cdn.mitvstatic.com/channels/br_fox-hd_m.png" ,Star Channel Crime
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62014
 #EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://cdn.mitvstatic.com/channels/br_fox-hd_m.png" tvg-logo-small="https://cdn.mitvstatic.com/channels/br_fox-hd_m.png" ,Star Channel
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62017
-#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Fox-Life.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/4/44/Fox-Life.png" ,FOX LIFE HD
+#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Fox-Life.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/4/44/Fox-Life.png" ,Star LIFE HD
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62019
-#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/FOX-Movies.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/1/19/FOX-Movies.png" ,FOX Movies
+#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://cdn.mitvstatic.com/channels/br_fox-hd_m.png" tvg-logo-small="https://cdn.mitvstatic.com/channels/br_fox-hd_m.png" ,Star  Movies
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62020
 #EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://www.nos.pt/content/dam/nos/assets/images/tv/tv-cine/logo-tvCine-action.jpg" tvg-logo-small="https://www.nos.pt/content/dam/nos/assets/images/tv/tv-cine/logo-tvCine-action.jpg" ,TVCine ACTION
 http://c.strzzi.site:80/69754974281040/247129511903/2985160
@@ -347,6 +345,5 @@ http://bgp.cdnr1.xyz:80/diltech/diltech0310/83444
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/260419
 #EXTINF:-1 group-title="Helix • PT" tvg-logo="https://i.ibb.co/hMwg3m9/Helix-Logo.png" tvg-logo-small="https://i.ibb.co/hMwg3m9/Helix-Logo.png" ,★★★★★ Outros ★★★★★
 http://Helix.pt
-#EXTINF:-1 group-title="Helix • PT" subtitles="https:\\raw.githubusercontent.com\HelixPT16\HelixTV\main\Scarface.1983.1080p.BRrip.x264.YIFY.srt" tvg-logo="https://i.ibb.co/hMwg3m9/Helix-Logo.png" tvg-logo-small="https://i.ibb.co/hMwg3m9/Helix-Logo.png" ,Scarface
-#EXTVLCOPT: https:\\raw.githubusercontent.com\HelixPT16\HelixTV\main\Scarface.1983.1080p.BRrip.x264.YIFY.srt
-https://pnagb.mv21h0jna.online/_v2p-ekbz/12a3c523fd105800ed8c394685aeeb0b942eaa5c55bfe3fa100c7baea93ece832257df1a4b6125fcfa38c35da05dee86aad28d46d73fc4e9d4e5a13a5371f4d5749544f85e4aea0f5691a6b039113946353dd279434b2cca8999bc55cafa74c9664ef9150b6bb7/h/acebfa4/cb;15a3873cfa10585daa846515d1b0ea069138af455cb8a8ee490165a0a7.m3u8
+#EXTINF:-1 group-title="Helix • PT" tvg-logo="https://i.ibb.co/hMwg3m9/Helix-Logo.png" tvg-logo-small="https://i.ibb.co/hMwg3m9/Helix-Logo.png" ,Scarface
+#EXTVLCOPT:sub-file=C:\Users\Utilizador\Downloads\Scarface.1983.1080p.BRrip.x264.YIFY.srt
