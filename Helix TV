@@ -54,10 +54,16 @@ http://c.strzzi.site:80/69754974281040/247129511903/2985017
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/112041
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c4/Sicmulher.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/en/c/c4/Sicmulher.png" ,Sic Mulher
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62065
+#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c4/Sicmulher.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/en/c/c4/Sicmulher.png" ,Sic Mulher [Alter]
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/112040
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://eco.imgix.net/uploads/2023/10/cropped-135470970_10159469163861388_5543231704609363032_n-scaled-1.jpg" tvg-logo-small="https://eco.imgix.net/uploads/2023/10/cropped-135470970_10159469163861388_5543231704609363032_n-scaled-1.jpg" ,Sic Noticias
 https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
+#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://eco.imgix.net/uploads/2023/10/cropped-135470970_10159469163861388_5543231704609363032_n-scaled-1.jpg" tvg-logo-small="https://eco.imgix.net/uploads/2023/10/cropped-135470970_10159469163861388_5543231704609363032_n-scaled-1.jpg" ,Sic Noticias [Alter]
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/112040
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Log%C3%B3tipo_TVI.png/640px-Log%C3%B3tipo_TVI.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Log%C3%B3tipo_TVI.png/640px-Log%C3%B3tipo_TVI.png" ,TVI
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62107
+#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Log%C3%B3tipo_TVI.png/640px-Log%C3%B3tipo_TVI.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Log%C3%B3tipo_TVI.png/640px-Log%C3%B3tipo_TVI.png" ,TVI [ Alter]
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/111943
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2012/01/logoTVI24_2011.png" tvg-logo-small="https://www.meiosepublicidade.pt/wp-content/uploads/2012/01/logoTVI24_2011.png" ,TVI 24
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62105
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/TVI_Fic%C3%A7%C3%A3o_%282017%29.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/0/0d/TVI_Fic%C3%A7%C3%A3o_%282017%29.png" ,TVI FICCAO
