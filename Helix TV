@@ -3,22 +3,22 @@
 http://Helix.pt
 #EXTINF:1 group-title="Canais Abertos • PT" tvg-id="rtp1.pt" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_positivo_horiz_RGB1.png" tvg-logo-small="https://img0.rtp.pt/common/img/favicon.ico" ,RTP1
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62052?utc=1705521499
-#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_positivo_horiz_RGB1.png" tvg-logo-small="https://img0.rtp.pt/common/img/favicon.ico" ,RTP1 [ Alter]
+#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_positivo_horiz_RGB1.png" tvg-logo-small="https://img0.rtp.pt/common/img/favicon.ico" ,RTP1 [Alter]
 #EXTVLCOPT:http-user-agent=Firefox
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP2_positivo_horiz_RGB.png" tvg-logo-small="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP2_positivo_horiz_RGB.png" ,RTP 2
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62053
-#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP2_positivo_horiz_RGB.png" tvg-logo-small="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP2_positivo_horiz_RGB.png" ,RTP 2 [ Alter]
+#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP2_positivo_horiz_RGB.png" tvg-logo-small="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP2_positivo_horiz_RGB.png" ,RTP 2 [Alter]
 #EXTVLCOPT:http-user-agent=Firefox
 https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtp3_positivo.jpg" tvg-logo-small="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtp3_positivo.jpg" ,RTP 3
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62055
-#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtp3_positivo.jpg" tvg-logo-small="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtp3_positivo.jpg" ,RTP 3 [ Alter]
+#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtp3_positivo.jpg" tvg-logo-small="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtp3_positivo.jpg" ,RTP 3 [Alter]
 #EXTVLCOPT:http-user-agent=Firefox
 https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/inspiration.m3u8
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTPAfrica_positivo_horiz_RGB.png" tvg-logo-small="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTPAfrica_positivo_horiz_RGB.png" ,RTP Africa
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62056
-#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTPAfrica_positivo_horiz_RGB.png" tvg-logo-small="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTPAfrica_positivo_horiz_RGB.png" ,RTP Africa [ Alter]
+#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTPAfrica_positivo_horiz_RGB.png" tvg-logo-small="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTPAfrica_positivo_horiz_RGB.png" ,RTP Africa [Alter]
 #EXTVLCOPT:http-user-agent=Firefox
 https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/inspiration.m3u8
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fquinto-canal.com%2Fwp-content%2Fuploads%2F2015%2F05%2FRTP-ACORES-1024x410.jpg&f=1&nofb=1&ipt=2184fc6b62ac6a9eff58f69fc94269626b53fc9f02122716cfd4030c39fd27f5&ipo=images" tvg-logo-small="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fquinto-canal.com%2Fwp-content%2Fuploads%2F2015%2F05%2FRTP-ACORES-1024x410.jpg&f=1&nofb=1&ipt=2184fc6b62ac6a9eff58f69fc94269626b53fc9f02122716cfd4030c39fd27f5&ipo=images" ,RTP Açores
@@ -28,22 +28,26 @@ http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62057
 https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/inspiration.m3u8
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-id="RTPMadeira(src01).pt" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/107-443519141305.png" tvg-logo-small="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/107-443519141305.png" ,RTP Madeira
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62058
-#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/107-443519141305.png" tvg-logo-small="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/107-443519141305.png" ,RTP Madeira [ Alter]
+#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/107-443519141305.png" tvg-logo-small="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/107-443519141305.png" ,RTP Madeira [Alter]
 #EXTVLCOPT:http-user-agent=Firefox
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil//inspiration.m3u8
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/80-584819141705.png" tvg-logo-small="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/80-584819141705.png" ,RTP Memoria
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62059
-#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/80-584819141705.png" tvg-logo-small="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/80-584819141705.png" ,RTP Memoria [ Alter]
+#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/80-584819141705.png" tvg-logo-small="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/80-584819141705.png" ,RTP Memoria [Alter]
 #EXTVLCOPT:http-user-agent=Firefox
 https://streaming-live.rtp.pt/liverepeater/smil:estudoemcasa.smil/inspiration.m3u8
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://sic.pt/wp-content/uploads/2023/06/SIC_002.png" tvg-logo-small="https://sic.pt/wp-content/uploads/2023/06/SIC_002.png" ,SIC
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/111941
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/SIC_CARAS.png/1200px-SIC_CARAS.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/SIC_CARAS.png/1200px-SIC_CARAS.png" ,Sic Caras
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62062
+#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/SIC_CARAS.png/1200px-SIC_CARAS.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/SIC_CARAS.png/1200px-SIC_CARAS.png" ,Sic Caras [Alter]
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/112039
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://duckduckgo.com/i/fbf9e53ae093a577.png" tvg-logo-small="https://duckduckgo.com/i/fbf9e53ae093a577.png" ,Sic Novelas
 https://fast.live.impresa.pt/out/v1/b5be42c4a68d4ee18461a7156bb8ecf2/sic-novelas.m3u8
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/da/SIC_K_Portugal.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/pt/d/da/SIC_K_Portugal.png" ,Sic Kids
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62064
+#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/da/SIC_K_Portugal.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/pt/d/da/SIC_K_Portugal.png" ,Sic Kids [Alter]
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/112028
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://i.imgur.com/ZPj99mx.png" tvg-logo-small="https://i.imgur.com/ZPj99mx.png" ,Sic Radical
 http://c.strzzi.site:80/69754974281040/247129511903/2985017
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c4/Sicmulher.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/en/c/c4/Sicmulher.png" ,Sic Mulher
@@ -366,3 +370,4 @@ http://bgp.cdnr1.xyz:80/diltech/diltech0310/83444
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/260419
 #EXTINF:-1 group-title="Helix • PT" tvg-logo="https://i.ibb.co/hMwg3m9/Helix-Logo.png" tvg-logo-small="https://i.ibb.co/hMwg3m9/Helix-Logo.png" ,★★★★★ Outros ★★★★★
 http://Helix.pt
+
