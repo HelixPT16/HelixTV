@@ -38,6 +38,8 @@ http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62059
 https://streaming-live.rtp.pt/liverepeater/smil:estudoemcasa.smil/inspiration.m3u8
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://sic.pt/wp-content/uploads/2023/06/SIC_002.png" tvg-logo-small="https://sic.pt/wp-content/uploads/2023/06/SIC_002.png" ,SIC
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/111941
+#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://sic.pt/wp-content/uploads/2023/06/SIC_002.png" tvg-logo-small="https://sic.pt/wp-content/uploads/2023/06/SIC_002.png" ,SIC [alter]
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/SIC_CARAS.png/1200px-SIC_CARAS.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/SIC_CARAS.png/1200px-SIC_CARAS.png" ,Sic Caras
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62062
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/SIC_CARAS.png/1200px-SIC_CARAS.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/SIC_CARAS.png/1200px-SIC_CARAS.png" ,Sic Caras [Alter]
@@ -172,6 +174,16 @@ http://c.strzzi.site:80/69754974281040/247129511903/2985200
 http://c.strzzi.site:80/69754974281040/247129511903/2985203
 #EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://www.midiaresearch.com/storage/uploads/blog/images/2018/08/ELEVEN.png" tvg-logo-small="https://www.midiaresearch.com/storage/uploads/blog/images/2018/08/ELEVEN.png" ,Eleven Sport 6
 http://c.strzzi.site:80/69754974281040/247129511903/2985206
+#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://www.midiaresearch.com/storage/uploads/blog/images/2018/08/ELEVEN.png" tvg-logo-small="https://www.midiaresearch.com/storage/uploads/blog/images/2018/08/ELEVEN.png" ,Dubai Racing 2
+https://list.iptvcat.com/my_list/s/3bf7223a1f7d43f91955e00e4474abf2.m3u8
+#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://www.pngfind.com/pngs/m/462-4621787_dubai-racing-2-dubai-racing-2-logo-hd.png" tvg-logo-small="https://www.pngfind.com/pngs/m/462-4621787_dubai-racing-2-dubai-racing-2-logo-hd.png" ,Dubai Racing 2
+https://list.iptvcat.com/my_list/s/3bf7223a1f7d43f91955e00e4474abf2.m3u8
+#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://www.pngfind.com/pngs/m/462-4621787_dubai-racing-2-dubai-racing-2-logo-hd.png" tvg-logo-small="https://www.pngfind.com/pngs/m/462-4621787_dubai-racing-2-dubai-racing-2-logo-hd.png" ,Dubai Sports 1
+https://list.iptvcat.com/my_list/s/97a45f7e220b3b702510f4d71669352a.m3u8
+#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://www.pngfind.com/pngs/m/462-4621787_dubai-racing-2-dubai-racing-2-logo-hd.png" tvg-logo-small="https://www.pngfind.com/pngs/m/462-4621787_dubai-racing-2-dubai-racing-2-logo-hd.png" ,Dubai Sports 2
+https://list.iptvcat.com/my_list/s/1b0381bf0a7446812d4db476e83e73bb.m3u8
+#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://www.pngfind.com/pngs/m/462-4621787_dubai-racing-2-dubai-racing-2-logo-hd.png" tvg-logo-small="https://www.pngfind.com/pngs/m/462-4621787_dubai-racing-2-dubai-racing-2-logo-hd.png" ,Dubai Sports 3
+https://list.iptvcat.com/my_list/s/3145d54d3842722b3efd1d9d970cdd0d.m3u8
 #EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://pbs.twimg.com/profile_images/1364953286168698886/ZtoiZzW5_400x400.jpg" tvg-logo-small="https://pbs.twimg.com/profile_images/1364953286168698886/ZtoiZzW5_400x400.jpg" ,MotorVision TV SD
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62035
 #EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="http://2.bp.blogspot.com/-EDR0oJ1_1rg/TWKTQqhNT8I/AAAAAAAAAQ4/r4LBAczcA4M/s1600/Eurosport+logo+2011.png" tvg-logo-small="http://2.bp.blogspot.com/-EDR0oJ1_1rg/TWKTQqhNT8I/AAAAAAAAAQ4/r4LBAczcA4M/s1600/Eurosport+logo+2011.png" ,EUROSPORT 1
