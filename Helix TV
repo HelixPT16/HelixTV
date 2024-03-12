@@ -1,4 +1,5 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/4z2xnj7gj8a2dr3dyv15"
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hMwg3m9/Helix-Logo.png" tvg-logo-small="https://i.ibb.co/hMwg3m9/Helix-Logo.png" group-title="ATUALIZADO",12/03/24
 #EXTINF:-1 group-title="Helix • PT" tvg-logo="https://i.ibb.co/hMwg3m9/Helix-Logo.png" tvg-logo-small="https://i.ibb.co/hMwg3m9/Helix-Logo.png" ,★★★★★ Helix IPTV ★★★★★
 http://Helix.pt
 #EXTINF:1 group-title="Canais Abertos • PT" tvg-id="rtp1.pt" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_positivo_horiz_RGB1.png" tvg-logo-small="https://img0.rtp.pt/common/img/favicon.ico" ,RTP1
@@ -174,16 +175,38 @@ http://c.strzzi.site:80/69754974281040/247129511903/2985200
 http://c.strzzi.site:80/69754974281040/247129511903/2985203
 #EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://www.midiaresearch.com/storage/uploads/blog/images/2018/08/ELEVEN.png" tvg-logo-small="https://www.midiaresearch.com/storage/uploads/blog/images/2018/08/ELEVEN.png" ,Eleven Sport 6
 http://c.strzzi.site:80/69754974281040/247129511903/2985206
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://www.midiaresearch.com/storage/uploads/blog/images/2018/08/ELEVEN.png" tvg-logo-small="https://www.midiaresearch.com/storage/uploads/blog/images/2018/08/ELEVEN.png" ,Dubai Racing 2
-https://list.iptvcat.com/my_list/s/3bf7223a1f7d43f91955e00e4474abf2.m3u8
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://www.pngfind.com/pngs/m/462-4621787_dubai-racing-2-dubai-racing-2-logo-hd.png" tvg-logo-small="https://www.pngfind.com/pngs/m/462-4621787_dubai-racing-2-dubai-racing-2-logo-hd.png" ,Dubai Racing 2
-https://list.iptvcat.com/my_list/s/3bf7223a1f7d43f91955e00e4474abf2.m3u8
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://www.pngfind.com/pngs/m/462-4621787_dubai-racing-2-dubai-racing-2-logo-hd.png" tvg-logo-small="https://www.pngfind.com/pngs/m/462-4621787_dubai-racing-2-dubai-racing-2-logo-hd.png" ,Dubai Sports 1
-https://list.iptvcat.com/my_list/s/97a45f7e220b3b702510f4d71669352a.m3u8
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://www.pngfind.com/pngs/m/462-4621787_dubai-racing-2-dubai-racing-2-logo-hd.png" tvg-logo-small="https://www.pngfind.com/pngs/m/462-4621787_dubai-racing-2-dubai-racing-2-logo-hd.png" ,Dubai Sports 2
-https://list.iptvcat.com/my_list/s/1b0381bf0a7446812d4db476e83e73bb.m3u8
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://www.pngfind.com/pngs/m/462-4621787_dubai-racing-2-dubai-racing-2-logo-hd.png" tvg-logo-small="https://www.pngfind.com/pngs/m/462-4621787_dubai-racing-2-dubai-racing-2-logo-hd.png" ,Dubai Sports 3
-https://list.iptvcat.com/my_list/s/3145d54d3842722b3efd1d9d970cdd0d.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais Desporto • PT",ESPN SD
+http://150.136.62.38:8880/channel/n3ae00fb/index.m3u8?q=1704444391508
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais Desporto • PT",ESPN HD
+https://cr7v.short.gy/manoiptv/ESPN/Index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais Desporto • PT",ESPN HD [Alter]
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83208
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais Desporto • PT",ESPN FHD
+http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/1
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="Canais Desporto • PT",ESPN 2 HD
+http://capivara.top:80/play/YmztvPOUaQu6G_uK8dDscH2uzXzheGcubxdV6JAgZevtbWdu59HfH3xecThTT4UD
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/ZAHnoPh.png" group-title="Canais Desporto • PT",ESPN 2 HD [Alter]
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83209
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3" tvg-logo="https://imgur.com/VCPTlBD.png" group-title="Canais Desporto • PT",ESPN 3 HD
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83207
+#EXTINF:-1 tvg-logo="https://imgur.com/ErWFVO3.png" group-title="Canais Desporto • PT",ESPN 4 SD
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83560
+#EXTINF:-1 tvg-logo="https://imgur.com/ErWFVO3.png" group-title="Canais Desporto • PT",ESPN 4 HD
+http://xciptv.aplicativos.top:80/884202033/r537B8146t/224
+#EXTINF:-1 tvg-logo="https://imgur.com/ErWFVO3.png" group-title="Canais Desporto • PT",ESPN 4 FHD
+http://51.83.238.223:16575/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="Canais Desporto • PT",ESPN 5 HD
+http://s.apkwuv.xyz:80/demopadexchange/demopad/83561
+#EXTINF:-1 tvg-logo="https://imgur.com/HyeeIkG.png" group-title="Canais Desporto • PT",Band Sports HD
+http://cdn.connectbr.com.br:80/Band-Sports/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/HIiZUQN.png" group-title="Canais Desporto • PT",Combate HD
+http://209.222.97.92:16493/
+#EXTINF:-1 tvg-logo="https://imgur.com/HIiZUQN.png" group-title="Canais Desporto • PT",Combate HD [Alter]
+https://cr7v.short.gy/manotv/EVENTO/Index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/AvV9rW9.png" group-title="Canais Desporto • PT",UFC Fightpass
+http://150.136.62.38:8880/channel/44b00ebb/index.m3u8?q=1704444391508
+#EXTINF:-1 tvg-logo="https://imgur.com/AvV9rW9.png" group-title="Canais Desporto • PT",UFC Fightpass HD
+http://capivara.top:80/play/YmztvPOUaQu6G_uK8dDscH2uzXzheGcubxdV6JAgZev91o40nUnkPu0nMqfV-ogA
 #EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://pbs.twimg.com/profile_images/1364953286168698886/ZtoiZzW5_400x400.jpg" tvg-logo-small="https://pbs.twimg.com/profile_images/1364953286168698886/ZtoiZzW5_400x400.jpg" ,MotorVision TV SD
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62035
 #EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="http://2.bp.blogspot.com/-EDR0oJ1_1rg/TWKTQqhNT8I/AAAAAAAAAQ4/r4LBAczcA4M/s1600/Eurosport+logo+2011.png" tvg-logo-small="http://2.bp.blogspot.com/-EDR0oJ1_1rg/TWKTQqhNT8I/AAAAAAAAAQ4/r4LBAczcA4M/s1600/Eurosport+logo+2011.png" ,EUROSPORT 1
