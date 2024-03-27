@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://m3u4u.com/epg/8p4ey87xrjaq7q4wng1v"
+#EXTM3U url-tvg="http://m3u4u.com/epg/4z2xnj7gj8a2dr3dyv15"
 #EXTINF:-1 tvg-logo="https://imgur.com/C09Ybxn.png" tvg-logo-small="https://imgur.com/C09Ybxn.png" group-title="ATUALIZADO",26/03/24
 http://Helix.pt
 #EXTINF:-1 group-title="Helix • PT" tvg-logo="https://i.ibb.co/hMwg3m9/Helix-Logo.png" tvg-logo-small="https://i.ibb.co/hMwg3m9/Helix-Logo.png" ,★★★★★ Helix IPTV ★★★★★
@@ -180,16 +180,28 @@ http://905155074679757268.ofd0310ax.xyz:80/play/oscarRR_iptv/7r7N@AUk7R/757268.t
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62076
 #EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://www.midiaresearch.com/storage/uploads/blog/images/2018/08/ELEVEN.png" tvg-logo-small="https://www.midiaresearch.com/storage/uploads/blog/images/2018/08/ELEVEN.png" ,Eleven Sport 1
 http://905155074679779952.ofd0310ax.xyz:80/play/oscarRR_iptv/7r7N@AUk7R/779952.ts
+#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://www.midiaresearch.com/storage/uploads/blog/images/2018/08/ELEVEN.png" tvg-logo-small="https://www.midiaresearch.com/storage/uploads/blog/images/2018/08/ELEVEN.png" ,Eleven Sport 1 [Alter]
+http://flysilo.top:8080/live/321668264176020045/6571668264176020/25024.ts
 #EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://www.midiaresearch.com/storage/uploads/blog/images/2018/08/ELEVEN.png" tvg-logo-small="https://www.midiaresearch.com/storage/uploads/blog/images/2018/08/ELEVEN.png" ,Eleven Sport 2
 http://905155074679318939.ofd0310ax.xyz:80/play/oscarRR_iptv/7r7N@AUk7R/318939.ts
+#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://www.midiaresearch.com/storage/uploads/blog/images/2018/08/ELEVEN.png" tvg-logo-small="https://www.midiaresearch.com/storage/uploads/blog/images/2018/08/ELEVEN.png" ,Eleven Sport 2 [Alter]
+http://flysilo.top:8080/live/321668264176020045/6571668264176020/25025.ts
 #EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://www.midiaresearch.com/storage/uploads/blog/images/2018/08/ELEVEN.png" tvg-logo-small="https://www.midiaresearch.com/storage/uploads/blog/images/2018/08/ELEVEN.png" ,Eleven Sport 3
 http://905155074679552898.ofd0310ax.xyz:80/play/oscarRR_iptv/7r7N@AUk7R/552898.ts
+#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://www.midiaresearch.com/storage/uploads/blog/images/2018/08/ELEVEN.png" tvg-logo-small="https://www.midiaresearch.com/storage/uploads/blog/images/2018/08/ELEVEN.png" ,Eleven Sport 3 [Alter]
+http://flysilo.top:8080/live/321668264176020045/6571668264176020/25026.ts
 #EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://www.midiaresearch.com/storage/uploads/blog/images/2018/08/ELEVEN.png" tvg-logo-small="https://www.midiaresearch.com/storage/uploads/blog/images/2018/08/ELEVEN.png" ,Eleven Sport 4
 http://905155074679330280.ofd0310ax.xyz:80/play/oscarRR_iptv/7r7N@AUk7R/330280.ts
+#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://www.midiaresearch.com/storage/uploads/blog/images/2018/08/ELEVEN.png" tvg-logo-small="https://www.midiaresearch.com/storage/uploads/blog/images/2018/08/ELEVEN.png" ,Eleven Sport 4 [Alter]
+http://flysilo.top:8080/live/321668264176020045/6571668264176020/25027.ts
 #EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://www.midiaresearch.com/storage/uploads/blog/images/2018/08/ELEVEN.png" tvg-logo-small="https://www.midiaresearch.com/storage/uploads/blog/images/2018/08/ELEVEN.png" ,Eleven Sport 5
 http://905155074679784141.ofd0310ax.xyz:80/play/oscarRR_iptv/7r7N@AUk7R/784141.ts
+#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://www.midiaresearch.com/storage/uploads/blog/images/2018/08/ELEVEN.png" tvg-logo-small="https://www.midiaresearch.com/storage/uploads/blog/images/2018/08/ELEVEN.png" ,Eleven Sport 5 [Alter]
+http://flysilo.top:8080/live/321668264176020045/6571668264176020/25028.ts
 #EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://www.midiaresearch.com/storage/uploads/blog/images/2018/08/ELEVEN.png" tvg-logo-small="https://www.midiaresearch.com/storage/uploads/blog/images/2018/08/ELEVEN.png" ,Eleven Sport 6
 http://905155074679318954.ofd0310ax.xyz:80/play/oscarRR_iptv/7r7N@AUk7R/318954.ts
+#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://www.midiaresearch.com/storage/uploads/blog/images/2018/08/ELEVEN.png" tvg-logo-small="https://www.midiaresearch.com/storage/uploads/blog/images/2018/08/ELEVEN.png" ,Eleven Sport 6 [Alter]
+http://flysilo.top:8080/live/321668264176020045/6571668264176020/24983.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais Desporto • PT",ESPN SD
 http://150.136.62.38:8880/channel/n3ae00fb/index.m3u8?q=1704444391508
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CkoAvYH.png" group-title="Canais Desporto • PT",ESPN HD
@@ -426,3 +438,4 @@ http://bgp.cdnr1.xyz:80/diltech/diltech0310/83444
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/260419
 #EXTINF:-1 group-title="Helix • PT" tvg-logo="https://i.ibb.co/hMwg3m9/Helix-Logo.png" tvg-logo-small="https://i.ibb.co/hMwg3m9/Helix-Logo.png" ,★★★★★ Outros ★★★★★
 http://Helix.pt
+
