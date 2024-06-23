@@ -81,7 +81,7 @@ http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61994
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/globo-tv-logo.png" tvg-logo-small="https://logodownload.org/wp-content/uploads/2013/12/globo-tv-logo.png" ,Globo Premium
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62026
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://variety.com/wp-content/uploads/2023/02/CNN-Logo.jpg" tvg-logo-small="https://variety.com/wp-content/uploads/2023/02/CNN-Logo.jpg" ,CNN
-https://sktv-forwarders.7m.pl/get.php?x=CNN_Portugal
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDI0IDEwOjU6MzUgQU0maGFzaF92YWx1ZT1GdVVnWlBYZDY1TVZ5RlZqMEtDZVlRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YjFjMjk3NmUtZTFiMC00NmVkLTg2MjAtZmZkNjAwNzc4OTZj/
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Casa-e-cozinha-Logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/b/be/Casa-e-cozinha-Logo.png" ,Casa Cozinha
 http://c.strzzi.site:80/69754974281040/247129511903/2985003
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://cdn.marschannels.com/files/channel_settings/img/1614853752386.jpg" tvg-logo-small="https://cdn.marschannels.com/files/channel_settings/img/1614853752386.jpg" ,Fashion TV
@@ -308,8 +308,6 @@ http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62000
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/112020
 #EXTINF:-1 group-title="Animacao • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/ca/Baby_TV.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/pt/c/ca/Baby_TV.png" ,Baby TV
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61980
-#EXTINF:-1 group-title="Animacao • PT" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzFmNGIwOWEtNWNjOS00MGQ2LWE2ZGUtYTYwNGIzOTkzOTZjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg" tvg-logo-small="https://m.media-amazon.com/images/M/MV5BYzFmNGIwOWEtNWNjOS00MGQ2LWE2ZGUtYTYwNGIzOTkzOTZjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg" ,Fireman SAM
-http://c.strzzi.site:80/69754974281040/247129511903/2985092
 #EXTINF:-1 group-title="Animacao • PT" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/logo_panda-kids.png" tvg-logo-small="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/logo_panda-kids.png" ,PANDA KIDS
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62048
 #EXTINF:-1 group-title="Animacao • PT" tvg-logo="https://duckduckgo.com/i/36adad5c.png" tvg-logo-small="https://duckduckgo.com/i/36adad5c.png" ,Rakuten family
