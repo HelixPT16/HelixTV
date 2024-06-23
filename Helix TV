@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/4z2xnj7gj8a2dr3dyv15"
-#EXTINF:-1 tvg-logo="https://imgur.com/C09Ybxn.png" tvg-logo-small="https://imgur.com/C09Ybxn.png" group-title="ATUALIZADO",26/03/24
+#EXTINF:-1 tvg-logo="https://imgur.com/C09Ybxn.png" tvg-logo-small="https://imgur.com/C09Ybxn.png" group-title="ATUALIZADO",23/06/24
 http://Helix.pt
 #EXTINF:-1 group-title="Helix • PT" tvg-logo="https://i.ibb.co/hMwg3m9/Helix-Logo.png" tvg-logo-small="https://i.ibb.co/hMwg3m9/Helix-Logo.png" ,★★★★★ Helix IPTV ★★★★★
 http://Helix.pt
@@ -67,7 +67,7 @@ http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/112040
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Log%C3%B3tipo_TVI.png/640px-Log%C3%B3tipo_TVI.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Log%C3%B3tipo_TVI.png/640px-Log%C3%B3tipo_TVI.png" ,TVI
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62107
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Log%C3%B3tipo_TVI.png/640px-Log%C3%B3tipo_TVI.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Log%C3%B3tipo_TVI.png/640px-Log%C3%B3tipo_TVI.png" ,TVI [ Alter]
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/111943
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDI0IDEwOjU6MzQgQU0maGFzaF92YWx1ZT1uTTk3ZHl3QVg1MGowdEk4amRPQTRBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZTllYmI5MzktMzg1Mi00YWYzLTkzZjItZDVmYTkyY2Q2N2Uw/
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2012/01/logoTVI24_2011.png" tvg-logo-small="https://www.meiosepublicidade.pt/wp-content/uploads/2012/01/logoTVI24_2011.png" ,TVI 24
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62105
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/TVI_Fic%C3%A7%C3%A3o_%282017%29.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/0/0d/TVI_Fic%C3%A7%C3%A3o_%282017%29.png" ,TVI FICCAO
@@ -355,7 +355,7 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Canais Musica • PT" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TRACE-Latina.png" tvg-logo-small="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TRACE-Latina.png" ,Trace Latina
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8
 #EXTINF:-1 group-title="Canais Musica • PT" tvg-logo="https://img1.wsimg.com/isteam/ip/11edb162-8e14-4098-971b-59cc4ec80e0b/logo-trace-brasil-01.png/:/cr=t:7.63%25,l:26.17%25,w:47.67%25,h:84.75%25/rs=w:365,h:365,cg:true,m" tvg-logo-small="https://img1.wsimg.com/isteam/ip/11edb162-8e14-4098-971b-59cc4ec80e0b/logo-trace-brasil-01.png/:/cr=t:7.63%25,l:26.17%25,w:47.67%25,h:84.75%25/rs=w:365,h:365,cg:true,m" ,Trace Brasil
-https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ccfvktkgxl5qg/playlist.m3u8
+http://authxplus-2.xyz:2082/Tourobox3-f55k0KRhwG/pvWLwwOERN/969
 #EXTINF:-1 group-title="Canais Musica • PT" tvg-logo="https://pbs.twimg.com/profile_images/1321475159124049920/jjJy6r7d_400x400.jpg" tvg-logo-small="https://pbs.twimg.com/profile_images/1321475159124049920/jjJy6r7d_400x400.jpg" ,Afro Music
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61970
 #EXTINF:-1 group-title="Canais Musica • PT" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/regarder-alma-lusa.png" tvg-logo-small="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/regarder-alma-lusa.png" ,Alma Lusa
