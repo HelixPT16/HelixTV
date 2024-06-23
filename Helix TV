@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://m3u4u.com/epg/8p4ey87xrjaq7q4wng1v"
+#EXTM3U url-tvg="http://m3u4u.com/epg/4z2xnj7gj8a2dr3dyv15"
 #EXTINF:-1 tvg-logo="https://imgur.com/C09Ybxn.png" tvg-logo-small="https://imgur.com/C09Ybxn.png" group-title="ATUALIZADO",26/03/24
 http://Helix.pt
 #EXTINF:-1 group-title="Helix • PT" tvg-logo="https://i.ibb.co/hMwg3m9/Helix-Logo.png" tvg-logo-small="https://i.ibb.co/hMwg3m9/Helix-Logo.png" ,★★★★★ Helix IPTV ★★★★★
@@ -254,16 +254,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvbrpt-lgbr/playli
 http://c.strzzi.site:80/69754974281040/247129511903/2985260
 #EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://www.lojasonline.net/sn/pasta_ficheiros_entidades_sn/74751/loja/foto_85170C51-AE50-47AA-A8F3A1CE8DA3B9A010.jpg" tvg-logo-small="https://www.lojasonline.net/sn/pasta_ficheiros_entidades_sn/74751/loja/foto_85170C51-AE50-47AA-A8F3A1CE8DA3B9A010.jpg" ,Caçae Pesca
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61991
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1280px-Bein_sport_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1280px-Bein_sport_logo.png" ,USA: BEIN Sports HD
-http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/3587
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://w7.pngwing.com/pngs/752/349/png-transparent-la-liga-bein-sports-3-streaming-media-others-purple-television-violet.png" tvg-logo-small="https://w7.pngwing.com/pngs/752/349/png-transparent-la-liga-bein-sports-3-streaming-media-others-purple-television-violet.png" ,ES | Bein LaLiga bar FHD
-http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/48445
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://c0.klipartz.com/pngpicture/320/259/gratis-png-bein-sports-1-logo-bein-taquilla-bein-media-group-canal-de-television.png" tvg-logo-small="https://c0.klipartz.com/pngpicture/320/259/gratis-png-bein-sports-1-logo-bein-taquilla-bein-media-group-canal-de-television.png" ,FR: BEIN SPORTS 1
-http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/53324
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/1200px-Logo_bein_sports_2.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/1200px-Logo_bein_sports_2.png" ,FR: BEIN SPORTS 2
-http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/53325
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/1200px-Logo_bein_sports_3.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/1200px-Logo_bein_sports_3.png" ,FR: BEIN SPORTS 3
-http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/53326
 #EXTINF:-1 group-title="Helix • PT" tvg-logo="https://i.ibb.co/hMwg3m9/Helix-Logo.png" tvg-logo-small="https://i.ibb.co/hMwg3m9/Helix-Logo.png" ,★★★★★ Filmes & Series ★★★★★
 http://Helix.pt
 #EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/AXN_Movies_logo.jpg/1200px-AXN_Movies_logo.jpg" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/AXN_Movies_logo.jpg/1200px-AXN_Movies_logo.jpg" ,AXN Movies HD
@@ -438,4 +428,3 @@ http://bgp.cdnr1.xyz:80/diltech/diltech0310/83444
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/260419
 #EXTINF:-1 group-title="Helix • PT" tvg-logo="https://i.ibb.co/hMwg3m9/Helix-Logo.png" tvg-logo-small="https://i.ibb.co/hMwg3m9/Helix-Logo.png" ,★★★★★ Outros ★★★★★
 http://Helix.pt
-
