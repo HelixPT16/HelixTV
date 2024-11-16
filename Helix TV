@@ -29,7 +29,7 @@ http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1090
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1301
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://sic.pt/wp-content/uploads/2023/06/SIC_002.png" tvg-logo-small="https://sic.pt/wp-content/uploads/2023/06/SIC_002.png" ,SIC ʰᵉᵛᶜ
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/70815
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://cfvod.kaltura.com/p/4526593/sp/452659300/thumbnail/entry_id/1_chqvbxry/width/0/height/0/quality/85" tvg-logo-small="https://cfvod.kaltura.com/p/4526593/sp/452659300/thumbnail/entry_id/1_chqvbxry/width/0/height/0/quality/85",SIC Novelas
+#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://cfvod.kaltura.com/p/4526593/sp/452659300/thumbnail/entry_id/1_chqvbxry/width/0/height/0/quality/85" tvg-logo-small="https://cfvod.kaltura.com/p/4526593/sp/452659300/thumbnail/entry_id/1_chqvbxry/width/0/height/0/quality/85",SIC Novelas
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/147004
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://sic.pt/wp-content/uploads/2023/06/SIC_002.png" tvg-logo-small="https://sic.pt/wp-content/uploads/2023/06/SIC_002.png" ,SIC HD ʰᵉᵛᶜ
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/70814
@@ -83,6 +83,8 @@ http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/136365
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1163
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/globo-tv-logo.png" tvg-logo-small="https://logodownload.org/wp-content/uploads/2013/12/globo-tv-logo.png" ,TV GLOBO FHD
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/125923
+#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIHPzahx-upEM5B7By7T88UMFVInzRaa-QDQ&s" tvg-logo-small="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIHPzahx-upEM5B7By7T88UMFVInzRaa-QDQ&s" ,Bloomberg
+http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/133451
 
 
 #EXTINF:-1 group-title="Helix • PT" tvg-logo="https://i.ibb.co/hMwg3m9/Helix-Logo.png" tvg-logo-small="https://i.ibb.co/hMwg3m9/Helix-Logo.png" ,★★★★★ Filmes & Series ★★★★★
@@ -107,65 +109,65 @@ http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/145127
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/68298
 #EXTINF:-1 ,PT: STAR COMEDY
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1117
-#EXTINF:-1 ,PT: NOS Studios ʰᵉᵛᶜ
+#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://pplware.sapo.pt/wp-content/uploads/2019/06/NOS_03.jpg" tvg-logo-small="https://pplware.sapo.pt/wp-content/uploads/2019/06/NOS_03.jpg" ,NOS Studios ʰᵉᵛᶜ
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/64879
-#EXTINF:-1 ,PT: NOS Studios HD ʰᵉᵛᶜ
+#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://pplware.sapo.pt/wp-content/uploads/2019/06/NOS_03.jpg" tvg-logo-small="https://pplware.sapo.pt/wp-content/uploads/2019/06/NOS_03.jpg" ,NOS Studios HD ʰᵉᵛᶜ
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/64877
-#EXTINF:-1 ,PT: NOS Studios FHD ʳᵃʷ
+#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://pplware.sapo.pt/wp-content/uploads/2019/06/NOS_03.jpg" tvg-logo-small="https://pplware.sapo.pt/wp-content/uploads/2019/06/NOS_03.jpg" ,NOS Studios FHD ʳᵃʷ
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/16626
-#EXTINF:-1 ,PT: TVCine TOP ʰᵉᵛᶜ
+#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TVCine-TOP.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/2/24/TVCine-TOP.png" ,TVCine TOP ʰᵉᵛᶜ
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1065
-#EXTINF:-1 ,PT: TVCine TOP HD ʰᵉᵛᶜ
+#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TVCine-TOP.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/2/24/TVCine-TOP.png" ,TVCine TOP HD ʰᵉᵛᶜ
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/70823
-#EXTINF:-1 ,PT: TVCine TOP FHD
+#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TVCine-TOP.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/2/24/TVCine-TOP.png" ,TVCine TOP FHD
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/13439
-#EXTINF:-1 ,PT: TVCine EDITION ʰᵉᵛᶜ
+#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfqVPdIE50QKlllZQiJMR5a9Y-kfc8D9wS9A&usqp=CAU" tvg-logo-small="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfqVPdIE50QKlllZQiJMR5a9Y-kfc8D9wS9A&usqp=CAU" ,TVCine EDITION ʰᵉᵛᶜ
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1064
-#EXTINF:-1 ,PT: TVCine EDITION HD ʰᵉᵛᶜ
+#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfqVPdIE50QKlllZQiJMR5a9Y-kfc8D9wS9A&usqp=CAU" tvg-logo-small="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfqVPdIE50QKlllZQiJMR5a9Y-kfc8D9wS9A&usqp=CAU" ,TVCine EDITION HD ʰᵉᵛᶜ
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/70821
-#EXTINF:-1 ,PT: TVCine EMOTION FHD
+#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/TVCine-Emotion.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/8/81/TVCine-Emotion.png" ,TVCine EMOTION FHD
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/13440
-#EXTINF:-1 ,PT: TVCine EMOTION ʰᵉᵛᶜ
+#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/TVCine-Emotion.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/8/81/TVCine-Emotion.png" ,TVCine EMOTION ʰᵉᵛᶜ
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1063
-#EXTINF:-1 ,PT: TVCine EMOTION HD ʰᵉᵛᶜ
+#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/TVCine-Emotion.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/8/81/TVCine-Emotion.png" ,TVCine EMOTION HD ʰᵉᵛᶜ
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/70822
-#EXTINF:-1 ,PT: TVCine EMOTION FHD
+#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/TVCine-Emotion.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/8/81/TVCine-Emotion.png" ,PT: TVCine EMOTION FHD
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/13441
-#EXTINF:-1 ,PT: TVCine ACTION ʰᵉᵛᶜ
+#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://www.nos.pt/content/dam/nos/assets/images/tv/tv-cine/logo-tvCine-action.jpg" tvg-logo-small="https://www.nos.pt/content/dam/nos/assets/images/tv/tv-cine/logo-tvCine-action.jpg" ,TVCine ACTION ʰᵉᵛᶜ
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/13894
-#EXTINF:-1 ,PT: TVCine ACTION HD ʰᵉᵛᶜ
+#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://www.nos.pt/content/dam/nos/assets/images/tv/tv-cine/logo-tvCine-action.jpg" tvg-logo-small="https://www.nos.pt/content/dam/nos/assets/images/tv/tv-cine/logo-tvCine-action.jpg" ,TVCine ACTION HD ʰᵉᵛᶜ
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/70820
-#EXTINF:-1 ,PT: TVCine ACTION FHD
+#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://www.nos.pt/content/dam/nos/assets/images/tv/tv-cine/logo-tvCine-action.jpg" tvg-logo-small="https://www.nos.pt/content/dam/nos/assets/images/tv/tv-cine/logo-tvCine-action.jpg" ,PT: TVCine ACTION FHD
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1062
-#EXTINF:-1 ,PT: AMC HD
+#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://w7.pngwing.com/pngs/138/733/png-transparent-axn-hd-logo-thumbnail.png" tvg-logo-small="https://w7.pngwing.com/pngs/138/733/png-transparent-axn-hd-logo-thumbnail.png" ,AMC HD
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/36835
-#EXTINF:-1 ,PT: AMC FHD
+#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://w7.pngwing.com/pngs/138/733/png-transparent-axn-hd-logo-thumbnail.png" tvg-logo-small="https://w7.pngwing.com/pngs/138/733/png-transparent-axn-hd-logo-thumbnail.png" ,AMC FHD
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1089
-#EXTINF:-1 ,PT: AXN HD ʰᵉᵛᶜ
+#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://w7.pngwing.com/pngs/138/733/png-transparent-axn-hd-logo-thumbnail.png" tvg-logo-small="https://w7.pngwing.com/pngs/138/733/png-transparent-axn-hd-logo-thumbnail.png" ,AXN HD ʰᵉᵛᶜ
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/68293
-#EXTINF:-1 ,PT: AXN FHD
+#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://w7.pngwing.com/pngs/138/733/png-transparent-axn-hd-logo-thumbnail.png" tvg-logo-small="https://w7.pngwing.com/pngs/138/733/png-transparent-axn-hd-logo-thumbnail.png" ,AXN FHD
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/26593
-#EXTINF:-1 ,PT: AXN MOVIES HD ʰᵉᵛᶜ
+#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/AXN_Movies_logo.jpg/1200px-AXN_Movies_logo.jpg" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/AXN_Movies_logo.jpg/1200px-AXN_Movies_logo.jpg" ,AXN MOVIES HD ʰᵉᵛᶜ
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/68295
-#EXTINF:-1 ,PT: AXN MOVIES FHD
+#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/AXN_Movies_logo.jpg/1200px-AXN_Movies_logo.jpg" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/AXN_Movies_logo.jpg/1200px-AXN_Movies_logo.jpg" ,AXN MOVIES FHD
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1088
-#EXTINF:-1 ,PT: AXN WHITE HD ʰᵉᵛᶜ
+#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/AXN_White_HD.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/4/4c/AXN_White_HD.png" ,AXN WHITE HD ʰᵉᵛᶜ
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/68294
-#EXTINF:-1 ,PT: AXN WHITE FHD
+#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/AXN_White_HD.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/4/4c/AXN_White_HD.png" ,AXN WHITE FHD
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1086
-#EXTINF:-1 ,PT: CINEMUNDO
+#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Logotipo_Cinemundo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/8/84/Logotipo_Cinemundo.png" ,CINEMUNDO
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1109
-#EXTINF:-1 ,PT: CINEMUNDO FHD
+#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Logotipo_Cinemundo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/8/84/Logotipo_Cinemundo.png" ,CINEMUNDO FHD
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/125924
-#EXTINF:-1 ,PT: HOLLYWOOD HD ʰᵉᵛᶜ
+#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2014/01/LOGO-HOLLYWOOD.jpg" tvg-logo-small="https://www.atelevisao.com/wp-content/uploads/2014/01/LOGO-HOLLYWOOD.jpg" ,HOLLYWOOD HD ʰᵉᵛᶜ
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1124
-#EXTINF:-1 ,PT: HOLLYWOOD FHD
+#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2014/01/LOGO-HOLLYWOOD.jpg" tvg-logo-small="https://www.atelevisao.com/wp-content/uploads/2014/01/LOGO-HOLLYWOOD.jpg" ,HOLLYWOOD FHD
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/14316
-#EXTINF:-1 ,PT: SYFY ʰᵉᵛᶜ
+#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1200px-Syfy.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1200px-Syfy.svg.png" ,SYFY ʰᵉᵛᶜ
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/146254
-#EXTINF:-1 ,PT: SYFY HD ʰᵉᵛᶜ
+#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1200px-Syfy.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1200px-Syfy.svg.png" ,SYFY HD ʰᵉᵛᶜ
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/14317
-#EXTINF:-1 ,PT: SYFY FHD
+#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1200px-Syfy.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1200px-Syfy.svg.png" ,SYFY FHD
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1156
 
 #EXTINF:-1 group-title="Helix • PT" tvg-logo="https://i.ibb.co/hMwg3m9/Helix-Logo.png" tvg-logo-small="https://i.ibb.co/hMwg3m9/Helix-Logo.png" ,★★★★★ Desporto ★★★★★
@@ -314,71 +316,68 @@ http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/23691
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/23692
 #EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/1200px-Logo_Canal_11_FPF.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/1200px-Logo_Canal_11_FPF.svg.png" ,CANAL 11 FHD
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/16311
+#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://pbs.twimg.com/profile_images/1164558980267618309/V1ams3u8_400x400.jpg" tvg-logo-small="https://pbs.twimg.com/profile_images/1164558980267618309/V1ams3u8_400x400.jpg" ,FUEL TV
+http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1122
+#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://www.lojasonline.net/sn/pasta_ficheiros_entidades_sn/74751/loja/foto_85170C51-AE50-47AA-A8F3A1CE8DA3B9A010.jpg" tvg-logo-small="https://www.lojasonline.net/sn/pasta_ficheiros_entidades_sn/74751/loja/foto_85170C51-AE50-47AA-A8F3A1CE8DA3B9A010.jpg" ,CAZA Y PESCA
+http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1102
 
 #EXTINF:-1 group-title="Helix • PT" tvg-logo="https://i.ibb.co/hMwg3m9/Helix-Logo.png" tvg-logo-small="https://i.ibb.co/hMwg3m9/Helix-Logo.png" ,★★★★★ Animação ★★★★★
 http://Helix.pt
 #EXTINF:-1 group-title="Animacao • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/da/SIC_K_Portugal.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/pt/d/da/SIC_K_Portugal.png" ,SIC K
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/13922
-#EXTINF:-1 ,PT: Cartoonito
+#EXTINF:-1 group-title="Animacao • PT" tvg-logo="https://duckduckgo.com/i/2f4e8b65.png" tvg-logo-small="https://duckduckgo.com/i/2f4e8b65.png" ,Cartoonito
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/136934
-#EXTINF:-1 ,PT: Cartoon Network
+#EXTINF:-1 group-title="Animacao • PT" tvg-logo="https://i.imgur.com/Atdjaeq.png" tvg-logo-small="https://i.imgur.com/Atdjaeq.png" ,Cartoon Network
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1106
-#EXTINF:-1 ,PT: DISNEY JUNIOR
+#EXTINF:-1 group-title="Animacao • PT" tvg-logo="https://espalhafactos.com/wp-content/uploads/2012/10/Disney-Junior-_-Logo1.png" tvg-logo-small="https://espalhafactos.com/wp-content/uploads/2012/10/Disney-Junior-_-Logo1.png" ,DISNEY JUNIOR
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1114
-#EXTINF:-1 ,PT: DISNEY CHANNEL
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1113
-#EXTINF:-1 ,PT: Lolly Kids
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/88168
-#EXTINF:-1 ,PT: Bloomberg
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/133451
-#EXTINF:-1 ,PT: NICK JR
+#EXTINF:-1 group-title="Animacao • PT" tvg-logo="https://espalhafactos.com/wp-content/uploads/2012/10/Disney-Junior-_-Logo1.png" tvg-logo-small="https://espalhafactos.com/wp-content/uploads/2012/10/Disney-Junior-_-Logo1.png" ,NICK JR
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/59682
-#EXTINF:-1 ,PT: BABY TV
+#EXTINF:-1 group-title="Animacao • PT" tvg-logo="https://prowly-uploads.s3.eu-west-1.amazonaws.com/uploads/landing_page/template_background/215208/ceb0503349e3a10c2109d9d942459f6c.jpg" tvg-logo-small="https://prowly-uploads.s3.eu-west-1.amazonaws.com/uploads/landing_page/template_background/215208/ceb0503349e3a10c2109d9d942459f6c.jpg" ,DISNEY CHANNEL
+http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1113
+#EXTINF:-1 group-title="Animacao • PT" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZRlJC_e1QwPw3H95mm94MqGolfawA45dPyU3Fxh=s900-c-k-c0x00ffffff-no-rj" tvg-logo-small="https://yt3.googleusercontent.com/ytc/AIf8zZRlJC_e1QwPw3H95mm94MqGolfawA45dPyU3Fxh=s900-c-k-c0x00ffffff-no-rj" ,Lolly Kids
+http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/88168
+#EXTINF:-1 group-title="Animacao • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/ca/Baby_TV.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/pt/c/ca/Baby_TV.png" ,BABY TV
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1099
-#EXTINF:-1 ,PT: Nickelodeon
+#EXTINF:-1 group-title="Animacao • PT" tvg-logo="https://i.imgur.com/E8CQtKg.png" tvg-logo-small="https://i.imgur.com/E8CQtKg.png" ,Nickelodeon
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1134
-#EXTINF:-1 ,PT: CANAL PANDA
+#EXTINF:-1 group-title="Animacao • PT" tvg-logo="https://canalpanda.pt/wp-content/uploads/2022/11/LOGO-PANDA_VERTICAL_CAJA-e1669214127363.png" tvg-logo-small="https://canalpanda.pt/wp-content/uploads/2022/11/LOGO-PANDA_VERTICAL_CAJA-e1669214127363.png" ,CANAL PANDA
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1104
-#EXTINF:-1 ,PT: Biggs
+#EXTINF:-1 group-title="Animacao • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Biggs_2023_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/2/27/Biggs_2023_logo.png" ,Biggs
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1046
+
 #EXTINF:-1 group-title="Helix • PT" tvg-logo="https://i.ibb.co/hMwg3m9/Helix-Logo.png" tvg-logo-small="https://i.ibb.co/hMwg3m9/Helix-Logo.png" ,★★★★★ Documentários ★★★★★
 http://Helix.pt
-#EXTINF:-1 ,PT: AMC Crime
+#EXTINF:-1 group-title="Outros • PT" tvg-logo="https://parsefiles.back4app.com/xuEVZyqmEPdfjE6AndBuBOqp25pCCS3PEQmI8PM6/a8106581dbd0a4365c9556f198aa6a64_AMC%20CRIME_NEGRO.png" tvg-logo-small="https://parsefiles.back4app.com/xuEVZyqmEPdfjE6AndBuBOqp25pCCS3PEQmI8PM6/a8106581dbd0a4365c9556f198aa6a64_AMC%20CRIME_NEGRO.png" ,AMC Crime
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/129385
-#EXTINF:-1 ,PT: AMC Break
+#EXTINF:-1 group-title="Outros • PT" tvg-logo="https://parsefiles.back4app.com/xuEVZyqmEPdfjE6AndBuBOqp25pCCS3PEQmI8PM6/206738a76db4b0e6bf49616973909f4e_AMC%20BREAK%20MOBILE.png" tvg-logo-small="https://parsefiles.back4app.com/xuEVZyqmEPdfjE6AndBuBOqp25pCCS3PEQmI8PM6/206738a76db4b0e6bf49616973909f4e_AMC%20BREAK%20MOBILE.png" ,AMC Break
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/127065
-#EXTINF:-1 ,PT: Discovery Channel FHD
+#EXTINF:-1 group-title="Documentarios • PT" tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2014/10/Discovery-Channel-logo.png" tvg-logo-small="https://www.meiosepublicidade.pt/wp-content/uploads/2014/10/Discovery-Channel-logo.png" ,Discovery Channel FHD
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/64878
 #EXTINF:-1 ,PT: INVESTIGATION DISCOVERY
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/13919
-#EXTINF:-1 ,PT:  Historia
+#EXTINF:-1 group-title="Documentarios • PT" tvg-logo="https://yt3.googleusercontent.com/IVVrue_WHD9lK-12DvplMxKoxOYOS2kjYl1tbhC_fONBK06E-YfdEdtScQNwWQUbxrHfwnxBgw=s900-c-k-c0x00ffffff-no-rj" tvg-logo-small="https://yt3.googleusercontent.com/IVVrue_WHD9lK-12DvplMxKoxOYOS2kjYl1tbhC_fONBK06E-YfdEdtScQNwWQUbxrHfwnxBgw=s900-c-k-c0x00ffffff-no-rj" ,Historia
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1092
-#EXTINF:-1 ,PT: Casa e Cozinha
+#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Casa-e-cozinha-Logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/b/be/Casa-e-cozinha-Logo.png" ,Casa e Cozinha
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/67664
-#EXTINF:-1 ,PT:  National Geographic Wild HD ʰᵉᵛᶜ
+#EXTINF:-1 group-title="Documentarios • PT" tvg-logo="https://static.nationalgeographicbrasil.com/files/styles/image_3200/public/nglogo2.png?w=1600" tvg-logo-small="https://static.nationalgeographicbrasil.com/files/styles/image_3200/public/nglogo2.png?w=1600" ,National Geographic Wild HD ʰᵉᵛᶜ
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/67656
-#EXTINF:-1 ,PT: National Geographic HD ʰᵉᵛᶜ
+#EXTINF:-1 group-title="Documentarios • PT" tvg-logo="https://static.nationalgeographicbrasil.com/files/styles/image_3200/public/nglogo2.png?w=1600" tvg-logo-small="https://static.nationalgeographicbrasil.com/files/styles/image_3200/public/nglogo2.png?w=1600" ,National Geographic HD ʰᵉᵛᶜ
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1132
-#EXTINF:-1 ,PT: National Geographic FHD
+#EXTINF:-1 group-title="Documentarios • PT" tvg-logo="https://static.nationalgeographicbrasil.com/files/styles/image_3200/public/nglogo2.png?w=1600" tvg-logo-small="https://static.nationalgeographicbrasil.com/files/styles/image_3200/public/nglogo2.png?w=1600" ,National Geographic FHD
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/22068
-#EXTINF:-1 ,PT: E! Entertainment
+#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://akns-images.eonline.com/eol_images/Entire_Site/2020330/rs_112x112-200430123021-112X112-e-logo.png" tvg-logo-small="https://akns-images.eonline.com/eol_images/Entire_Site/2020330/rs_112x112-200430123021-112X112-e-logo.png" ,E! Entertainment
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1115
-#EXTINF:-1 ,PT: CAZA Y PESCA
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1102
-#EXTINF:-1 ,PT:  ODISSEIA
+#EXTINF:-1 group-title="Documentarios • PT" tvg-logo="https://parsefiles.back4app.com/xuEVZyqmEPdfjE6AndBuBOqp25pCCS3PEQmI8PM6/9229667b2980b3ff9333285fd7e81bd3_LOGO-RGB_ODISSEIA-Color-Claim-txtB.png" tvg-logo-small="https://parsefiles.back4app.com/xuEVZyqmEPdfjE6AndBuBOqp25pCCS3PEQmI8PM6/9229667b2980b3ff9333285fd7e81bd3_LOGO-RGB_ODISSEIA-Color-Claim-txtB.png" ,ODISSEIA
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/25861
-#EXTINF:-1 ,PT: 24 Kitchen FHD ʳᵃʷ
+#EXTINF:-1 group-title="Outros • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/24Kitchen.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/4/4d/24Kitchen.png" ,24 Kitchen FHD ʳᵃʷ
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1093
-#EXTINF:-1 ,PT: TV RECORD
+#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://img.r7.com/images/record-06112023213615769?dimensions=677x369" tvg-logo-small="https://img.r7.com/images/record-06112023213615769?dimensions=677x369" ,TV RECORD
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1165
-#EXTINF:-1 ,PT: MCM TOP
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/127066
 #EXTINF:-1 ,PT: ZAP VIVA HD
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/67660
 #EXTINF:-1 ,PT: Kuriakos TV HD
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/88171
-#EXTINF:-1 ,PT: FUEL TV
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1122
 
 #EXTINF:-1 group-title="Helix • PT" tvg-logo="https://i.ibb.co/hMwg3m9/Helix-Logo.png" tvg-logo-small="https://i.ibb.co/hMwg3m9/Helix-Logo.png" ,★★★★★  Musica ★★★★★
 http://Helix.pt
@@ -390,6 +389,8 @@ https://amg01131-tracetv-tracelatina-klowdtv-v10em.amagi.tv/playlist/amg01131-tr
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1131
 #EXTINF:-1 group-title="Canais Musica • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Mcm_pop_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/8/89/Mcm_pop_logo.png" ,MCM POP
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/14323
+#EXTINF:-1 group-title="Canais Musica • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/MCM_Top.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/a/aa/MCM_Top.png",MCM TOP
+http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/127066
 #EXTINF:-1 group-title="Helix • PT" tvg-logo="https://i.ibb.co/hMwg3m9/Helix-Logo.png" tvg-logo-small="https://i.ibb.co/hMwg3m9/Helix-Logo.png" ,★★★★★ Documentários ★★★★★
 http://Helix.pt
 
