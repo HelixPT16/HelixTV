@@ -1,7 +1,8 @@
 #EXTM3U url-tvg="mudardps"
+#EXTINF:-1 tvg-logo="https://imgur.com/C09Ybxn.png" tvg-logo-small="https://imgur.com/C09Ybxn.png" group-title="ATUALIZADO",16/11/24
+http://Helix.pt
 #EXTINF:-1 group-title="Helix • PT" tvg-logo="https://i.ibb.co/hMwg3m9/Helix-Logo.png" tvg-logo-small="https://i.ibb.co/hMwg3m9/Helix-Logo.png" ,★★★★★ Helix IPTV ★★★★★
 http://Helix.pt
-
 #EXTINF:1 group-title="Canais Abertos • PT" tvg-id="rtp1.pt" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_positivo_horiz_RGB1.png" tvg-logo-small="https://img0.rtp.pt/common/img/favicon.ico" ,RTP1
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/145406
 #EXTINF:1 group-title="Canais Abertos • PT" tvg-id="rtp1.pt" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_positivo_horiz_RGB1.png" tvg-logo-small="https://img0.rtp.pt/common/img/favicon.ico" ,RTP1 ʰᵉᵛᶜ
@@ -26,13 +27,9 @@ http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1142
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1090
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/80-584819141705.png" tvg-logo-small="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/80-584819141705.png" ,RTP MEMÓRIA
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1301
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Logo_Porto_Canal.jpg" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/b/ba/Logo_Porto_Canal.jpg" ,PORTO CANAL FHD
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/70812
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Logo_Porto_Canal.jpg" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/b/ba/Logo_Porto_Canal.jpg" ,PORTO CANAL
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/70813
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://sic.pt/wp-content/uploads/2023/06/SIC_002.png" tvg-logo-small="https://sic.pt/wp-content/uploads/2023/06/SIC_002.png" ,SIC ʰᵉᵛᶜ
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/70815
-#EXTINF:-1 ,PT: SIC Novelas
+#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://cfvod.kaltura.com/p/4526593/sp/452659300/thumbnail/entry_id/1_chqvbxry/width/0/height/0/quality/85" tvg-logo-small="https://cfvod.kaltura.com/p/4526593/sp/452659300/thumbnail/entry_id/1_chqvbxry/width/0/height/0/quality/85",SIC Novelas
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/147004
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://sic.pt/wp-content/uploads/2023/06/SIC_002.png" tvg-logo-small="https://sic.pt/wp-content/uploads/2023/06/SIC_002.png" ,SIC HD ʰᵉᵛᶜ
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/70814
@@ -62,7 +59,7 @@ http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1170
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1171
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/560e71100cf2823db4e5a1ff/1024.jpg" tvg-logo-small="https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/560e71100cf2823db4e5a1ff/1024.jpg" ,TVI REALITY CAMARA 1
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/13869
-#EXTINF:-1 ,PT: News Now
+#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://marketeer.sapo.pt/wp-content/uploads/2024/05/news-now.png" tvg-logo-small="https://marketeer.sapo.pt/wp-content/uploads/2024/05/news-now.png",News Now
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/145862
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://www.cision.pt/content/dam/cision-pt/articles/CMTV-logo.jpg" tvg-logo-small="https://www.cision.pt/content/dam/cision-pt/articles/CMTV-logo.jpg" ,CMTV
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1110
@@ -90,10 +87,7 @@ http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/136365
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1163
 #EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/globo-tv-logo.png" tvg-logo-small="https://logodownload.org/wp-content/uploads/2013/12/globo-tv-logo.png" ,TV GLOBO FHD
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/125923
-#EXTINF:-1 group-title="Catolico • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" ,Canção Nva
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/129530
-#EXTINF:-1 group-title="Catolico • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" ,Cancao Nova
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/146099
+
 
 #EXTINF:-1 group-title="Helix • PT" tvg-logo="https://i.ibb.co/hMwg3m9/Helix-Logo.png" tvg-logo-small="https://i.ibb.co/hMwg3m9/Helix-Logo.png" ,★★★★★ Filmes & Series ★★★★★
 http://Helix.pt
@@ -182,12 +176,6 @@ http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1156
 
 #EXTINF:-1 group-title="Helix • PT" tvg-logo="https://i.ibb.co/hMwg3m9/Helix-Logo.png" tvg-logo-small="https://i.ibb.co/hMwg3m9/Helix-Logo.png" ,★★★★★ Desporto ★★★★★
 http://Helix.pt
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/1200px-Logo_Canal_11_FPF.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/1200px-Logo_Canal_11_FPF.svg.png" ,CANAL 11 ʰᵉᵛᶜ
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/23691
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/1200px-Logo_Canal_11_FPF.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/1200px-Logo_Canal_11_FPF.svg.png" ,CANAL 11 HD ʰᵉᵛᶜ
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/23692
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/1200px-Logo_Canal_11_FPF.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/1200px-Logo_Canal_11_FPF.svg.png" ,CANAL 11 FHD
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/16311
 #EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://i.imgur.com/zsFjzDa.png" tvg-logo-small="https://i.imgur.com/zsFjzDa.png" ,SPORT TV+ ʳᵃʷ
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/7628
 #EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://i.imgur.com/zsFjzDa.png" tvg-logo-small="https://i.imgur.com/zsFjzDa.png" ,SPORT TV+ HD ʰᵉᵛᶜ
@@ -256,79 +244,87 @@ http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/146136
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/146137
 #EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1oB9gOF-OcR9SgToDqIIXbVhi9VpXCgWTiA&s" tvg-logo-small="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1oB9gOF-OcR9SgToDqIIXbVhi9VpXCgWTiA&s" ,SPORT TV 7 ʳᵃʷ
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/145990
-#EXTINF:-1 ,PT: SPORT TV NBA ʰᵉᵛᶜ
+#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://logowik.com/content/uploads/images/359_nba_tv_logo.jpg" tvg-logo-small="https://logowik.com/content/uploads/images/359_nba_tv_logo.jpg" ,SPORT TV NBA ʰᵉᵛᶜ
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/67662
-#EXTINF:-1 ,PT: SPORT TV NBA HD ʰᵉᵛᶜ
+#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://logowik.com/content/uploads/images/359_nba_tv_logo.jpg" tvg-logo-small="https://logowik.com/content/uploads/images/359_nba_tv_logo.jpg" ,SPORT TV NBA HD ʰᵉᵛᶜ
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/88653
-#EXTINF:-1 ,PT: SPORT TV NBA FHD
+#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://logowik.com/content/uploads/images/359_nba_tv_logo.jpg" tvg-logo-small="https://logowik.com/content/uploads/images/359_nba_tv_logo.jpg" ,SPORT TV NBA FHD
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/16627
-#EXTINF:-1 ,PT: DAZN 1 ʰᵉᵛᶜ
+#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSNySkDgRoRFne7rfWtCnwGkDYqWREwLlz3w&s" tvg-logo-small="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSNySkDgRoRFne7rfWtCnwGkDYqWREwLlz3w&s",DAZN 1 ʰᵉᵛᶜ
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/14600
-#EXTINF:-1 ,PT: DAZN 1 HD ʰᵉᵛᶜ
+#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSNySkDgRoRFne7rfWtCnwGkDYqWREwLlz3w&s" tvg-logo-small="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSNySkDgRoRFne7rfWtCnwGkDYqWREwLlz3w&s",DAZN 1 HD ʰᵉᵛᶜ
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/21434
-#EXTINF:-1 ,PT: DAZN 1 FHD
+#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSNySkDgRoRFne7rfWtCnwGkDYqWREwLlz3w&s" tvg-logo-small="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSNySkDgRoRFne7rfWtCnwGkDYqWREwLlz3w&s",DAZN 1 FHD
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/13628
-#EXTINF:-1 ,PT: DAZN 2 SD
+#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png",DAZN 2 SD
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/120607
-#EXTINF:-1 ,PT: DAZN 2 HD ʰᵉᵛᶜ
+#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png",DAZN 2 HD ʰᵉᵛᶜ
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/21435
-#EXTINF:-1 ,PT: DAZN 2 FHD
+#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png",DAZN 2 FHD
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/14599
-#EXTINF:-1 ,PT: DAZN 2 FHD VIP
+#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png",DAZN 2 FHD VIP
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/13627
-#EXTINF:-1 ,PT: DAZN 3 SD
+#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA8jJdlxFEzJRoxWx8NsCT1FGIgqLyqPFnocF7TWRQNp3lFE3D7q6anBpHKc1-bbXIjug&usqp=CAU" tvg-logo-small="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA8jJdlxFEzJRoxWx8NsCT1FGIgqLyqPFnocF7TWRQNp3lFE3D7q6anBpHKc1-bbXIjug&usqp=CAU",DAZN 3 SD
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/134647
-#EXTINF:-1 ,PT: DAZN 3 HD ʰᵉᵛᶜ
+#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA8jJdlxFEzJRoxWx8NsCT1FGIgqLyqPFnocF7TWRQNp3lFE3D7q6anBpHKc1-bbXIjug&usqp=CAU" tvg-logo-small="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA8jJdlxFEzJRoxWx8NsCT1FGIgqLyqPFnocF7TWRQNp3lFE3D7q6anBpHKc1-bbXIjug&usqp=CAU",DAZN 3 HD ʰᵉᵛᶜ
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/134648
-#EXTINF:-1 ,PT: DAZN 3 FHD
+#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA8jJdlxFEzJRoxWx8NsCT1FGIgqLyqPFnocF7TWRQNp3lFE3D7q6anBpHKc1-bbXIjug&usqp=CAU" tvg-logo-small="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA8jJdlxFEzJRoxWx8NsCT1FGIgqLyqPFnocF7TWRQNp3lFE3D7q6anBpHKc1-bbXIjug&usqp=CAU",DAZN 3 FHD
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/21436
-#EXTINF:-1 ,PT: DAZN 4 SD
+#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9YKvp4jdAInn-HP8Jtmib_OGdd3LoElKZtA&s" tvg-logo-small="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9YKvp4jdAInn-HP8Jtmib_OGdd3LoElKZtA&s",DAZN 4 SD
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/134649
-#EXTINF:-1 ,PT: DAZN 4 HD ʰᵉᵛᶜ
+#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9YKvp4jdAInn-HP8Jtmib_OGdd3LoElKZtA&s" tvg-logo-small="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9YKvp4jdAInn-HP8Jtmib_OGdd3LoElKZtA&s",DAZN 4 HD ʰᵉᵛᶜ
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/134650
-#EXTINF:-1 ,PT: DAZN 4 FHD
+#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9YKvp4jdAInn-HP8Jtmib_OGdd3LoElKZtA&s" tvg-logo-small="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9YKvp4jdAInn-HP8Jtmib_OGdd3LoElKZtA&s",DAZN 4 FHD
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/70244
-#EXTINF:-1 ,PT: DAZN 5 SD
+#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/DAZN_5_2024.svg/revision/latest/scale-to-width-down/250?cb=20240713211021" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/b/b9/DAZN_5_2024.svg/revision/latest/scale-to-width-down/250?cb=20240713211021",DAZN 5 SD
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/134651
-#EXTINF:-1 ,PT: DAZN 5 HD ʰᵉᵛᶜ
+#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/DAZN_5_2024.svg/revision/latest/scale-to-width-down/250?cb=20240713211021" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/b/b9/DAZN_5_2024.svg/revision/latest/scale-to-width-down/250?cb=20240713211021",DAZN 5 HD ʰᵉᵛᶜ
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/134652
-#EXTINF:-1 ,PT: DAZN 5 FHD
+#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/DAZN_5_2024.svg/revision/latest/scale-to-width-down/250?cb=20240713211021" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/b/b9/DAZN_5_2024.svg/revision/latest/scale-to-width-down/250?cb=20240713211021",DAZN 5 FHD
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/118808
-#EXTINF:-1 ,PT: DAZN 6 SD
+#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/DAZN_6_2024.svg/revision/latest/scale-to-width-down/250?cb=20240713210829" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/5/53/DAZN_6_2024.svg/revision/latest/scale-to-width-down/250?cb=20240713210829",DAZN 6 SD
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/134654
-#EXTINF:-1 ,PT: DAZN 6 FHD
+#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/DAZN_6_2024.svg/revision/latest/scale-to-width-down/250?cb=20240713210829" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/5/53/DAZN_6_2024.svg/revision/latest/scale-to-width-down/250?cb=20240713210829",DAZN 6 FHD
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/88902
-#EXTINF:-1 ,PT: BENFICA TV SD ʰᵉᵛᶜ XTRA
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/126295
-#EXTINF:-1 ,PT: BENFICA TV SD ʰᵉᵛᶜ
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/14582
-#EXTINF:-1 ,PT: BENFICA TV HD ʰᵉᵛᶜ XTRA
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/129382
-#EXTINF:-1 ,PT: BENFICA TV HD ʰᵉᵛᶜ
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/24128
-#EXTINF:-1 ,PT: BENFICA TV FHD (NOS)
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/24129
-#EXTINF:-1 ,PT: BENFICA TV FHD (MEO)
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/24130
-#EXTINF:-1 ,PT: BENFICA TV FHD
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1085
-#EXTINF:-1 ,PT: BENFICA TV UHD
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/14581
-#EXTINF:-1 ,PT: SPORTING TV
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1155
-#EXTINF:-1 ,PT: EUROSPORT 1  FHD
+#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="http://2.bp.blogspot.com/-EDR0oJ1_1rg/TWKTQqhNT8I/AAAAAAAAAQ4/r4LBAczcA4M/s1600/Eurosport+logo+2011.png" tvg-logo-small="http://2.bp.blogspot.com/-EDR0oJ1_1rg/TWKTQqhNT8I/AAAAAAAAAQ4/r4LBAczcA4M/s1600/Eurosport+logo+2011.png" ,EUROSPORT 1  FHD
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/24126
-#EXTINF:-1 ,PT: EUROSPORT 1 HD ʰᵉᵛᶜ
+#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="http://2.bp.blogspot.com/-EDR0oJ1_1rg/TWKTQqhNT8I/AAAAAAAAAQ4/r4LBAczcA4M/s1600/Eurosport+logo+2011.png" tvg-logo-small="http://2.bp.blogspot.com/-EDR0oJ1_1rg/TWKTQqhNT8I/AAAAAAAAAQ4/r4LBAczcA4M/s1600/Eurosport+logo+2011.png" ,EUROSPORT 1 HD ʰᵉᵛᶜ
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/24127
-#EXTINF:-1 ,PT: EUROSPORT 2 FHD
+#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="http://2.bp.blogspot.com/-EDR0oJ1_1rg/TWKTQqhNT8I/AAAAAAAAAQ4/r4LBAczcA4M/s1600/Eurosport+logo+2011.png" tvg-logo-small="http://2.bp.blogspot.com/-EDR0oJ1_1rg/TWKTQqhNT8I/AAAAAAAAAQ4/r4LBAczcA4M/s1600/Eurosport+logo+2011.png" ,EUROSPORT 2 FHD
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/146253
-#EXTINF:-1 ,PT: EUROSPORT 2
+#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="http://2.bp.blogspot.com/-EDR0oJ1_1rg/TWKTQqhNT8I/AAAAAAAAAQ4/r4LBAczcA4M/s1600/Eurosport+logo+2011.png" tvg-logo-small="http://2.bp.blogspot.com/-EDR0oJ1_1rg/TWKTQqhNT8I/AAAAAAAAAQ4/r4LBAczcA4M/s1600/Eurosport+logo+2011.png" ,EUROSPORT 2
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/67659
+#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://www.comparamais.pt/wp-content/uploads/2019/09/benfica-tv.jpg" tvg-logo-small="https://www.comparamais.pt/wp-content/uploads/2019/09/benfica-tv.jpg" ,BENFICA TV SD ʰᵉᵛᶜ XTRA
+http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/126295
+#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://www.comparamais.pt/wp-content/uploads/2019/09/benfica-tv.jpg" tvg-logo-small="https://www.comparamais.pt/wp-content/uploads/2019/09/benfica-tv.jpg" ,BENFICA TV SD ʰᵉᵛᶜ
+http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/14582
+#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://www.comparamais.pt/wp-content/uploads/2019/09/benfica-tv.jpg" tvg-logo-small="https://www.comparamais.pt/wp-content/uploads/2019/09/benfica-tv.jpg" ,BENFICA TV HD ʰᵉᵛᶜ XTRA
+http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/129382
+#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://www.comparamais.pt/wp-content/uploads/2019/09/benfica-tv.jpg" tvg-logo-small="https://www.comparamais.pt/wp-content/uploads/2019/09/benfica-tv.jpg" ,BENFICA TV HD ʰᵉᵛᶜ
+http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/24128
+#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://www.comparamais.pt/wp-content/uploads/2019/09/benfica-tv.jpg" tvg-logo-small="https://www.comparamais.pt/wp-content/uploads/2019/09/benfica-tv.jpg" ,BENFICA TV FHD (NOS)
+http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/24129
+#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://www.comparamais.pt/wp-content/uploads/2019/09/benfica-tv.jpg" tvg-logo-small="https://www.comparamais.pt/wp-content/uploads/2019/09/benfica-tv.jpg" ,BENFICA TV FHD (MEO)
+http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/24130
+#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://www.comparamais.pt/wp-content/uploads/2019/09/benfica-tv.jpg" tvg-logo-small="https://www.comparamais.pt/wp-content/uploads/2019/09/benfica-tv.jpg" ,BENFICA TV FHD
+http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1085
+#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://www.comparamais.pt/wp-content/uploads/2019/09/benfica-tv.jpg" tvg-logo-small="https://www.comparamais.pt/wp-content/uploads/2019/09/benfica-tv.jpg" ,BENFICA TV UHD
+http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/14581
+#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/75/fb/16/75fb160d-4f58-dc39-ff38-63992acd5293/AppIcon-0-1x_U007emarketing-0-0-sRGB-85-220-7.png/1200x600wa.png" tvg-logo-small="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/75/fb/16/75fb160d-4f58-dc39-ff38-63992acd5293/AppIcon-0-1x_U007emarketing-0-0-sRGB-85-220-7.png/1200x600wa.png" ,SPORTING TV
+http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1155
+#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Logo_Porto_Canal.jpg" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/b/ba/Logo_Porto_Canal.jpg" ,PORTO CANAL FHD
+http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/70812
+#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Logo_Porto_Canal.jpg" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/b/ba/Logo_Porto_Canal.jpg" ,PORTO CANAL
+http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/70813
+#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/1200px-Logo_Canal_11_FPF.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/1200px-Logo_Canal_11_FPF.svg.png" ,CANAL 11 ʰᵉᵛᶜ
+http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/23691
+#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/1200px-Logo_Canal_11_FPF.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/1200px-Logo_Canal_11_FPF.svg.png" ,CANAL 11 HD ʰᵉᵛᶜ
+http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/23692
+#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/1200px-Logo_Canal_11_FPF.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/1200px-Logo_Canal_11_FPF.svg.png" ,CANAL 11 FHD
+http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/16311
 
-
-
-
-
+#EXTINF:-1 group-title="Helix • PT" tvg-logo="https://i.ibb.co/hMwg3m9/Helix-Logo.png" tvg-logo-small="https://i.ibb.co/hMwg3m9/Helix-Logo.png" ,★★★★★ Animação ★★★★★
+http://Helix.pt
 #EXTINF:-1 ,PT: PFC HD
 http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1136
 #EXTINF:-1 ,PT: Cartoonito
@@ -411,4 +407,7 @@ http://Helix.pt
 
 #EXTINF:-1 group-title="Helix • PT" tvg-logo="https://i.ibb.co/hMwg3m9/Helix-Logo.png" tvg-logo-small="https://i.ibb.co/hMwg3m9/Helix-Logo.png" ,★★★★★ Catolico ★★★★★
 http://Helix.pt
-
+#EXTINF:-1 group-title="Catolico • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" ,Canção Nova
+http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/129530
+#EXTINF:-1 group-title="Catolico • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" ,Cancao Nova
+http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/146099
