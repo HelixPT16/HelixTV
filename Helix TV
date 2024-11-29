@@ -1,444 +1,14 @@
-#EXTM3U url-tvg="mudardps"
-#EXTINF:-1 tvg-logo="https://imgur.com/C09Ybxn.png" tvg-logo-small="https://imgur.com/C09Ybxn.png" group-title="ATUALIZADO",16/11/24
-http://Helix.pt
-#EXTINF:-1 group-title="Helix • PT" tvg-logo="https://i.ibb.co/hMwg3m9/Helix-Logo.png" tvg-logo-small="https://i.ibb.co/hMwg3m9/Helix-Logo.png" ,★★★★★ Helix IPTV ★★★★★
-http://Helix.pt
-#EXTINF:1 group-title="Canais Abertos • PT" tvg-id="rtp1.pt" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_positivo_horiz_RGB1.png" tvg-logo-small="https://img0.rtp.pt/common/img/favicon.ico" ,RTP1
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/145406
-#EXTINF:1 group-title="Canais Abertos • PT" tvg-id="rtp1.pt" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_positivo_horiz_RGB1.png" tvg-logo-small="https://img0.rtp.pt/common/img/favicon.ico" ,RTP1 ʰᵉᵛᶜ
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1138
-#EXTINF:1 group-title="Canais Abertos • PT" tvg-id="rtp1.pt" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_positivo_horiz_RGB1.png" tvg-logo-small="https://img0.rtp.pt/common/img/favicon.ico" ,RTP1 HD ʰᵉᵛᶜ
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/25801
-#EXTINF:1 group-title="Canais Abertos • PT" tvg-id="rtp1.pt" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_positivo_horiz_RGB1.png" tvg-logo-small="https://img0.rtp.pt/common/img/favicon.ico" ,RTP1 FHD ʳᵃʷ
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/14318
-#EXTINF:1 group-title="Canais Abertos • PT" tvg-id="rtp1.pt" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_positivo_horiz_RGB1.png" tvg-logo-small="https://img0.rtp.pt/common/img/favicon.ico" , RTP 1
+PT: RTP 1" tvg-logo="http://pycon.oirza.com:2095/piconpt/1_0_1_32B_24_36_FFFF0000_0_0_0.png" group-title="Portugal",PT: RTP 1
 http://dv.sdmabm.com:8080/xhwjrmot/Yqu9z47P4m/1202
-#EXTINF:1 group-title="Canais Abertos • PT" tvg-id="rtp1.pt" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_positivo_horiz_RGB1.png" tvg-logo-small="https://img0.rtp.pt/common/img/favicon.ico" ,RTP 1 HD
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="PT: RTP 1 HD" tvg-logo="http://pycon.oirza.com:2095/piconpt/1_0_1_64C_42_36_FFFF0000_0_0_0.png" group-title="Portugal",PT: RTP 1 HD
 http://dv.sdmabm.com:8080/xhwjrmot/Yqu9z47P4m/1203
-#EXTINF:1 group-title="Canais Abertos • PT" tvg-id="rtp1.pt" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rtp_positivo_horiz_RGB1.png" tvg-logo-small="https://img0.rtp.pt/common/img/favicon.ico" ,RTP 1 Full HD
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="PT: RTP 1 Full HD" tvg-logo="http://pycon.oirza.com:2095/piconpt/1_0_1_64C_42_36_FFFF0000_0_0_0.png" group-title="Portugal",PT: RTP 1 Full HD
 http://dv.sdmabm.com:8080/xhwjrmot/Yqu9z47P4m/3963
-#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP2_positivo_horiz_RGB.png" tvg-logo-small="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP2_positivo_horiz_RGB.png" ,RTP 2 ʰᵉᵛᶜ
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1139
-#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP2_positivo_horiz_RGB.png" tvg-logo-small="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP2_positivo_horiz_RGB.png" ,RTP 2 HD ʰᵉᵛᶜ
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/25802
-#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP2_positivo_horiz_RGB.png" tvg-logo-small="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP2_positivo_horiz_RGB.png" ,RTP 2 FHD ʳᵃʷ
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/14319
-#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP2_positivo_horiz_RGB.png" tvg-logo-small="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP2_positivo_horiz_RGB.png" ,RTP 2
-http://dv.sdmabm.com:8080/xhwjrmot/Yqu9z47P4m/1204
-#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP2_positivo_horiz_RGB.png" tvg-logo-small="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP2_positivo_horiz_RGB.png" ,RTP 2 HD
-http://dv.sdmabm.com:8080/xhwjrmot/Yqu9z47P4m/639
-#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtp3_positivo.jpg" tvg-logo-small="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtp3_positivo.jpg" ,RTP 3 FHD ʳᵃʷ
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/14320
-#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtp3_positivo.jpg" tvg-logo-small="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtp3_positivo.jpg" ,RTP 3 HD ʰᵉᵛᶜ
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/8390
-#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTPAfrica_positivo_horiz_RGB.png" tvg-logo-small="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTPAfrica_positivo_horiz_RGB.png" ,RTP AFRICA
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1142
-#EXTINF:-1 group-title="Canais Abertos • PT" tvg-id="RTPMadeira(src01).pt" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/107-443519141305.png" tvg-logo-small="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/107-443519141305.png" ,RTP MADEIRA
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1090
-#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/80-584819141705.png" tvg-logo-small="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/80-584819141705.png" ,RTP MEMÓRIA
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1301
-#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://sic.pt/wp-content/uploads/2023/06/SIC_002.png" tvg-logo-small="https://sic.pt/wp-content/uploads/2023/06/SIC_002.png" ,SIC ʰᵉᵛᶜ
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/70815
-#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://cfvod.kaltura.com/p/4526593/sp/452659300/thumbnail/entry_id/1_chqvbxry/width/0/height/0/quality/85" tvg-logo-small="https://cfvod.kaltura.com/p/4526593/sp/452659300/thumbnail/entry_id/1_chqvbxry/width/0/height/0/quality/85",SIC Novelas
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/147004
-#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://sic.pt/wp-content/uploads/2023/06/SIC_002.png" tvg-logo-small="https://sic.pt/wp-content/uploads/2023/06/SIC_002.png" ,SIC HD ʰᵉᵛᶜ
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/70814
-#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://sic.pt/wp-content/uploads/2023/06/SIC_002.png" tvg-logo-small="https://sic.pt/wp-content/uploads/2023/06/SIC_002.png" ,SIC FHD
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/88904
-#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/SIC_CARAS.png/1200px-SIC_CARAS.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/SIC_CARAS.png/1200px-SIC_CARAS.png" ,SIC Caras
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/13921
-#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://i.imgur.com/ZPj99mx.png" tvg-logo-small="https://i.imgur.com/ZPj99mx.png" ,SIC Radical
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/13923
-#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c4/Sicmulher.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/en/c/c4/Sicmulher.png" ,SIC MULHER
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1145
-#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://eco.imgix.net/uploads/2023/10/cropped-135470970_10159469163861388_5543231704609363032_n-scaled-1.jpg" tvg-logo-small="https://eco.imgix.net/uploads/2023/10/cropped-135470970_10159469163861388_5543231704609363032_n-scaled-1.jpg" ,SIC NOTICIAS
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1146
-#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Log%C3%B3tipo_TVI.png/640px-Log%C3%B3tipo_TVI.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Log%C3%B3tipo_TVI.png/640px-Log%C3%B3tipo_TVI.png" ,TVI ʰᵉᵛᶜ
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/70819
-#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Log%C3%B3tipo_TVI.png/640px-Log%C3%B3tipo_TVI.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Log%C3%B3tipo_TVI.png/640px-Log%C3%B3tipo_TVI.png" ,TVI  HD ʰᵉᵛᶜ
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/116890
-#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Log%C3%B3tipo_TVI.png/640px-Log%C3%B3tipo_TVI.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Log%C3%B3tipo_TVI.png/640px-Log%C3%B3tipo_TVI.png" ,TVI FHD ʳᵃʷ
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/70818
-#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/560e71100cf2823db4e5a1ff/1024.jpg" tvg-logo-small="https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/560e71100cf2823db4e5a1ff/1024.jpg" ,TVI REALITY FHD
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/146249
-#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/560e71100cf2823db4e5a1ff/1024.jpg" tvg-logo-small="https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/560e71100cf2823db4e5a1ff/1024.jpg" ,TVI REALITY
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1170
-#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/560e71100cf2823db4e5a1ff/1024.jpg" tvg-logo-small="https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/560e71100cf2823db4e5a1ff/1024.jpg" ,TVI Reality (A Quinta)
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1171
-#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/560e71100cf2823db4e5a1ff/1024.jpg" tvg-logo-small="https://www.iol.pt/multimedia/oratvi/multimedia/imagem/id/560e71100cf2823db4e5a1ff/1024.jpg" ,TVI REALITY CAMARA 1
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/13869
-#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://marketeer.sapo.pt/wp-content/uploads/2024/05/news-now.png" tvg-logo-small="https://marketeer.sapo.pt/wp-content/uploads/2024/05/news-now.png",News Now
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/145862
-#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://www.cision.pt/content/dam/cision-pt/articles/CMTV-logo.jpg" tvg-logo-small="https://www.cision.pt/content/dam/cision-pt/articles/CMTV-logo.jpg" ,CMTV
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1110
-#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://www.cision.pt/content/dam/cision-pt/articles/CMTV-logo.jpg" tvg-logo-small="https://www.cision.pt/content/dam/cision-pt/articles/CMTV-logo.jpg" ,CMTV FHD
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/125922
-#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://variety.com/wp-content/uploads/2023/02/CNN-Logo.jpg" tvg-logo-small="https://variety.com/wp-content/uploads/2023/02/CNN-Logo.jpg" ,CNN Portugal
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/63944
-#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/A_Bola_TV_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/en/b/b2/A_Bola_TV_logo.png" ,A BOLA TV
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/70816
-#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/ARTV_%282002%29.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/a/a0/ARTV_%282002%29.png" ,ARTV
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1302
-#EXTINF:-1 group-title="Animacao • PT" tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2014/03/q-vertical-cor.jpg" tvg-logo-small="https://www.meiosepublicidade.pt/wp-content/uploads/2014/03/q-vertical-cor.jpg" ,CANAL Q
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1105
-#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://tlc.sndimg.com/content/dam/images/tlc/tlcme/fullset/2021/november/tlc-logo-chip.png.rend.hgtvcom.616.347.suffix/1637336502807.png" tvg-logo-small="https://tlc.sndimg.com/content/dam/images/tlc/tlcme/fullset/2021/november/tlc-logo-chip.png.rend.hgtvcom.616.347.suffix/1637336502807.png" ,TLC
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1157
-#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/globo-tv-logo.png" tvg-logo-small="https://logodownload.org/wp-content/uploads/2013/12/globo-tv-logo.png" ,GLOBO  ʰᵉᵛᶜ
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/136367
-#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/globo-tv-logo.png" tvg-logo-small="https://logodownload.org/wp-content/uploads/2013/12/globo-tv-logo.png" ,GLOBO
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/136366
-#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/globo-tv-logo.png" tvg-logo-small="https://logodownload.org/wp-content/uploads/2013/12/globo-tv-logo.png" ,GLOBO NOW  ʰᵉᵛᶜ
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/136365
-#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/globo-tv-logo.png" tvg-logo-small="https://logodownload.org/wp-content/uploads/2013/12/globo-tv-logo.png" ,TV GLOBO
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1163
-#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/globo-tv-logo.png" tvg-logo-small="https://logodownload.org/wp-content/uploads/2013/12/globo-tv-logo.png" ,TV GLOBO FHD
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/125923
-#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIHPzahx-upEM5B7By7T88UMFVInzRaa-QDQ&s" tvg-logo-small="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIHPzahx-upEM5B7By7T88UMFVInzRaa-QDQ&s" ,Bloomberg
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/133451
-#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://img.r7.com/images/record-06112023213615769?dimensions=677x369" tvg-logo-small="https://img.r7.com/images/record-06112023213615769?dimensions=677x369" ,TV RECORD
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1165
-#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Casa-e-cozinha-Logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/b/be/Casa-e-cozinha-Logo.png" ,Casa e Cozinha
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/67664
-#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/24Kitchen.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/4/4d/24Kitchen.png" ,24 Kitchen FHD ʳᵃʷ
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1093
-
-
-
-#EXTINF:-1 group-title="Helix • PT" tvg-logo="https://i.ibb.co/hMwg3m9/Helix-Logo.png" tvg-logo-small="https://i.ibb.co/hMwg3m9/Helix-Logo.png" ,★★★★★ Filmes & Series ★★★★★
-http://Helix.pt
-#EXTINF:-1 ,PT: STAR FHD
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/145125
-#EXTINF:-1 ,PT: STAR HD ʰᵉᵛᶜ
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1079
-#EXTINF:-1 ,PT: STAR MOVIES
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1120
-#EXTINF:-1 ,PT: STAR MOVIES HD ʰᵉᵛᶜ
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/14315
-#EXTINF:-1 ,PT: STAR MOVIES FHD
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/145129
-#EXTINF:-1 ,PT: STAR LIFE HD ʰᵉᵛᶜ
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/68296
-#EXTINF:-1 ,PT: STAR LIFE FHD
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1119
-#EXTINF:-1 ,PT: STAR CRIME FHD
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/145127
-#EXTINF:-1 ,PT: STAR CRIME  HD ʰᵉᵛᶜ
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/68298
-#EXTINF:-1 ,PT: STAR COMEDY
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1117
-#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://pplware.sapo.pt/wp-content/uploads/2019/06/NOS_03.jpg" tvg-logo-small="https://pplware.sapo.pt/wp-content/uploads/2019/06/NOS_03.jpg" ,NOS Studios ʰᵉᵛᶜ
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/64879
-#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://pplware.sapo.pt/wp-content/uploads/2019/06/NOS_03.jpg" tvg-logo-small="https://pplware.sapo.pt/wp-content/uploads/2019/06/NOS_03.jpg" ,NOS Studios HD ʰᵉᵛᶜ
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/64877
-#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://pplware.sapo.pt/wp-content/uploads/2019/06/NOS_03.jpg" tvg-logo-small="https://pplware.sapo.pt/wp-content/uploads/2019/06/NOS_03.jpg" ,NOS Studios FHD ʳᵃʷ
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/16626
-#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TVCine-TOP.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/2/24/TVCine-TOP.png" ,TVCine TOP ʰᵉᵛᶜ
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1065
-#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TVCine-TOP.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/2/24/TVCine-TOP.png" ,TVCine TOP HD ʰᵉᵛᶜ
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/70823
-#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TVCine-TOP.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/2/24/TVCine-TOP.png" ,TVCine TOP FHD
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/13439
-#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfqVPdIE50QKlllZQiJMR5a9Y-kfc8D9wS9A&usqp=CAU" tvg-logo-small="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfqVPdIE50QKlllZQiJMR5a9Y-kfc8D9wS9A&usqp=CAU" ,TVCine EDITION ʰᵉᵛᶜ
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1064
-#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfqVPdIE50QKlllZQiJMR5a9Y-kfc8D9wS9A&usqp=CAU" tvg-logo-small="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfqVPdIE50QKlllZQiJMR5a9Y-kfc8D9wS9A&usqp=CAU" ,TVCine EDITION HD ʰᵉᵛᶜ
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/70821
-#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/TVCine-Emotion.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/8/81/TVCine-Emotion.png" ,TVCine EMOTION FHD
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/13440
-#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/TVCine-Emotion.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/8/81/TVCine-Emotion.png" ,TVCine EMOTION ʰᵉᵛᶜ
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1063
-#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/TVCine-Emotion.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/8/81/TVCine-Emotion.png" ,TVCine EMOTION HD ʰᵉᵛᶜ
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/70822
-#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/TVCine-Emotion.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/8/81/TVCine-Emotion.png" ,PT: TVCine EMOTION FHD
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/13441
-#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://www.nos.pt/content/dam/nos/assets/images/tv/tv-cine/logo-tvCine-action.jpg" tvg-logo-small="https://www.nos.pt/content/dam/nos/assets/images/tv/tv-cine/logo-tvCine-action.jpg" ,TVCine ACTION ʰᵉᵛᶜ
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/13894
-#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://www.nos.pt/content/dam/nos/assets/images/tv/tv-cine/logo-tvCine-action.jpg" tvg-logo-small="https://www.nos.pt/content/dam/nos/assets/images/tv/tv-cine/logo-tvCine-action.jpg" ,TVCine ACTION HD ʰᵉᵛᶜ
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/70820
-#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://www.nos.pt/content/dam/nos/assets/images/tv/tv-cine/logo-tvCine-action.jpg" tvg-logo-small="https://www.nos.pt/content/dam/nos/assets/images/tv/tv-cine/logo-tvCine-action.jpg" ,PT: TVCine ACTION FHD
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1062
-#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://w7.pngwing.com/pngs/138/733/png-transparent-axn-hd-logo-thumbnail.png" tvg-logo-small="https://w7.pngwing.com/pngs/138/733/png-transparent-axn-hd-logo-thumbnail.png" ,AMC HD
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/36835
-#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://w7.pngwing.com/pngs/138/733/png-transparent-axn-hd-logo-thumbnail.png" tvg-logo-small="https://w7.pngwing.com/pngs/138/733/png-transparent-axn-hd-logo-thumbnail.png" ,AMC FHD
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1089
-#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://w7.pngwing.com/pngs/138/733/png-transparent-axn-hd-logo-thumbnail.png" tvg-logo-small="https://w7.pngwing.com/pngs/138/733/png-transparent-axn-hd-logo-thumbnail.png" ,AXN HD ʰᵉᵛᶜ
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/68293
-#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://w7.pngwing.com/pngs/138/733/png-transparent-axn-hd-logo-thumbnail.png" tvg-logo-small="https://w7.pngwing.com/pngs/138/733/png-transparent-axn-hd-logo-thumbnail.png" ,AXN FHD
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/26593
-#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/AXN_Movies_logo.jpg/1200px-AXN_Movies_logo.jpg" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/AXN_Movies_logo.jpg/1200px-AXN_Movies_logo.jpg" ,AXN MOVIES HD ʰᵉᵛᶜ
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/68295
-#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/AXN_Movies_logo.jpg/1200px-AXN_Movies_logo.jpg" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/AXN_Movies_logo.jpg/1200px-AXN_Movies_logo.jpg" ,AXN MOVIES FHD
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1088
-#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/AXN_White_HD.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/4/4c/AXN_White_HD.png" ,AXN WHITE HD ʰᵉᵛᶜ
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/68294
-#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/AXN_White_HD.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/4/4c/AXN_White_HD.png" ,AXN WHITE FHD
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1086
-#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Logotipo_Cinemundo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/8/84/Logotipo_Cinemundo.png" ,CINEMUNDO
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1109
-#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Logotipo_Cinemundo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/8/84/Logotipo_Cinemundo.png" ,CINEMUNDO FHD
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/125924
-#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2014/01/LOGO-HOLLYWOOD.jpg" tvg-logo-small="https://www.atelevisao.com/wp-content/uploads/2014/01/LOGO-HOLLYWOOD.jpg" ,HOLLYWOOD HD ʰᵉᵛᶜ
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1124
-#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2014/01/LOGO-HOLLYWOOD.jpg" tvg-logo-small="https://www.atelevisao.com/wp-content/uploads/2014/01/LOGO-HOLLYWOOD.jpg" ,HOLLYWOOD FHD
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/14316
-#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1200px-Syfy.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1200px-Syfy.svg.png" ,SYFY ʰᵉᵛᶜ
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/146254
-#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1200px-Syfy.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1200px-Syfy.svg.png" ,SYFY HD ʰᵉᵛᶜ
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/14317
-#EXTINF:-1 group-title="Filmes & Series • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1200px-Syfy.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1200px-Syfy.svg.png" ,SYFY FHD
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1156
-
-#EXTINF:-1 group-title="Helix • PT" tvg-logo="https://i.ibb.co/hMwg3m9/Helix-Logo.png" tvg-logo-small="https://i.ibb.co/hMwg3m9/Helix-Logo.png" ,★★★★★ Desporto ★★★★★
-http://Helix.pt
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://i.imgur.com/zsFjzDa.png" tvg-logo-small="https://i.imgur.com/zsFjzDa.png" ,SPORT TV+ ʳᵃʷ
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/7628
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://i.imgur.com/zsFjzDa.png" tvg-logo-small="https://i.imgur.com/zsFjzDa.png" ,SPORT TV+ HD ʰᵉᵛᶜ
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/14901
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Sport_TV1_%282016%29.svg/2560px-Sport_TV1_%282016%29.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Sport_TV1_%282016%29.svg/2560px-Sport_TV1_%282016%29.svg.png" ,SPORT TV 1 ʰᵉᵛᶜ SSL
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/118976
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Sport_TV1_%282016%29.svg/2560px-Sport_TV1_%282016%29.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Sport_TV1_%282016%29.svg/2560px-Sport_TV1_%282016%29.svg.png" ,SPORT TV 1 HD ʰᵉᵛᶜ SSL
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/118978
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Sport_TV1_%282016%29.svg/2560px-Sport_TV1_%282016%29.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Sport_TV1_%282016%29.svg/2560px-Sport_TV1_%282016%29.svg.png" ,SPORT TV 1 ʳᵃʷ
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/129387
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Sport_TV1_%282016%29.svg/2560px-Sport_TV1_%282016%29.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Sport_TV1_%282016%29.svg/2560px-Sport_TV1_%282016%29.svg.png" ,SPORT TV 1 ʰᵉᵛᶜ
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/7638
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Sport_TV1_%282016%29.svg/2560px-Sport_TV1_%282016%29.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Sport_TV1_%282016%29.svg/2560px-Sport_TV1_%282016%29.svg.png" ,SPORT TV 1 (extra1) ʰᵉᵛᶜ
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/56571
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Sport_TV1_%282016%29.svg/2560px-Sport_TV1_%282016%29.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Sport_TV1_%282016%29.svg/2560px-Sport_TV1_%282016%29.svg.png" ,SPORT TV 1 HD ʰᵉᵛᶜ
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/7637
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Sport_TV1_%282016%29.svg/2560px-Sport_TV1_%282016%29.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Sport_TV1_%282016%29.svg/2560px-Sport_TV1_%282016%29.svg.png" ,SPORT TV 1 FHD ʰᵉᵛᶜ
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/114971
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Sport_TV1_%282016%29.svg/2560px-Sport_TV1_%282016%29.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Sport_TV1_%282016%29.svg/2560px-Sport_TV1_%282016%29.svg.png" ,SPORT TV 1 FHD ʳᵃʷ
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1148
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Sport_TV1_%282016%29.svg/2560px-Sport_TV1_%282016%29.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Sport_TV1_%282016%29.svg/2560px-Sport_TV1_%282016%29.svg.png" ,SPORT TV 1 FHD (extra1)
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/70681
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/vpwuyu1470409212.png" tvg-logo-small="https://www.thesportsdb.com/images/media/tvlogo/vpwuyu1470409212.png" ,SPORT TV 2 ʰᵉᵛᶜ SSL
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/118977
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/vpwuyu1470409212.png" tvg-logo-small="https://www.thesportsdb.com/images/media/tvlogo/vpwuyu1470409212.png" ,SPORT TV 2 HD ʰᵉᵛᶜ SSL
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/118979
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/vpwuyu1470409212.png" tvg-logo-small="https://www.thesportsdb.com/images/media/tvlogo/vpwuyu1470409212.png" ,SPORT TV 2 ʰᵉᵛᶜ
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/7636
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/vpwuyu1470409212.png" tvg-logo-small="https://www.thesportsdb.com/images/media/tvlogo/vpwuyu1470409212.png" ,SPORT TV 2  (extra1) ʰᵉᵛᶜ
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/56572
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/vpwuyu1470409212.png" tvg-logo-small="https://www.thesportsdb.com/images/media/tvlogo/vpwuyu1470409212.png" ,SPORT TV 2 HD ʰᵉᵛᶜ
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/7635
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/vpwuyu1470409212.png" tvg-logo-small="https://www.thesportsdb.com/images/media/tvlogo/vpwuyu1470409212.png" ,SPORT TV 2 FHD ʰᵉᵛᶜ
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/114972
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/vpwuyu1470409212.png" tvg-logo-small="https://www.thesportsdb.com/images/media/tvlogo/vpwuyu1470409212.png" ,SPORT TV 2 FHD ʳᵃʷ
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/67661
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/vpwuyu1470409212.png" tvg-logo-small="https://www.thesportsdb.com/images/media/tvlogo/vpwuyu1470409212.png" ,SPORT TV 2 FHD (extra1) ʳᵃʷ
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1149
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh7FIO2vkQMbZTBOPsSFQuB4EdEgBJhFCBxGy3eXo_hxuPxop3TVPonHfxmz_DV2DAGA&usqp=CAU" tvg-logo-small="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh7FIO2vkQMbZTBOPsSFQuB4EdEgBJhFCBxGy3eXo_hxuPxop3TVPonHfxmz_DV2DAGA&usqp=CAU" ,SPORT TV 3 ʰᵉᵛᶜ
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/7634
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh7FIO2vkQMbZTBOPsSFQuB4EdEgBJhFCBxGy3eXo_hxuPxop3TVPonHfxmz_DV2DAGA&usqp=CAU" tvg-logo-small="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh7FIO2vkQMbZTBOPsSFQuB4EdEgBJhFCBxGy3eXo_hxuPxop3TVPonHfxmz_DV2DAGA&usqp=CAU" ,SPORT TV 3 HD ʰᵉᵛᶜ
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/7633
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://television-gratis.com/wp-content/uploads/2023/08/sport-tv-4.png" tvg-logo-small="https://television-gratis.com/wp-content/uploads/2023/08/sport-tv-4.png" ,SPORT TV 4 ʰᵉᵛᶜ
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/7632
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://television-gratis.com/wp-content/uploads/2023/08/sport-tv-4.png" tvg-logo-small="https://television-gratis.com/wp-content/uploads/2023/08/sport-tv-4.png" ,SPORT TV 4 HD ʰᵉᵛᶜ
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/88652
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://television-gratis.com/wp-content/uploads/2023/08/sport-tv-4.png" tvg-logo-small="https://television-gratis.com/wp-content/uploads/2023/08/sport-tv-4.png" ,SPORT TV 4 FHD
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1152
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://www.cm-montalegre.pt/cmmontalegre/uploads/news/image/1139/a44283fbc71492775867.jpg" tvg-logo-small="https://www.cm-montalegre.pt/cmmontalegre/uploads/news/image/1139/a44283fbc71492775867.jpg" ,SPORT TV 5 ʰᵉᵛᶜ
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/7630
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://www.cm-montalegre.pt/cmmontalegre/uploads/news/image/1139/a44283fbc71492775867.jpg" tvg-logo-small="https://www.cm-montalegre.pt/cmmontalegre/uploads/news/image/1139/a44283fbc71492775867.jpg" ,SPORT TV 5 HD ʰᵉᵛᶜ
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/7629
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://www.cm-montalegre.pt/cmmontalegre/uploads/news/image/1139/a44283fbc71492775867.jpg" tvg-logo-small="https://www.cm-montalegre.pt/cmmontalegre/uploads/news/image/1139/a44283fbc71492775867.jpg" ,SPORT TV 5 FHD
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1154
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://i.ibb.co/g37mZ4P/tv-station-sport-tv-6-2619.png" tvg-logo-small="https://i.ibb.co/g37mZ4P/tv-station-sport-tv-6-2619.png" ,SPORT TV 6
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/116069
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://i.ibb.co/g37mZ4P/tv-station-sport-tv-6-2619.png" tvg-logo-small="https://i.ibb.co/g37mZ4P/tv-station-sport-tv-6-2619.png" ,SPORT TV 6 HD ʰᵉᵛᶜ
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/116068
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://i.ibb.co/g37mZ4P/tv-station-sport-tv-6-2619.png" tvg-logo-small="https://i.ibb.co/g37mZ4P/tv-station-sport-tv-6-2619.png" ,SPORT TV 6 FHD ʳᵃʷ
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/116067
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1oB9gOF-OcR9SgToDqIIXbVhi9VpXCgWTiA&s" tvg-logo-small="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1oB9gOF-OcR9SgToDqIIXbVhi9VpXCgWTiA&s" ,SPORT TV 7 FHD
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/146136
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1oB9gOF-OcR9SgToDqIIXbVhi9VpXCgWTiA&s" tvg-logo-small="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1oB9gOF-OcR9SgToDqIIXbVhi9VpXCgWTiA&s" ,SPORT TV 7 HDʰᵉᵛᶜ
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/146137
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1oB9gOF-OcR9SgToDqIIXbVhi9VpXCgWTiA&s" tvg-logo-small="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1oB9gOF-OcR9SgToDqIIXbVhi9VpXCgWTiA&s" ,SPORT TV 7 ʳᵃʷ
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/145990
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://logowik.com/content/uploads/images/359_nba_tv_logo.jpg" tvg-logo-small="https://logowik.com/content/uploads/images/359_nba_tv_logo.jpg" ,SPORT TV NBA ʰᵉᵛᶜ
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/67662
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://logowik.com/content/uploads/images/359_nba_tv_logo.jpg" tvg-logo-small="https://logowik.com/content/uploads/images/359_nba_tv_logo.jpg" ,SPORT TV NBA HD ʰᵉᵛᶜ
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/88653
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://logowik.com/content/uploads/images/359_nba_tv_logo.jpg" tvg-logo-small="https://logowik.com/content/uploads/images/359_nba_tv_logo.jpg" ,SPORT TV NBA FHD
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/16627
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSNySkDgRoRFne7rfWtCnwGkDYqWREwLlz3w&s" tvg-logo-small="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSNySkDgRoRFne7rfWtCnwGkDYqWREwLlz3w&s",DAZN 1 ʰᵉᵛᶜ
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/14600
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSNySkDgRoRFne7rfWtCnwGkDYqWREwLlz3w&s" tvg-logo-small="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSNySkDgRoRFne7rfWtCnwGkDYqWREwLlz3w&s",DAZN 1 HD ʰᵉᵛᶜ
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/21434
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSNySkDgRoRFne7rfWtCnwGkDYqWREwLlz3w&s" tvg-logo-small="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSNySkDgRoRFne7rfWtCnwGkDYqWREwLlz3w&s",DAZN 1 FHD
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/13628
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png",DAZN 2 SD
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/120607
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png",DAZN 2 HD ʰᵉᵛᶜ
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/21435
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png",DAZN 2 FHD
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/14599
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png",DAZN 2 FHD VIP
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/13627
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA8jJdlxFEzJRoxWx8NsCT1FGIgqLyqPFnocF7TWRQNp3lFE3D7q6anBpHKc1-bbXIjug&usqp=CAU" tvg-logo-small="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA8jJdlxFEzJRoxWx8NsCT1FGIgqLyqPFnocF7TWRQNp3lFE3D7q6anBpHKc1-bbXIjug&usqp=CAU",DAZN 3 SD
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/134647
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA8jJdlxFEzJRoxWx8NsCT1FGIgqLyqPFnocF7TWRQNp3lFE3D7q6anBpHKc1-bbXIjug&usqp=CAU" tvg-logo-small="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA8jJdlxFEzJRoxWx8NsCT1FGIgqLyqPFnocF7TWRQNp3lFE3D7q6anBpHKc1-bbXIjug&usqp=CAU",DAZN 3 HD ʰᵉᵛᶜ
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/134648
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA8jJdlxFEzJRoxWx8NsCT1FGIgqLyqPFnocF7TWRQNp3lFE3D7q6anBpHKc1-bbXIjug&usqp=CAU" tvg-logo-small="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA8jJdlxFEzJRoxWx8NsCT1FGIgqLyqPFnocF7TWRQNp3lFE3D7q6anBpHKc1-bbXIjug&usqp=CAU",DAZN 3 FHD
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/21436
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9YKvp4jdAInn-HP8Jtmib_OGdd3LoElKZtA&s" tvg-logo-small="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9YKvp4jdAInn-HP8Jtmib_OGdd3LoElKZtA&s",DAZN 4 SD
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/134649
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9YKvp4jdAInn-HP8Jtmib_OGdd3LoElKZtA&s" tvg-logo-small="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9YKvp4jdAInn-HP8Jtmib_OGdd3LoElKZtA&s",DAZN 4 HD ʰᵉᵛᶜ
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/134650
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9YKvp4jdAInn-HP8Jtmib_OGdd3LoElKZtA&s" tvg-logo-small="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9YKvp4jdAInn-HP8Jtmib_OGdd3LoElKZtA&s",DAZN 4 FHD
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/70244
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/DAZN_5_2024.svg/revision/latest/scale-to-width-down/250?cb=20240713211021" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/b/b9/DAZN_5_2024.svg/revision/latest/scale-to-width-down/250?cb=20240713211021",DAZN 5 SD
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/134651
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/DAZN_5_2024.svg/revision/latest/scale-to-width-down/250?cb=20240713211021" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/b/b9/DAZN_5_2024.svg/revision/latest/scale-to-width-down/250?cb=20240713211021",DAZN 5 HD ʰᵉᵛᶜ
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/134652
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/DAZN_5_2024.svg/revision/latest/scale-to-width-down/250?cb=20240713211021" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/b/b9/DAZN_5_2024.svg/revision/latest/scale-to-width-down/250?cb=20240713211021",DAZN 5 FHD
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/118808
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/DAZN_6_2024.svg/revision/latest/scale-to-width-down/250?cb=20240713210829" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/5/53/DAZN_6_2024.svg/revision/latest/scale-to-width-down/250?cb=20240713210829",DAZN 6 SD
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/134654
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/DAZN_6_2024.svg/revision/latest/scale-to-width-down/250?cb=20240713210829" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/5/53/DAZN_6_2024.svg/revision/latest/scale-to-width-down/250?cb=20240713210829",DAZN 6 FHD
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/88902
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="http://2.bp.blogspot.com/-EDR0oJ1_1rg/TWKTQqhNT8I/AAAAAAAAAQ4/r4LBAczcA4M/s1600/Eurosport+logo+2011.png" tvg-logo-small="http://2.bp.blogspot.com/-EDR0oJ1_1rg/TWKTQqhNT8I/AAAAAAAAAQ4/r4LBAczcA4M/s1600/Eurosport+logo+2011.png" ,EUROSPORT 1  FHD
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/24126
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="http://2.bp.blogspot.com/-EDR0oJ1_1rg/TWKTQqhNT8I/AAAAAAAAAQ4/r4LBAczcA4M/s1600/Eurosport+logo+2011.png" tvg-logo-small="http://2.bp.blogspot.com/-EDR0oJ1_1rg/TWKTQqhNT8I/AAAAAAAAAQ4/r4LBAczcA4M/s1600/Eurosport+logo+2011.png" ,EUROSPORT 1 HD ʰᵉᵛᶜ
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/24127
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="http://2.bp.blogspot.com/-EDR0oJ1_1rg/TWKTQqhNT8I/AAAAAAAAAQ4/r4LBAczcA4M/s1600/Eurosport+logo+2011.png" tvg-logo-small="http://2.bp.blogspot.com/-EDR0oJ1_1rg/TWKTQqhNT8I/AAAAAAAAAQ4/r4LBAczcA4M/s1600/Eurosport+logo+2011.png" ,EUROSPORT 2 FHD
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/146253
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="http://2.bp.blogspot.com/-EDR0oJ1_1rg/TWKTQqhNT8I/AAAAAAAAAQ4/r4LBAczcA4M/s1600/Eurosport+logo+2011.png" tvg-logo-small="http://2.bp.blogspot.com/-EDR0oJ1_1rg/TWKTQqhNT8I/AAAAAAAAAQ4/r4LBAczcA4M/s1600/Eurosport+logo+2011.png" ,EUROSPORT 2
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/67659
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://www.comparamais.pt/wp-content/uploads/2019/09/benfica-tv.jpg" tvg-logo-small="https://www.comparamais.pt/wp-content/uploads/2019/09/benfica-tv.jpg" ,BENFICA TV SD ʰᵉᵛᶜ XTRA
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/126295
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://www.comparamais.pt/wp-content/uploads/2019/09/benfica-tv.jpg" tvg-logo-small="https://www.comparamais.pt/wp-content/uploads/2019/09/benfica-tv.jpg" ,BENFICA TV SD ʰᵉᵛᶜ
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/14582
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://www.comparamais.pt/wp-content/uploads/2019/09/benfica-tv.jpg" tvg-logo-small="https://www.comparamais.pt/wp-content/uploads/2019/09/benfica-tv.jpg" ,BENFICA TV HD ʰᵉᵛᶜ XTRA
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/129382
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://www.comparamais.pt/wp-content/uploads/2019/09/benfica-tv.jpg" tvg-logo-small="https://www.comparamais.pt/wp-content/uploads/2019/09/benfica-tv.jpg" ,BENFICA TV HD ʰᵉᵛᶜ
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/24128
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://www.comparamais.pt/wp-content/uploads/2019/09/benfica-tv.jpg" tvg-logo-small="https://www.comparamais.pt/wp-content/uploads/2019/09/benfica-tv.jpg" ,BENFICA TV FHD (NOS)
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/24129
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://www.comparamais.pt/wp-content/uploads/2019/09/benfica-tv.jpg" tvg-logo-small="https://www.comparamais.pt/wp-content/uploads/2019/09/benfica-tv.jpg" ,BENFICA TV FHD (MEO)
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/24130
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://www.comparamais.pt/wp-content/uploads/2019/09/benfica-tv.jpg" tvg-logo-small="https://www.comparamais.pt/wp-content/uploads/2019/09/benfica-tv.jpg" ,BENFICA TV FHD
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1085
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://www.comparamais.pt/wp-content/uploads/2019/09/benfica-tv.jpg" tvg-logo-small="https://www.comparamais.pt/wp-content/uploads/2019/09/benfica-tv.jpg" ,BENFICA TV UHD
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/14581
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/75/fb/16/75fb160d-4f58-dc39-ff38-63992acd5293/AppIcon-0-1x_U007emarketing-0-0-sRGB-85-220-7.png/1200x600wa.png" tvg-logo-small="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/75/fb/16/75fb160d-4f58-dc39-ff38-63992acd5293/AppIcon-0-1x_U007emarketing-0-0-sRGB-85-220-7.png/1200x600wa.png" ,SPORTING TV
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1155
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Logo_Porto_Canal.jpg" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/b/ba/Logo_Porto_Canal.jpg" ,PORTO CANAL FHD
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/70812
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Logo_Porto_Canal.jpg" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/b/ba/Logo_Porto_Canal.jpg" ,PORTO CANAL
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/70813
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/1200px-Logo_Canal_11_FPF.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/1200px-Logo_Canal_11_FPF.svg.png" ,CANAL 11 ʰᵉᵛᶜ
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/23691
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/1200px-Logo_Canal_11_FPF.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/1200px-Logo_Canal_11_FPF.svg.png" ,CANAL 11 HD ʰᵉᵛᶜ
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/23692
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/1200px-Logo_Canal_11_FPF.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/1200px-Logo_Canal_11_FPF.svg.png" ,CANAL 11 FHD
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/16311
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://pbs.twimg.com/profile_images/1164558980267618309/V1ams3u8_400x400.jpg" tvg-logo-small="https://pbs.twimg.com/profile_images/1164558980267618309/V1ams3u8_400x400.jpg" ,FUEL TV
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1122
-#EXTINF:-1 group-title="Canais Desporto • PT" tvg-logo="https://www.lojasonline.net/sn/pasta_ficheiros_entidades_sn/74751/loja/foto_85170C51-AE50-47AA-A8F3A1CE8DA3B9A010.jpg" tvg-logo-small="https://www.lojasonline.net/sn/pasta_ficheiros_entidades_sn/74751/loja/foto_85170C51-AE50-47AA-A8F3A1CE8DA3B9A010.jpg" ,CAZA Y PESCA
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1102
-
-#EXTINF:-1 group-title="Helix • PT" tvg-logo="https://i.ibb.co/hMwg3m9/Helix-Logo.png" tvg-logo-small="https://i.ibb.co/hMwg3m9/Helix-Logo.png" ,★★★★★ Animação ★★★★★
-http://Helix.pt
-#EXTINF:-1 group-title="Animacao • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/da/SIC_K_Portugal.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/pt/d/da/SIC_K_Portugal.png" ,SIC K
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/13922
-#EXTINF:-1 group-title="Animacao • PT" tvg-logo="https://duckduckgo.com/i/2f4e8b65.png" tvg-logo-small="https://duckduckgo.com/i/2f4e8b65.png" ,Cartoonito
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/136934
-#EXTINF:-1 group-title="Animacao • PT" tvg-logo="https://i.imgur.com/Atdjaeq.png" tvg-logo-small="https://i.imgur.com/Atdjaeq.png" ,Cartoon Network
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1106
-#EXTINF:-1 group-title="Animacao • PT" tvg-logo="https://espalhafactos.com/wp-content/uploads/2012/10/Disney-Junior-_-Logo1.png" tvg-logo-small="https://espalhafactos.com/wp-content/uploads/2012/10/Disney-Junior-_-Logo1.png" ,DISNEY JUNIOR
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1114
-#EXTINF:-1 group-title="Animacao • PT" tvg-logo="https://espalhafactos.com/wp-content/uploads/2012/10/Disney-Junior-_-Logo1.png" tvg-logo-small="https://espalhafactos.com/wp-content/uploads/2012/10/Disney-Junior-_-Logo1.png" ,NICK JR
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/59682
-#EXTINF:-1 group-title="Animacao • PT" tvg-logo="https://prowly-uploads.s3.eu-west-1.amazonaws.com/uploads/landing_page/template_background/215208/ceb0503349e3a10c2109d9d942459f6c.jpg" tvg-logo-small="https://prowly-uploads.s3.eu-west-1.amazonaws.com/uploads/landing_page/template_background/215208/ceb0503349e3a10c2109d9d942459f6c.jpg" ,DISNEY CHANNEL
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1113
-#EXTINF:-1 group-title="Animacao • PT" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZRlJC_e1QwPw3H95mm94MqGolfawA45dPyU3Fxh=s900-c-k-c0x00ffffff-no-rj" tvg-logo-small="https://yt3.googleusercontent.com/ytc/AIf8zZRlJC_e1QwPw3H95mm94MqGolfawA45dPyU3Fxh=s900-c-k-c0x00ffffff-no-rj" ,Lolly Kids
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/88168
-#EXTINF:-1 group-title="Animacao • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/ca/Baby_TV.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/pt/c/ca/Baby_TV.png" ,BABY TV
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1099
-#EXTINF:-1 group-title="Animacao • PT" tvg-logo="https://i.imgur.com/E8CQtKg.png" tvg-logo-small="https://i.imgur.com/E8CQtKg.png" ,Nickelodeon
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1134
-#EXTINF:-1 group-title="Animacao • PT" tvg-logo="https://canalpanda.pt/wp-content/uploads/2022/11/LOGO-PANDA_VERTICAL_CAJA-e1669214127363.png" tvg-logo-small="https://canalpanda.pt/wp-content/uploads/2022/11/LOGO-PANDA_VERTICAL_CAJA-e1669214127363.png" ,CANAL PANDA
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1104
-#EXTINF:-1 group-title="Animacao • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Biggs_2023_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/2/27/Biggs_2023_logo.png" ,Biggs
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1046
-
-#EXTINF:-1 group-title="Helix • PT" tvg-logo="https://i.ibb.co/hMwg3m9/Helix-Logo.png" tvg-logo-small="https://i.ibb.co/hMwg3m9/Helix-Logo.png" ,★★★★★ Documentários ★★★★★
-http://Helix.pt
-#EXTINF:-1 group-title="Documentarios • PT" tvg-logo="https://parsefiles.back4app.com/xuEVZyqmEPdfjE6AndBuBOqp25pCCS3PEQmI8PM6/a8106581dbd0a4365c9556f198aa6a64_AMC%20CRIME_NEGRO.png" tvg-logo-small="https://parsefiles.back4app.com/xuEVZyqmEPdfjE6AndBuBOqp25pCCS3PEQmI8PM6/a8106581dbd0a4365c9556f198aa6a64_AMC%20CRIME_NEGRO.png" ,AMC Crime
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/129385
-#EXTINF:-1 group-title="Documentarios • PT" tvg-logo="https://parsefiles.back4app.com/xuEVZyqmEPdfjE6AndBuBOqp25pCCS3PEQmI8PM6/206738a76db4b0e6bf49616973909f4e_AMC%20BREAK%20MOBILE.png" tvg-logo-small="https://parsefiles.back4app.com/xuEVZyqmEPdfjE6AndBuBOqp25pCCS3PEQmI8PM6/206738a76db4b0e6bf49616973909f4e_AMC%20BREAK%20MOBILE.png" ,AMC Break
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/127065
-#EXTINF:-1 group-title="Documentarios • PT" tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2014/10/Discovery-Channel-logo.png" tvg-logo-small="https://www.meiosepublicidade.pt/wp-content/uploads/2014/10/Discovery-Channel-logo.png" ,Discovery Channel FHD
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/64878
-#EXTINF:-1 ,PT: INVESTIGATION DISCOVERY
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/13919
-#EXTINF:-1 group-title="Documentarios • PT" tvg-logo="https://yt3.googleusercontent.com/IVVrue_WHD9lK-12DvplMxKoxOYOS2kjYl1tbhC_fONBK06E-YfdEdtScQNwWQUbxrHfwnxBgw=s900-c-k-c0x00ffffff-no-rj" tvg-logo-small="https://yt3.googleusercontent.com/IVVrue_WHD9lK-12DvplMxKoxOYOS2kjYl1tbhC_fONBK06E-YfdEdtScQNwWQUbxrHfwnxBgw=s900-c-k-c0x00ffffff-no-rj" ,Historia
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1092
-#EXTINF:-1 group-title="Documentarios • PT" tvg-logo="https://static.nationalgeographicbrasil.com/files/styles/image_3200/public/nglogo2.png?w=1600" tvg-logo-small="https://static.nationalgeographicbrasil.com/files/styles/image_3200/public/nglogo2.png?w=1600" ,National Geographic Wild HD ʰᵉᵛᶜ
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/67656
-#EXTINF:-1 group-title="Documentarios • PT" tvg-logo="https://static.nationalgeographicbrasil.com/files/styles/image_3200/public/nglogo2.png?w=1600" tvg-logo-small="https://static.nationalgeographicbrasil.com/files/styles/image_3200/public/nglogo2.png?w=1600" ,National Geographic HD ʰᵉᵛᶜ
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1132
-#EXTINF:-1 group-title="Documentarios • PT" tvg-logo="https://static.nationalgeographicbrasil.com/files/styles/image_3200/public/nglogo2.png?w=1600" tvg-logo-small="https://static.nationalgeographicbrasil.com/files/styles/image_3200/public/nglogo2.png?w=1600" ,National Geographic FHD
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/22068
-#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://akns-images.eonline.com/eol_images/Entire_Site/2020330/rs_112x112-200430123021-112X112-e-logo.png" tvg-logo-small="https://akns-images.eonline.com/eol_images/Entire_Site/2020330/rs_112x112-200430123021-112X112-e-logo.png" ,E! Entertainment
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1115
-#EXTINF:-1 group-title="Documentarios • PT" tvg-logo="https://parsefiles.back4app.com/xuEVZyqmEPdfjE6AndBuBOqp25pCCS3PEQmI8PM6/9229667b2980b3ff9333285fd7e81bd3_LOGO-RGB_ODISSEIA-Color-Claim-txtB.png" tvg-logo-small="https://parsefiles.back4app.com/xuEVZyqmEPdfjE6AndBuBOqp25pCCS3PEQmI8PM6/9229667b2980b3ff9333285fd7e81bd3_LOGO-RGB_ODISSEIA-Color-Claim-txtB.png" ,ODISSEIA
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/25861
-#EXTINF:-1 ,PT: ZAP VIVA HD
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/67660
-#EXTINF:-1 ,PT: Kuriakos TV HD
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/88171
-
-#EXTINF:-1 group-title="Helix • PT" tvg-logo="https://i.ibb.co/hMwg3m9/Helix-Logo.png" tvg-logo-small="https://i.ibb.co/hMwg3m9/Helix-Logo.png" ,★★★★★  Musica ★★★★★
-http://Helix.pt
-#EXTINF:-1 group-title="Canais Musica • PT" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TRACE-Urban.png" tvg-logo-small="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TRACE-Urban.png" ,Trace Urban
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/15414
-#EXTINF:-1 group-title="Canais Musica • PT" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TRACE-Latina.png" tvg-logo-small="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TRACE-Latina.png" ,Trace Latina (fr)
-https://amg01131-tracetv-tracelatina-klowdtv-v10em.amagi.tv/playlist/amg01131-tracetv-tracelatina-klowdtv/playlist.m3u8
-#EXTINF:-1 group-title="Canais Musica • PT" tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" tvg-logo-small="https://logosmarcas.net/wp-content/uploads/2020/10/MTV-Logo.png" ,MTV PORTUGAL
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1131
-#EXTINF:-1 group-title="Canais Musica • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Mcm_pop_logo.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/8/89/Mcm_pop_logo.png" ,MCM POP
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/14323
-#EXTINF:-1 group-title="Canais Musica • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/MCM_Top.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/a/aa/MCM_Top.png",MCM TOP
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/127066
-#EXTINF:-1 group-title="Helix • PT" tvg-logo="https://i.ibb.co/hMwg3m9/Helix-Logo.png" tvg-logo-small="https://i.ibb.co/hMwg3m9/Helix-Logo.png" ,★★★★★ Documentários ★★★★★
-http://Helix.pt
-
-
-#EXTINF:-1 group-title="Helix • PT" tvg-logo="https://i.ibb.co/hMwg3m9/Helix-Logo.png" tvg-logo-small="https://i.ibb.co/hMwg3m9/Helix-Logo.png" ,★★★★★ Catolico ★★★★★
-http://Helix.pt
-#EXTINF:-1 group-title="Catolico • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" ,Canção Nova
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/129530
-#EXTINF:-1 group-title="Catolico • PT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" ,Cancao Nova
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/146099
-#EXTINF:-1 group-title="Catolico • PT" tvg-logo="https://seeklogo.com/images/S/santuario-de-fatima-logo-A6BA69F003-seeklogo.com.png" tvg-logo-small="https://seeklogo.com/images/S/santuario-de-fatima-logo-A6BA69F003-seeklogo.com.png" ,Santuario de Fatima
-https://ythls.armelin.one/channel/UCOAjX8pc2fY1S5AqsXvZywg.m3u8
-
-#EXTINF:-1 group-title="Helix • PT" tvg-logo="https://i.ibb.co/hMwg3m9/Helix-Logo.png" tvg-logo-small="https://i.ibb.co/hMwg3m9/Helix-Logo.png" ,★★★★★ NÃO DA ★★★★★
-http://Helix.pt
-#EXTINF:-1 ,PT: Onetoro TV (não esta a dar)
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1158
-#EXTINF:-1 ,PT: PFC HD
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1136
-#EXTINF:-1 ,PT: TV Galicia
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/67665
-#EXTINF:-1 ,PT: STAR COMEDY FHD
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/125925
-#EXTINF:-1 ,PT:  National Geographic Wild FHD
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1112
-#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh7FIO2vkQMbZTBOPsSFQuB4EdEgBJhFCBxGy3eXo_hxuPxop3TVPonHfxmz_DV2DAGA&usqp=CAU" tvg-logo-small="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh7FIO2vkQMbZTBOPsSFQuB4EdEgBJhFCBxGy3eXo_hxuPxop3TVPonHfxmz_DV2DAGA&usqp=CAU" ,SIC V3 (sporttv 3)
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/1150
-#EXTINF:-1 ,PT: CaĿavision HD
-http://mjb69mjb.access.ly:2082/lismarad/jXcmD7Q1/129388
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="PT: RTP Internacional" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtp-internacional-pt.png" group-title="Portugal",PT: RTP Internacional
 http://dv.sdmabm.com:8080/xhwjrmot/Yqu9z47P4m/42910
-#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP2_positivo_horiz_RGB.png" tvg-logo-small="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP2_positivo_horiz_RGB.png" ,RTP 2
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-name="PT: RTP 2" tvg-logo="http://pycon.oirza.com:2095/piconpt/1_0_1_32C_24_36_FFFF0000_0_0_0.png" group-title="Portugal",PT: RTP 2
 http://dv.sdmabm.com:8080/xhwjrmot/Yqu9z47P4m/1204
-#EXTINF:-1 group-title="Canais Abertos • PT" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP2_positivo_horiz_RGB.png" tvg-logo-small="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP2_positivo_horiz_RGB.png" ,RTP 2 HD
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-name="PT: RTP 2 HD" tvg-logo="http://pycon.oirza.com:2095/piconpt/1_0_1_32C_24_36_FFFF0000_0_0_0.png" group-title="Portugal",PT: RTP 2 HD
 http://dv.sdmabm.com:8080/xhwjrmot/Yqu9z47P4m/639
 #EXTINF:-1 tvg-id="sic.pt" tvg-name="PT: SIC" tvg-logo="http://pycon.oirza.com:2095/piconpt/1_0_1_32D_24_36_FFFF0000_0_0_0.png" group-title="Portugal",PT: SIC
 http://dv.sdmabm.com:8080/xhwjrmot/Yqu9z47P4m/1214
@@ -918,3 +488,1221 @@ http://dv.sdmabm.com:8080/xhwjrmot/Yqu9z47P4m/29613
 http://dv.sdmabm.com:8080/xhwjrmot/Yqu9z47P4m/52018
 #EXTINF:-1 tvg-id="BTVMulticamaras.pt" tvg-name="PT: BTV Emergency" tvg-logo="http://pycon.oirza.com:2095/nwicos/btv.png" group-title="Portugal",PT: BTV Emergency
 http://dv.sdmabm.com:8080/xhwjrmot/Yqu9z47P4m/52021
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: ALSAT M HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71411&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: ALSAT M
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71410&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: TOP NEWS
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71412&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: TOP CHANNEL HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71401&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: TOP CHANNEL
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71400&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: KLAN
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71396&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: KLAN HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71397&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: KLAN PLUS HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71399&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: KLAN KOSOVA HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71398&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: KTV  HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71395&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: KANAL 10 FHD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71416&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: VIZION PLUS
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71418&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: RTK 1
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71423&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: RTK 2
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71424&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: RTK 3
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71425&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: RTK 4
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71426&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: RTV 21 HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71422&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: RTV 21
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71421&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: TDC HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71409&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: TV DUKAGJINI
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71413&extension=ts
+#EXTINF:-1 tvg-logo="http://osnew.freesrv.org:8000/logo/chn/41452.png" group-title="AL: ALBANIA",ALB: KANAL D DRAMA
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71408&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: T HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71445&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: T7 HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71452&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: KANALI 7
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71415&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: SHENJA TV
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71434&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: ABC NEWS
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71451&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: FIRST CHANNEL
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71450&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: ORA NEWS
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71449&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: FERMA VIP 1
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71406&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: FERMA VIP 2
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71407&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: BIG BROTHER 1 HD VIP
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71402&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: BIG BROTHER 2 HD VIP
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71403&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: BB VIP  1 HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71404&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: BB VIP 2 HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71405&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: EXP HISTORI
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71488&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: FILM AUTOR
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71487&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: TV SHARRI
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71486&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: RTV 21 JUNIOR
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71432&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: RTSH FILM
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71430&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: RTSH 1 HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71427&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: RTSH 2 HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71428&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: RTSH 3 HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71429&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: Sitel tv HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71420&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: SITEL
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71419&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: TV ARTA
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71417&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: NEWS 24
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71414&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: TRING SHQIP
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71463&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: TRING COMEDY
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71462&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: TRING LIFE
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71461&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: TRING FANTASY
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71460&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: TRING ACTION
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71459&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: TRING PLANET
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71458&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: FILM NJE
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71437&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: FILM THRILLER
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71436&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: TRING SERIES HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71435&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: FILM DY HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71468&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: FILM KOMEDI
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71453&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: ART KINO 1 HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71473&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: ART KINO 2 HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71474&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: ART KINO 3 HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71475&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: ART DOKU 1 HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71476&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: ART DOKU 2 HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71477&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: TRING SPORT NEWS HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71481&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: RTSH SPORT
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71446&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: TRING SPORT 1 HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71464&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: TRING SPORT 2 HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71465&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: TRING SPORT 3 HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71466&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: TRING SPORT 4 HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71467&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: K SPORT 1 HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71482&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: K SPORT 2 HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71483&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: K SPORT 3 HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71484&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: K SPORT 4 HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71485&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: ART SPORT 1 HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71478&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: ART SPORT 2 HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71479&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: ART SPORT 3 HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71480&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: SUPER SPORT KOSOVA 1 HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71447&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: SUPER SPORT KOSOVA 2 HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71448&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: RTV ISLAM
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71472&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: FOLK
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71471&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: CUFO
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71470&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: Baby TV
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71469&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: BANG  BANG
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71457&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: TRING SUPER
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71456&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: ERA TV
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71455&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: EXPLORER NATYRA
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71454&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: TV SYRI
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71444&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: ATV TV HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71443&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: EuroNews Albania
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71442&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: TIRANA TV
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71441&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: TRING 3
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71440&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: TRING HISTORI
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71439&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: TRING WORLD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71438&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: RTSH MUZIKE
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71431&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AL: ALBANIA",ALB: X HUMOR HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:4F:5E:06&stream=71433&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: MAROC",MA: 2M MAROC monde
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13618&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: MAROC",MA: 2M INTER ma
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13619&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: MAROC",AR: ARRIADIA
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13620&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: MAROC",MA: ARRyADIA  ma HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13621&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: MAROC",MA: Athaqafia
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13622&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: MAROC",MA: Athaqafia  FHD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13623&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: MAROC",AR: AL MAGHRIBIA  NEW MA
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13624&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: MAROC",MA: Magharibia 2
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13625&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: MAROC",AR: ASSADISSA
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13626&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: MAROC",MA: ASSADISSA  ma
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13627&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: MAROC",AR: TAMAZIGHT
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13628&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: MAROC",AR: TAMAZIGHT FHD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13629&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: MAROC",MA: TELE MAROC
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13630&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: MAROC",MA: MEDI  1  maroc
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13631&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: MAROC",MA: MEDI  1 afriq
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13632&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: MAROC",MA: TV 5
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13633&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: MAROC",MA: M24
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13634&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: Zee Aflam
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13635&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: Zee Alwan
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13636&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: CHADA TV
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13637&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR. MBC 1 HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13639&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: MBC 1 FHD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13640&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: MBC 2 HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13641&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR. MBC 2 FHD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13642&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR. MBC 3 HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13643&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: MBC 3 FHD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13644&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: MBC 4 HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13645&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: MBC 4 FHD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13646&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: MBC 5 HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13647&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: MBC 5 FHD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13648&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: MBC MASR 1 HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13649&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: MBC MASR 1 FHD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13650&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: MBC MASR 2 HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13651&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: MBC MASR  2 FHD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13652&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR. MBC Action HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13653&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: MBC ACTION FHD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13654&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR. MBC Bollywood
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13655&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: MBC BOLLYWOOD  FHD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13656&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR. MBC Drama HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13657&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: MBC Drama FHD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13658&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: MBC DRAMA + HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13659&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: MBC DRAMA + FHD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13660&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR. MBC Max HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13661&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: MBC MAX FHD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13662&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: MBC IRAQ HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13663&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: MBC IRAQ FHD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13664&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: beIN MOVIES 1 HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13665&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: beIN MOVIES 2 HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13666&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: beIN MOVIES 3 HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13667&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: beIN MOVIES 4 HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13668&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",EG: Nile Drama
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13669&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",EG: Nile Family
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13670&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",EG: Nile CINEMA
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13671&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",EG: Nile Comedy
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13672&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: beIN FATAFEAT
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13673&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: OSNOSN CINEMA 1
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13674&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: OSNOSN CINEMA 2
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13675&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",EG: Nile Culture
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13676&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",EG:  Nile Life
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13677&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR:  OSN YaHala Oula HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13678&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: OSN YaHala Cinema HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13679&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR:  OSN ALYOUM HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13680&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR:  OSN YaHala HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13681&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: OSNOSN Movies Action HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13682&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: OSN Enigma HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13683&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: OSNOSN Movies First HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13684&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",EG: Nile News
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13685&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: Star Movies HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13686&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: OSN Movie Festival
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13687&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: Star World HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13688&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",EG: Nile TV
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13689&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: SPORT",EG: Nile Sport
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13690&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",EG:  AL masriya
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13691&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: OSNNat Geo Wild
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13692&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: NATIONAL GEOGRAPHIC HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13693&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: History HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13694&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: Discovery HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13695&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: DISCOVERY SCIENCE HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13696&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: Nickelodeon HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13697&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: OSN Kids Zone HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13698&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: MEZZE_HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13699&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",EG: AL oula
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13700&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",EG: Al Thanya
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13701&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",EF: ON E
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13702&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: WWE Network
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13703&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: OSN Box Office 1
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13704&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: Osn Box Office 2
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13705&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: Osn Box Office 3
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13706&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",EG: ON Drama
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13707&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: SPORT",EG: ON Sport 1
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13708&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: SPORT",EG: ON Sport 2
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13709&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",EG: CBC
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13710&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",EG: CBC Drama
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13711&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",EG: CBC Sofra
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13712&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: ALFA Music Now HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13713&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",EG: EXtra News HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13714&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: OSNPOP UP HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13715&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: SPORT",AR: AD SPORT 1 HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13716&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: SPORT",AR: AD SPORT 4 HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13718&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: SPORT",AR: AD SPORT 3 HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13719&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: SPORT",AR: BEIN SPORT 2 FHD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13720&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: SPORT",AR: Dubai Sport 1 hd
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13721&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: SPORT",AR: DUBAI  SPORT  1 HD  local
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13722&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: SPORT",AR: Dubai Sport 2 hd
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13723&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: DUBAI RASIN  1  LOCAL
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13724&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: DUBAI RASIN  2 local
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13725&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: SPORT",AR;  Al Kass Sports 2 HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13727&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: ABU DHABI DRAMA  local
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13728&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: DUBAI drama
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13729&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: ABU DHABI  TV   dubai
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13730&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: DUBAI RASIN  3
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13731&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: DUBAI TV dubai
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13732&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: Kalba TV dubai
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13733&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: AL ARABIA  dubai
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13734&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: Dubai One
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13735&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR:: Dubai Amarat
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13736&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: YAS TV Dubai
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13737&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: sharjah dubai
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13738&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: Cnbc ARABICK dubai
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13739&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: Aldafrah tv Dubai
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13740&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: Alaan tv  Dubai
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13741&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: Alwosta tv Dubai
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13742&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: AL RAFIDAIN iraq
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13743&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: Al Sharqiya News TV iraq
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13744&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: iraqworldsafe Iraq
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13745&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: Airafidaan tv Iraq
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13746&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: AFAQ TV  Iraq
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13747&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: Alhurra  iraq
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13748&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: Alsumaria tv Iraq
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13749&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: Alqanat  Iraq
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13750&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: ALFORAT TV iRAQ
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13751&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: Akamal tv oiraq
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13752&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: alsharqiya tv  iraq
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13754&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: ALiraqiya  Iraq
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13755&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: Aliraqiya news  Iraq
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13756&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",EG: DMC Egipt
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13757&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: SPORT",AR: ON Sport Egipt
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13758&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",EG: DMC Drama Egipt
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13759&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: ON Drama Egipt
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13760&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: ESC 2 Egipt
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13761&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: AB 9  agipt
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13762&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",EG: CBC EXTRA  egipt
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13763&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: Sade Elbalad  Egipt
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13764&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR:  Alkawthar TV
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13765&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: 218 libia NEWS
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13766&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: Ajyal TV  palistin
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13767&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: PBC TV  palistin
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13768&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: Al Falstiniah TV
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13769&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: Akamaihd  Tv   local
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13770&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: APLE DRAMA
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13771&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: Al Ghad  yemen  rtm
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13772&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: AL HURRA   local
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13773&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: Al Mamlaka TV  jordan
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13774&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: BAHRAIN TV
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13775&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: BAHRAIN TV 2 HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13776&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: AL Resheed  Tv   local
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13777&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR:  AL JEZEERA LOCAL
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13778&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: ALARABY NETWORK
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13779&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: Alerth Alnabawi rtm
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13780&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: Libia net  libia
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13781&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: ALjazeera qatar
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13782&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: ALRAYYAN  1  qatar
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13783&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: ALRAYYAN  2  qatar
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13784&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: Baream tv Qatar
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13785&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: Aljazeera misir Qatar
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13786&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: QATAR TV
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13787&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: QATAR 2 HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13788&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: amman tv jordan
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13789&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: AlRAI HD kuwait
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13790&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: SPORT",AR: BAHRAIN  sport 2 hd
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13791&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: Fateh tv Egipt
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13792&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: Beity TV  sausi  rtm
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13793&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: CANADIAN TV
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13794&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: AL HAYAT
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13795&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: Panorama_Drama2
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13796&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: KTV kids  kuwait
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13797&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: Alrai  tv Kuwait
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13798&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: CGTN Arabic TV
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13799&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR:  NAT GEO
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13800&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: EL HIWAR TV  local
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13801&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: Al Ghad Al Mushreq TV   rtm
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13802&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: Almanar tv libanon
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13803&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: MTV libanon
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13804&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: Al-Mahdi TV  Libanon
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13805&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: Seven een  libanon
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13806&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: LBC libanon
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13807&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: ORIENT TV HD libanon
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13808&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: AEESH AL AAN TV libanon
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13809&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: Aljadeet libanon
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13810&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: FUTURE TV  libanon
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13811&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: AL ITTIHAD Libanon
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13812&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: LBCI int  libanon
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13813&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: TELE  libanon
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13814&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR:ALMAYADEEN  libanon
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13815&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: Falastini TV
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13816&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: FRANCE 24 ARABICK
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13817&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: HALAB TODAY  syria
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13818&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: htvajyal TV
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13819&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: Imam Hussain TV  1 iraq
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13820&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: Imam Hussain TV  2 iraq
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13821&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: Imam Hussein TV 3  iraq
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13822&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: ALGERIA  2
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13823&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: iraq news
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13824&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: IRAQ WORLD iraq
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13825&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: JASCO Events TV   jordan
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13826&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: Jordan TV
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13827&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: Kaif TV  saudi  rtm
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13828&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: KTV 1  kuwait
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13829&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: KTV 2  kuwait
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13830&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: KTV 3 kuwait
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13831&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: KTV QURAN kuwait
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13832&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: KTV 4  kuwait
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13833&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: KTV AL MAJLIS  kuwait
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13834&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: SPORT",AR: KTV SPORT  kuwait
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13835&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: SPORT",AR: KTV SPORT PLUS  kuwait
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13836&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: LIBYA ALHADATH   local
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13837&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: alistiqama  oman
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13838&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: NABAA  TV  saudi
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13839&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: FUNOON Libia
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13840&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: 218 libya
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13841&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: jam libia
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13842&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: alahrar libia
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13843&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: Mostaqbal libia
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13844&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: Noor Dubai TV
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13845&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: OMAN TV CULTURA  local
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13846&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: OMAN TV GENERAL
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13847&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR:  OMAN TV  mobashir local
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13848&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: SPORT",AR: OMAN TV SPORT
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13849&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: Mekameleen Egipt
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13850&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: Palestine Al Yawm TV
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13851&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: Palestine Mubasher TV
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13852&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: Palestinian Satellite
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13853&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: palestinian tv
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13854&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: Rotana Music egipt
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13855&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: Rotana Cinema  egipt
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13856&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: Rotana Clip egipt
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13857&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: Rotana Drama  egipt
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13858&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: Rotana Khaliji  egipt
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13859&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: Rotana Comedy
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13860&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: Roya TV  jordan
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13861&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: SAHEL TV  tunus
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13862&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: abna tv libia
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13863&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: pbc 2  palestin
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13864&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: SAUDI QURAN  TV
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13865&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: SKY NEWS dubai
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13866&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: SYRIA DRAMA  syria
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13867&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: Syria tv
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13868&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: pal today falistin
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13869&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: TRT ARABICK
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13870&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: WATAN TV  egipt
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13871&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: WBN
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13872&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: WESAL TV  saudi
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13873&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: ALFAJER 2  palestin
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13874&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: Bethelen tv falistin
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13875&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: ajyal  palestin
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13876&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: NBC FALISTIN
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13877&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: CGC  falistin
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13878&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: GIgUNNA falistin
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13879&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: Falistin niews
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13880&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: FALISTEN 2
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13881&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: SUNNi saudi
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13882&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: SAUDIA 1 saudi
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13883&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: SAUDI NEWS saudi
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13884&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: IQRA TV  saudi
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13885&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: IQRA EU  saitia
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13886&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: saudi  1
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13887&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: NOBLE TV saudi
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13888&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: MEKKAH  saudi
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13889&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: KHALIJ  saudi
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13891&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: Alaraby TV
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13892&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: -SAHEL TV HD tunisia
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13893&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AR: ARABIC",AR: SPACETOON
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=13894&extension=ts
+#EXTINF:-1 tvg-logo="http://contentlibrary.digiturk.com.tr/Channel/310/Image/beinsports2-hd-70x46.png" group-title="AR: SPORT",AR: BeIN SPORTS 1 Premium FHD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=2853&extension=ts
+#EXTINF:-1 tvg-logo="http://contentlibrary.digiturk.com.tr/Channel/312/Image/beinsports3-hd-70x46.png" group-title="AR: SPORT",AR: BEIN sports 3 HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=2863&extension=ts
+#EXTINF:-1 tvg-logo="http://contentlibrary.digiturk.com.tr/Channel/495/Image/beinsports4-hd-70x46.png" group-title="AR: SPORT",AR: BEIN sports 4 HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=2864&extension=ts
+#EXTINF:-1 tvg-logo="http://contentlibrary.digiturk.com.tr/Channel/495/Image/beinsports4-hd-70x46.png" group-title="AR: SPORT",AR: BEIN SPORT 4 HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=2865&extension=ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/be_in_mena_sports_max_05_hd.png" group-title="AR: SPORT",AR: BEIN SPORT 5 HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=2866&extension=ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/be_in_mena_sports_max_05_hd.png" group-title="AR: SPORT",AR: BEIN sports 5 HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=2867&extension=ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/be_in_mena_sports_max_06_hd.png" group-title="AR: SPORT",AR: BEIN sports 6 HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=2868&extension=ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/be_in_mena_sports_max_06_hd.png" group-title="AR: SPORT",AR: BEIN SPORT 6 HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=2869&extension=ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/be_in_mena_sports_max_07_hd.png" group-title="AR: SPORT",AR: BEIN sports 7 HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=2870&extension=ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/be_in_mena_sports_max_07_hd.png" group-title="AR: SPORT",AR: BEIN SPORT 7 HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=2871&extension=ts
+#EXTINF:-1 tvg-id=\"d96b018936007d7513bacc0a474d5f6c\" tvg-chno=\"2\",ABC TV
+http://59.167.111.2:9981/stream/channelid/151088089?profile=pass
+#EXTINF:-1 tvg-id=\"9e02260f6ee2640437c7541540a1873b\" tvg-chno=\"3\",SBS ONE
+http://59.167.111.2:9981/stream/channelid/254149278?profile=pass
+#EXTINF:-1 tvg-id=\"102f5606c76cc821163e1340b2ecfebd\" tvg-chno=\"5\",10HD
+http://59.167.111.2:9981/stream/channelid/106311440?profile=pass
+#EXTINF:-1 tvg-id=\"0c8a080111bf8827a23886f5403bbeec\" tvg-chno=\"6\",7HD Regional WA
+http://59.167.111.2:9981/stream/channelid/17336844?profile=pass
+#EXTINF:-1 tvg-id=\"e38112c13fdaa4fa5836a462d368d3ca\" tvg-chno=\"8\",9HD
+http://59.167.111.2:9981/stream/channelid/1091731939?profile=pass
+#EXTINF:-1 tvg-id=\"81697f5c0d250697e9bf389992211953\" tvg-chno=\"20\",ABCTV HD
+http://59.167.111.2:9981/stream/channelid/1551853953?profile=pass
+#EXTINF:-1 tvg-id=\"6a6f6a9fb18f5d2887383136cb4a1fe8\" tvg-chno=\"21\",ABC TV
+http://59.167.111.2:9981/stream/channelid/527069034?profile=pass
+#EXTINF:-1 tvg-id=\"e1c476a701ba1944bce989eb624985b7\" tvg-chno=\"22\",ABC Kids/ABC Family
+http://59.167.111.2:9981/stream/channelid/662095073?profile=pass
+#EXTINF:-1 tvg-id=\"4c67d9f1d54ce81c917fa912ec099279\" tvg-chno=\"24\",ABC NEWS
+http://59.167.111.2:9981/stream/channelid/1910073164?profile=pass
+#EXTINF:-1 tvg-id=\"5052adcfab8f27ed2a4fa143cbc22609\" tvg-chno=\"25\",ABC PERTH
+http://59.167.111.2:9981/stream/channelid/1336758864?profile=pass
+#EXTINF:-1 tvg-id=\"aacef13c224d01992a2a20e1936b24d6\" tvg-chno=\"26\",ABC RN
+http://59.167.111.2:9981/stream/channelid/1022480042?profile=pass
+#EXTINF:-1 tvg-id=\"dff8cf6b34f80f7342144e733534be19\" tvg-chno=\"28\",triple j
+http://59.167.111.2:9981/stream/channelid/1808791775?profile=pass
+#EXTINF:-1 tvg-id=\"ff1b61d8c849951cb2ee3d4f19762711\" tvg-chno=\"30\",SBS ONE HD
+http://59.167.111.2:9981/stream/channelid/1482759167?profile=pass
+#EXTINF:-1 tvg-id=\"f75030a810f916367ebfdaa576b44759\" tvg-chno=\"31\",SBS VICELAND HD
+http://59.167.111.2:9981/stream/channelid/674255095?profile=pass
+#EXTINF:-1 tvg-id=\"1792e976a4b3c1808a14582407484a04\" tvg-chno=\"32\",SBS World Movies
+http://59.167.111.2:9981/stream/channelid/1995018775?profile=pass
+#EXTINF:-1 tvg-id=\"24cf7ba96c7f11103672703763d2d9ff\" tvg-chno=\"33\",SBS Food
+http://59.167.111.2:9981/stream/channelid/695979812?profile=pass
+#EXTINF:-1 tvg-id=\"19f060206de23deac2b88d03676049c5\" tvg-chno=\"35\",SBS WorldWatch
+http://59.167.111.2:9981/stream/channelid/543223833?profile=pass
+#EXTINF:-1 tvg-id=\"1bb5660fd2e5ef830452ae03a0f56e93\" tvg-chno=\"50\",10Bold
+http://59.167.111.2:9981/stream/channelid/258389275?profile=pass
+#EXTINF:-1 tvg-id=\"d5f3690e3a31156dff0b83f1737d3533\" tvg-chno=\"55\",10Peach
+http://59.167.111.2:9981/stream/channelid/241824725?profile=pass
+#EXTINF:-1 tvg-id=\"a0b762db68c3dbef7a959498c3e5dbd8\" tvg-chno=\"62\",7two Regional WA
+http://59.167.111.2:9981/stream/channelid/1533196192?profile=pass
+#EXTINF:-1 tvg-id=\"e2de3aed16239da3f33125da129d85fc\" tvg-chno=\"64\",7mateHD Regional WA
+http://59.167.111.2:9981/stream/channelid/1832574690?profile=pass
+#EXTINF:-1 tvg-id=\"b1c1b53b9139ddd88a3bb51625eac794\" tvg-chno=\"80\",9HD
+http://59.167.111.2:9981/stream/channelid/1001767345?profile=pass
+#EXTINF:-1 tvg-id=\"4b50bce0e359716cafc65dbb59fbe96a\" tvg-chno=\"81\",9Gem
+http://59.167.111.2:9981/stream/channelid/1622954059?profile=pass
+#EXTINF:-1 tvg-id=\"030577f4db117207e7468faeb6ef480d\" tvg-chno=\"82\",9Go!
+http://59.167.111.2:9981/stream/channelid/1953957123?profile=pass
+#EXTINF:-1 tvg-id=\"8bd630d4b99c38f1bd5ddae72bf14651\" tvg-chno=\"85\",9Life
+http://59.167.111.2:9981/stream/channelid/1412486795?profile=pass
+#EXTINF:-1 tvg-id=\"beeb2205cd3f83e4280ee91671e46cb3\" tvg-chno=\"201\",ABC Jazz
+http://59.167.111.2:9981/stream/channelid/86174654?profile=pass
+#EXTINF:-1 tvg-id=\"94b579a4d09c0b4170908afc849c45c6\" tvg-chno=\"202\",ABC KIDS Listen
+http://59.167.111.2:9981/stream/channelid/611956116?profile=pass
+#EXTINF:-1 tvg-id=\"52d4138cdbc8708803ed7b3349d4517d\" tvg-chno=\"204\",ABC NewsRadio
+http://59.167.111.2:9981/stream/channelid/202626130?profile=pass
+#EXTINF:-1 tvg-id=\"cb0c8ec5f99f82dd4609df8fbf07cda4\" tvg-chno=\"306\",SBS Chill
+http://59.167.111.2:9981/stream/channelid/1166937291?profile=pass
+#EXTINF:-1 tvg-id=\"bfb168d3b7fd9b088c1dba31b861ff37\" tvg-chno=\"307\",SBS PopAsia
+http://59.167.111.2:9981/stream/channelid/1399370175?profile=pass
+#EXTINF:-1 tvg-logo=\"https://dlgie0dznny76.cloudfront.net/wp-content/uploads/2018/02/13143430/abcnews-logo.jpg\" tvg-id=\"002112c5e96dd1426a61538c91866f71\" tvg-chno=\"1001\",ABC News
+http://59.167.111.2:9981/stream/channelid/1158816000?profile=pass
+#EXTINF:-1 tvg-logo=\"https://i.imgur.com/EVbmRFq.png\" tvg-id=\"4196986ad7917ec3e0c47e1fa88b309e\" tvg-chno=\"1005\",Akaku 53 (Hawaii)
+http://59.167.111.2:9981/stream/channelid/1788384833?profile=pass
+#EXTINF:-1 tvg-logo=\"https://i.imgur.com/9vu6nvc.png\" tvg-id=\"2bc375caaaa748dda042954d23c4a8ce\" tvg-chno=\"1006\",Akaku 54 (Hawaii)
+http://59.167.111.2:9981/stream/channelid/1249231659?profile=pass
+#EXTINF:-1 tvg-logo=\"https://i.imgur.com/EVbmRFq.png\" tvg-id=\"76bedbb17c2a184caad019ef026278e2\" tvg-chno=\"1007\",Akaku 55 (Hawaii)
+http://59.167.111.2:9981/stream/channelid/836484726?profile=pass
+#EXTINF:-1 tvg-logo=\"http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png\" tvg-id=\"75a7a3790f39b324700ffce7b63c1e33\" tvg-chno=\"1008\",Aljazeera English
+http://59.167.111.2:9981/stream/channelid/2040768373?profile=pass
+#EXTINF:-1 tvg-logo=\"https://i.imgur.com/hSYez3V.png\" tvg-id=\"18ea2e2cd6fdf49abf270cb029e4fa0f\" tvg-chno=\"1009\",Atlanta Channel
+http://59.167.111.2:9981/stream/channelid/741272088?profile=pass
+#EXTINF:-1 tvg-logo=\"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXZCiWELnS_hJTOtsTrWDZKkhkmthiH2BfLA&s\" tvg-id=\"ba2e480119bb68f8e916185e1f025ed3\" tvg-chno=\"1010\",Bloomberg TV Asia Live Event
+http://59.167.111.2:9981/stream/channelid/21507770?profile=pass
+#EXTINF:-1 tvg-logo=\"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXZCiWELnS_hJTOtsTrWDZKkhkmthiH2BfLA&s\" tvg-id=\"41302f55a141ea73297d09bc49baf273\" tvg-chno=\"1011\",Bloomberg TV Australia
+http://59.167.111.2:9981/stream/channelid/1429155905?profile=pass
+#EXTINF:-1 tvg-logo=\"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXZCiWELnS_hJTOtsTrWDZKkhkmthiH2BfLA&s\" tvg-id=\"6fef47ffaa29c75e3c1a3cccfcd8e836\" tvg-chno=\"1012\",Bloomberg TV Europe
+http://59.167.111.2:9981/stream/channelid/2135420783?profile=pass
+#EXTINF:-1 tvg-logo=\"https://m.media-amazon.com/images/I/41WdJb50GNL.png\" tvg-id=\"d1b9dec5fe10d80739f40ed892dae896\" tvg-chno=\"1013\",CBS News
+http://59.167.111.2:9981/stream/channelid/1172224465?profile=pass
+#EXTINF:-1 tvg-logo=\"https://static-media.streema.com/media/cache/24/5a/245aa09cd2eccfcbaddb39874c66677e.jpg\" tvg-id=\"62c249efb64d1431c7b4004eeeb0770f\" tvg-chno=\"1015\",DW English
+http://59.167.111.2:9981/stream/channelid/1867104866?profile=pass
+#EXTINF:-1 tvg-id=\"50b7ff60b7a779ff4b4215091a9c09c0\" tvg-chno=\"1018\",Gaki no Tsukai (English Subs)
+http://59.167.111.2:9981/stream/channelid/1627371344?profile=pass
+#EXTINF:-1 tvg-logo=\"https://i.imgur.com/o9AYq9V.png\" tvg-id=\"fc0560898779c9de0fb2985a55567e2f\" tvg-chno=\"1019\",The Guardian
+http://59.167.111.2:9981/stream/channelid/157287932?profile=pass
+#EXTINF:-1 tvg-logo=\"https://i.imgur.com/pj0O5nu.png\" tvg-id=\"8f6dd36bfb4f0ecf739c5ca2890ced7b\" tvg-chno=\"1020\",KITV (Hawaii)
+http://59.167.111.2:9981/stream/channelid/1809018255?profile=pass
+#EXTINF:-1 tvg-logo=\"https://i.imgur.com/1JnyzHv.png\" tvg-id=\"92430471cafff5efc3fdc05477e6cc9d\" tvg-chno=\"1022\",LiveNOW from FOX
+http://59.167.111.2:9981/stream/channelid/1896104850?profile=pass
+#EXTINF:-1 tvg-logo=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png\" tvg-id=\"91c94eb83fb45ddfdc50863ea095064b\" tvg-chno=\"1023\",NHK World Japan
+http://59.167.111.2:9981/stream/channelid/944687505?profile=pass
+#EXTINF:-1 tvg-logo=\"https://i.imgur.com/lbdQtOq.png\" tvg-id=\"add228613309b806b3deb90ea1d6f58b\" tvg-chno=\"1024\",NTV News24
+http://59.167.111.2:9981/stream/channelid/1630065325?profile=pass
+#EXTINF:-1 tvg-logo=\"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqi0moZakuUFsSG2QkGeAU4bj9jq3VEplq3w&s\" tvg-id=\"66dd2bb513a32ff65990460bb9615915\" tvg-chno=\"1025\",New Orleans TV
+http://59.167.111.2:9981/stream/channelid/892067174?profile=pass
+#EXTINF:-1 tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek//2010/12/orf-eins-logo-700x514.jpg" group-title="A: AUSTRIA",AT: ORF 1 HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=25077&extension=ts
+#EXTINF:-1 tvg-logo="https://www.designtagebuch.de/wp-content/uploads/mediathek//2010/12/orf-eins-logo-700x514.jpg" group-title="A: AUSTRIA",AT: ORF 1 UHD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=25082&extension=ts
+#EXTINF:-1 tvg-logo="http://osnew.freesrv.org:8000/logo/chn/282.png" group-title="A: AUSTRIA",AT: ORF 2 HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=25083&extension=ts
+#EXTINF:-1 tvg-logo="http://osnew.freesrv.org:8000/logo/chn/42342.png" group-title="A: AUSTRIA",AT: ORF 2 UHD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=25080&extension=ts
+#EXTINF:-1 tvg-logo="http://osnew.freesrv.org:8000/logo/chn/5893.png" group-title="A: AUSTRIA",AT: ORF III HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=25086&extension=ts
+#EXTINF:-1 tvg-logo="http://osnew.freesrv.org:8000/logo/chn/42343.png" group-title="A: AUSTRIA",AT: ORF III UHD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=25079&extension=ts
+#EXTINF:-1 tvg-logo="http://osnew.freesrv.org:8000/logo/chn/20669.jpg" group-title="A: AUSTRIA",AT: Puls 4
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=25075&extension=ts
+#EXTINF:-1 tvg-logo="http://osnew.freesrv.org:8000/logo/chn/42353.jpg" group-title="A: AUSTRIA",AT: ATV UHD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=25084&extension=ts
+#EXTINF:-1 tvg-logo="http://osnew.freesrv.org:8000/logo/chn/42352.png" group-title="A: AUSTRIA",AT: ATV 2 UHD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=25087&extension=ts
+#EXTINF:-1 tvg-logo="http://osnew.freesrv.org:8000/logo/chn/42254.jpg" group-title="A: AUSTRIA",AT: SERVUS TV  (AT)
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=25090&extension=ts
+#EXTINF:-1 tvg-logo="http://osnew.freesrv.org:8000/logo/chn/40988.png" group-title="A: AUSTRIA",AT: PULS 24 HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=25073&extension=ts
+#EXTINF:-1 tvg-logo="http://osnew.freesrv.org:8000/logo/chn/42352.png" group-title="A: AUSTRIA",AT: SCHAUT TV AUSTRIA
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=25089&extension=ts
+#EXTINF:-1 tvg-logo="http://osnew.freesrv.org:8000/logo/chn/40988.png" group-title="A: AUSTRIA",AT: OE24 TV
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=25074&extension=ts
+#EXTINF:-1 tvg-logo="http://osnew.freesrv.org:8000/logo/chn/6306.jpg" group-title="A: AUSTRIA",AT: AUSTRIA 24
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=25081&extension=ts
+#EXTINF:-1 tvg-logo="http://osnew.freesrv.org:8000/logo/chn/40988.png" group-title="A: AUSTRIA",AT: KRONE.TV
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=75639&extension=ts
+#EXTINF:-1 tvg-logo="http://osnew.freesrv.org:8000/logo/chn/40988.png" group-title="A: AUSTRIA",AT: KURIER TV
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=75641&extension=ts
+#EXTINF:-1 tvg-logo="http://osnew.freesrv.org:8000/logo/chn/40988.png" group-title="A: AUSTRIA",AT: R9 OESTERREICH HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=75640&extension=ts
+#EXTINF:-1 tvg-logo="http://osnew.freesrv.org:8000/logo/chn/6306.jpg" group-title="A: AUSTRIA",AT: RTS Salzburg TV
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=25072&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AZ: AZARBAYCAN",****AZARBAYCAN****
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=2574&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AZ: AZARBAYCAN",AZ: ATV Azad TV
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=2575&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AZ: AZARBAYCAN",AZ: AZ TV  HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=2578&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AZ: AZARBAYCAN",AZ: ARB
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=2579&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VoXhDSy.png" group-title="AZ: AZARBAYCAN",AZ: Ictimai
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=2580&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AZ: AZARBAYCAN",AZ: BAKU TV
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=2581&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AZ: AZARBAYCAN",AZ: ARB KAPAZ
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=2582&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VoXhDSy.png" group-title="AZ: AZARBAYCAN",AZ: IDMAN  HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=2583&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VoXhDSy.png" group-title="AZ: AZARBAYCAN",AZ: CBC
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=2584&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AZ: AZARBAYCAN",AZ: Xezer TV
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=2585&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AZ: AZARBAYCAN",AZ: ARB 24  HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=2586&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VoXhDSy.png" group-title="AZ: AZARBAYCAN",AZ: AZ NEWS
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=2587&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AZ: AZARBAYCAN",AZ: Medeniyyet TV
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=2588&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AZ: AZARBAYCAN",AZ: INTER AZARBEYCAN
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=2589&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AZ: AZARBAYCAN",AZ: Qebele TV
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=2590&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AZ: AZARBAYCAN",AZ: GUNAZ TV
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=2591&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AZ: AZARBAYCAN",AZ: AZ STAR
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=2592&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AZ: AZARBAYCAN",AZ: DUNYA TV
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=2593&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AZ: AZARBAYCAN",AZ:  EL TV
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=2594&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AZ: AZARBAYCAN",AZ: QAFQAZ TV
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=2595&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VoXhDSy.png" group-title="AZ: AZARBAYCAN",AZ: CBC SPORT
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=2596&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AZ: AZARBAYCAN",AZ: SPACE TV
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=2597&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AZ: AZARBAYCAN",AZ: TURAN TV
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=2598&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AZ: AZARBAYCAN",AZ: REAL TV
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=2599&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AZ: AZARBAYCAN",AZ: ID TV
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=2600&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AZ: AZARBAYCAN",AZ: MUZ TV
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=2601&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AZ: AZARBAYCAN",AZ: NAXCIVAN TV
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=2602&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AZ: AZARBAYCAN",AZ: MUGAN TV
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=2603&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AZ: AZARBAYCAN",AZ: APA TV HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=2604&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AZ: AZARBAYCAN",AZ: SES TV
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=2605&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AZ: AZARBAYCAN",AZ: F HD
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=2606&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AZ: AZARBAYCAN",TM: ALTYN ASYR
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=2607&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AZ: AZARBAYCAN",TM: ASKABAT
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=2608&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AZ: AZARBAYCAN",TM: MIRAS
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=2609&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AZ: AZARBAYCAN",TM: TURKMEN OWAZY
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=2610&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AZ: AZARBAYCAN",TM: TURKMENISTAN
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=2611&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AZ: AZARBAYCAN",TM: YASLYK
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=2612&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AZ: AZARBAYCAN",TM: Tkmen Sport
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=2613&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AZ: AZARBAYCAN",AZ: ARB Gunes
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=2614&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AZ: AZARBAYCAN",KZ: ATR
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=2615&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AZ: AZARBAYCAN",KZ: ABC TV
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=2616&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AZ: AZARBAYCAN",KZ: Aqjaiyq
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=2617&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AZ: AZARBAYCAN",KZ: Atameken Business
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=2618&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AZ: AZARBAYCAN",KZ: LALE
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=2619&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AZ: AZARBAYCAN",KZ: Atameken TV
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=2620&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AZ: AZARBAYCAN",KZ:  Atyray TV
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=2621&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AZ: AZARBAYCAN",KZ: JAMBYL
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=2622&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AZ: AZARBAYCAN",KZ: kanal 24
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=2623&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AZ: AZARBAYCAN",KZ: HTK
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=2624&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AZ: AZARBAYCAN",KZ:  Muzzone TV
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=2625&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AZ: AZARBAYCAN",KZ: Kokse TV
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=2626&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AZ: AZARBAYCAN",KZ: KTK TV
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=2627&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AZ: AZARBAYCAN",KZ: Kazakh_TV
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=2628&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AZ: AZARBAYCAN",KZ:  Qazaqstan TV
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=2629&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AZ: AZARBAYCAN",KZ:  Balapan TV
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=2630&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AZ: AZARBAYCAN",KZ: ONTUSTIK
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=2631&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AZ: AZARBAYCAN",KZ: Qostanai TV
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=2632&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="AZ: AZARBAYCAN",KZ: RIKA TV
+http://line.klasstv.eu:80/play/live.php?mac=00:1A:79:01:71:46&stream=2633&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BE - WALLONIE",(BE) LA UNE HD
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=169007&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BE - WALLONIE",(BE) TIPIK HD
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=169010&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BE - BELGIUM",(BE) Rtl Tvi 4K
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=167872&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BE - WALLONIE",(BE) CLUB RTL FHD
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=169011&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BE - WALLONIE",(BE) PLUG RTL HD
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=169012&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BE - WALLONIE",(BE) TF1 HD
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=169059&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BE - WALLONIE",(BE) FRANCE 2 HD
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=169060&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BE - WALLONIE",(BE) FRANCE 3 HD
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=169061&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BE - WALLONIE",(BE) LA TROIS HD
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=169009&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BE - WALLONIE",(BE) AB 1 HD
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=169018&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BE - WALLONIE",(BE) AB 3 HD
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=169019&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BE - WALLONIE",(BE) CANAL Z HD
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=169039&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BE - WALLONIE",(BE) FRANCE 4 HD
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=169062&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BE - WALLONIE",(BE) FRANCE 5 HD
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=169063&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BE - WALLONIE",(BE) LN24
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=169021&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BE - WALLONIE",(BE) LA DEUX
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=169008&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BE - WALLONIE",(BE) ARTE BELGIQUE HD
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=169058&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BE - WALLONIE",(BE) PLANET AVENTURE
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=169057&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BE - WALLONIE",(BE) TFX
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=169056&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BE - WALLONIE",(BE) TMC
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=169055&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BE - WALLONIE",(BE) C8
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=169054&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BE - WALLONIE",(BE) CNBC EUROPE
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=169053&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BE - WALLONIE",(BE) CNN
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=169052&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BE - WALLONIE",(BE) CARTOONITO
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=169051&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BE - WALLONIE",(BE) SHORTS TV
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=169050&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BE - WALLONIE",(BE) COMEDIE +
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=169049&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BE - WALLONIE",(BE) W SPORT HD
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=169048&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BE - WALLONIE",(BE) SPORT 10 HD
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=169047&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BE - WALLONIE",(BE) HORSE & COUNTRY
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=169046&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BE - WALLONIE",(BE) MEDIASET
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=169045&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BE - WALLONIE",(BE) DOBBIT TV
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=169044&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BE - WALLONIE",(BE) VLAAMS PARLEMENT TV
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=169043&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BE - WALLONIE",(BE) PLATTELANDS TV
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=169042&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BE - WALLONIE",(BE) FOX
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=169041&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BE - WALLONIE",(BE) VRT 1
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=169040&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BE - WALLONIE",(BE) VEDIA HD
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=169038&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BE - WALLONIE",(BE) TVCOM HD
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=169037&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BE - WALLONIE",(BE) TELE SAMBRE HD
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=169036&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BE - WALLONIE",(BE) NOTELE HD
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=169035&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BE - WALLONIE",(BE) ACTV HD
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=169034&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BE - WALLONIE",(BE) TV LUX HD
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=169033&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BE - WALLONIE",(BE) BRUZZ HD
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=169032&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BE - WALLONIE",(BE) FESTIVAL HD
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=169031&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BE - WALLONIE",(BE) Q-MUSIC
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=169030&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BE - WALLONIE",(BE) DELUXE MUSIC HD
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=169029&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BE - WALLONIE",(BE) CLUBLAND HD
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=169028&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BE - WALLONIE",(BE) CONTACT VISION HD
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=169027&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BE - WALLONIE",(BE) TIPIK VISION HD
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=169026&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BE - WALLONIE",(BE) RADIO CONTACT
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=169025&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BE - WALLONIE",(BE) BX1 HD
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=169024&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BE - WALLONIE",(BE) TVL HD
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=169023&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BE - WALLONIE",(BE) MATELE HD
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=169022&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BE - WALLONIE",(BE) ABXPLORE HD
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=169020&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BE - WALLONIE",(BE) RTC LIEGE HD
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=169017&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BE - WALLONIE",(BE) TELE BRUXELLERS
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=169016&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BE - WALLONIE",(BE) NRJ HITS BELGIQUE
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=169015&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BE - WALLONIE",(BE) XITE BELGIE
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=169014&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BE - WALLONIE",(BE) BEL RTL
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=169013&extension=ts
+#EXTINF:-1 tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/belcika_bayrak.gif" group-title="BE - BELGIUM",(BE) Een 4K
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=7925&extension=ts
+#EXTINF:-1 tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/vtmhd.png" group-title="BE - BELGIUM",(BE) Vtm 4K
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=7910&extension=ts
+#EXTINF:-1 tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/vtmhd.png" group-title="BE - BELGIUM",(BE) VTM 2 4K
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=149616&extension=ts
+#EXTINF:-1 tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/vtmhd.png" group-title="BE - BELGIUM",(BE) VTM 3 4K
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=149615&extension=ts
+#EXTINF:-1 tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/vtmhd.png" group-title="BE - BELGIUM",(BE) VTM 4 4K
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=149614&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BE - BELGIUM",(BE) PLAY 4 4K
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=149609&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BE - BELGIUM",(BE) PLAY 5 4K
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=149610&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BE - BELGIUM",(BE) PLAY 6 4K
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=149611&extension=ts
+#EXTINF:-1 tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/belcika_bayrak.gif" group-title="BE - BELGIUM",(BE) Één HD
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=149618&extension=ts
+#EXTINF:-1 tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/canvashd.png" group-title="BE - BELGIUM",(BE) Canvas HD
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=149617&extension=ts
+#EXTINF:-1 tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/ab3.png" group-title="BE - BELGIUM",(BE) Ab3 HD
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=7934&extension=ts
+#EXTINF:-1 tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/canvashd.png" group-title="BE - BELGIUM",(BE) Canvas 4K
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=7929&extension=ts
+#EXTINF:-1 tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/EclipsTV.jpg" group-title="BE - BELGIUM",(BE) Eclips TV
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=52757&extension=ts
+#EXTINF:-1 tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/vier.png" group-title="BE - BELGIUM",(BE) Vier HD
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=7913&extension=ts
+#EXTINF:-1 tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/vijf.png" group-title="BE - BELGIUM",(BE) Vijf HD
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=7912&extension=ts
+#EXTINF:-1 tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/zes.png" group-title="BE - BELGIUM",(BE) Zes HD
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=24640&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BE - BELGIUM",(BE) ATV Antwerpen 4K
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=149612&extension=ts
+#EXTINF:-1 tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/limburg.jfif" group-title="BE - BELGIUM",(BE) TV Limburg
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=91279&extension=ts
+#EXTINF:-1 tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/kadet.png" group-title="BE - BELGIUM",(BE) VTM Kids / Kanal Z
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=7924&extension=ts
+#EXTINF:-1 tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/ketnet.png" group-title="BE - BELGIUM",(BE) Ketnet
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=7923&extension=ts
+#EXTINF:-1 tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/q2.png" group-title="BE - BELGIUM",(BE) Vtm 2 HD
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=7917&extension=ts
+#EXTINF:-1 tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/vitaya.png" group-title="BE - BELGIUM",(BE) Vtm 3 HD
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=7911&extension=ts
+#EXTINF:-1 tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/caz.png" group-title="BE - BELGIUM",(BE) Vtm 4 HD
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=7928&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BE - BELGIUM",(BE) PLAY 4
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=149607&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BE - BELGIUM",(BE) PLAY 5
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=149606&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BE - BELGIUM",(BE) PLAY 6
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=149605&extension=ts
+#EXTINF:-1 tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/voosport1.png" group-title="BE - SPORT",(BE) Voo Sport 1 4K
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=7920&extension=ts
+#EXTINF:-1 tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/voosport2.png" group-title="BE - SPORT",(BE) Voo Sport 2 4K
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=7919&extension=ts
+#EXTINF:-1 tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/vooportsworld1.png" group-title="BE - SPORT",(BE) Voo Sport World 2 4K
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=7918&extension=ts
+#EXTINF:-1 tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/VooSportWorld2.png" group-title="BE - SPORT",(BE) Voo Sport World 1 4K
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=7907&extension=ts
+#EXTINF:-1 tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/elevensports.png" group-title="BE - SPORT",(BE) Eleven Sports 1 4K
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=15490&extension=ts
+#EXTINF:-1 tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/elevensports.png" group-title="BE - SPORT",(BE) Eleven Sports 2 4K
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=15491&extension=ts
+#EXTINF:-1 tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/elevensports.png" group-title="BE - SPORT",(BE) Eleven Sports 3 4K
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=15492&extension=ts
+#EXTINF:-1 tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/elevensports.png" group-title="BE - SPORT",(BE) Eleven Pro League 1 4K
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=96237&extension=ts
+#EXTINF:-1 tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/elevensports.png" group-title="BE - SPORT",(BE) Eleven Pro League 2 4K
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=96238&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="BE - SPORT",(BE) Extreme Sport HD
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=151555&extension=ts
+#EXTINF:-1 tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/playsports1.png" group-title="BE - SPORT",(BE) Play Sports 1 4K
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=45472&extension=ts
+#EXTINF:-1 tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/playsports2.png" group-title="BE - SPORT",(BE) Play Sports 2 4K
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=45473&extension=ts
+#EXTINF:-1 tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/playsports3.png" group-title="BE - SPORT",(BE) Play Sports 3 4K
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=96326&extension=ts
+#EXTINF:-1 tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/playsports4.png" group-title="BE - SPORT",(BE) Play Sports 4 4K
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=96327&extension=ts
+#EXTINF:-1 tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/playsports5.png" group-title="BE - SPORT",(BE) Play Sports 5 4K
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=96328&extension=ts
+#EXTINF:-1 tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/belcika_bayrak.gif" group-title="BE - SPORT",(BE) Pickx+ Sports 1 4K
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=149595&extension=ts
+#EXTINF:-1 tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/belcika_bayrak.gif" group-title="BE - SPORT",(BE) Pickx+ Sports 2 4K
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=149596&extension=ts
+#EXTINF:-1 tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/belcika_bayrak.gif" group-title="BE - SPORT",(BE) Pickx+ Sports 3 4K
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=149604&extension=ts
+#EXTINF:-1 tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/belcika_bayrak.gif" group-title="BE - SPORT",(BE) Pickx+ Sports 4 4K
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=149603&extension=ts
+#EXTINF:-1 tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/belcika_bayrak.gif" group-title="BE - SPORT",(BE) Pickx+ Sports 5 4K
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=149602&extension=ts
+#EXTINF:-1 tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/belcika_bayrak.gif" group-title="BE - SPORT",(BE) Pickx+ Sports 6 4K
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=149601&extension=ts
+#EXTINF:-1 tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/belcika_bayrak.gif" group-title="BE - SPORT",(BE) Pickx+ Sports 7 4K
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=149600&extension=ts
+#EXTINF:-1 tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/belcika_bayrak.gif" group-title="BE - SPORT",(BE) Pickx+ Sports 8 4K
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=149599&extension=ts
+#EXTINF:-1 tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/belcika_bayrak.gif" group-title="BE - SPORT",(BE) Pickx+ Sports 9 4K
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=149598&extension=ts
+#EXTINF:-1 tvg-logo="http://109.104.153.235:443/DarkTVLogo/Logolar/belcika_bayrak.gif" group-title="BE - SPORT",(BE) Pickx+ Sports 10 4K
+http://93.119.105.62:80/play/live.php?mac=00:1A:79:54:B5:EB&stream=149597&extension=ts
