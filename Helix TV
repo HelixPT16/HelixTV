@@ -1,4 +1,4 @@
-PT: RTP 1" tvg-logo="http://pycon.oirza.com:2095/piconpt/1_0_1_32B_24_36_FFFF0000_0_0_0.png" group-title="Portugal",PT: RTP 1
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="PT: RTP 1 HD" tvg-logo="http://pycon.oirza.com:2095/piconpt/1_0_1_64C_42_36_FFFF0000_0_0_0.png" group-title="Portugal",PT: PT: RTP 1" tvg-logo="http://pycon.oirza.com:2095/piconpt/1_0_1_32B_24_36_FFFF0000_0_0_0.png" group-title="Portugal",PT: RTP 1
 http://dv.sdmabm.com:8080/xhwjrmot/Yqu9z47P4m/1202
 #EXTINF:-1 tvg-id="rtp1.pt" tvg-name="PT: RTP 1 HD" tvg-logo="http://pycon.oirza.com:2095/piconpt/1_0_1_64C_42_36_FFFF0000_0_0_0.png" group-title="Portugal",PT: RTP 1 HD
 http://dv.sdmabm.com:8080/xhwjrmot/Yqu9z47P4m/1203
